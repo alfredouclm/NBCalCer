@@ -1,0 +1,255 @@
+country_origname;country_code;crop;variable;units;year;campaign;data;source;comments
+andorra;AD;;perc_urea;percentage;2010;;0,293570395;Urea_Synthetic_Rate_IFA.xlsx;Value from  (ES) assigned
+unitedarabemirates;AE;;perc_urea;percentage;2010;;0,937207123;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSWESTASIA) assigned
+afghanistan;AF;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+antiguaandbarbuda;AG;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+anguilla;AI;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+albania;AL;;perc_urea;percentage;2010;;0,707964602;Urea_Synthetic_Rate_IFA.xlsx;
+armenia;AM;;perc_urea;percentage;2010;;1;Urea_Synthetic_Rate_IFA.xlsx;
+angola;AO;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+antarctica;AQ;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+argentina;AR;;perc_urea;percentage;2010;;0,531574228;Urea_Synthetic_Rate_IFA.xlsx;
+americansamoa;AS;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+austria;AT;;perc_urea;percentage;2010;;0,111111111;Urea_Synthetic_Rate_IFA.xlsx;
+australia;AU;;perc_urea;percentage;2010;;0,528513238;Urea_Synthetic_Rate_IFA.xlsx;
+aruba;AW;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+��landislands;AX;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+azerbaijanrepublicof;AZ;;perc_urea;percentage;2010;;0,012048193;Urea_Synthetic_Rate_IFA.xlsx;
+bosniaherzegovina;BA;;perc_urea;percentage;2010;;0,388489209;Urea_Synthetic_Rate_IFA.xlsx;
+barbados;BB;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+bangladesh;BD;;perc_urea;percentage;2010;;0,959269436;Urea_Synthetic_Rate_IFA.xlsx;
+belgium;BE;;perc_urea;percentage;2010;;0,052083333;Urea_Synthetic_Rate_IFA.xlsx;
+belgiumluxembourg;BE_LU;;perc_urea;percentage;2010;;0,052083333;Urea_Synthetic_Rate_IFA.xlsx;Value from  (BE) assigned
+burkinafaso;BF;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+bulgaria;BG;;perc_urea;percentage;2010;;0,064171123;Urea_Synthetic_Rate_IFA.xlsx;
+bahrain;BH;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+burundi;BI;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+benin;BJ;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+saintbarthelemy;BL;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+bermuda;BM;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+brunei;BN;;perc_urea;percentage;2010;;0,272727273;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSEASTASIA) assigned
+bolivia;BO;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+bonaire;BQ;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+brazil;BR;;perc_urea;percentage;2010;;0,534325744;Urea_Synthetic_Rate_IFA.xlsx;
+bahamas;BS;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+bhutan;BT;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+bouvetisland;BV;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+botswana;BW;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+belarus;BY;;perc_urea;percentage;2010;;0,447761194;Urea_Synthetic_Rate_IFA.xlsx;
+belize;BZ;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+canada;CA;;perc_urea;percentage;2010;;0,475728643;Urea_Synthetic_Rate_IFA.xlsx;
+cocos(keeling)islands;CC;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+democraticrepublicofthecongo;CD;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+centralafricanrep.;CF;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+congorepublicof;CG;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+switzerland;CH;;perc_urea;percentage;2010;;0,07751938;Urea_Synthetic_Rate_IFA.xlsx;
+coted'ivoire;CI;;perc_urea;percentage;2010;;0,596551724;Urea_Synthetic_Rate_IFA.xlsx;
+cookisl.;CK;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+chile;CL;;perc_urea;percentage;2010;;0,718812877;Urea_Synthetic_Rate_IFA.xlsx;
+cameroon;CM;;perc_urea;percentage;2010;;0,315789474;Urea_Synthetic_Rate_IFA.xlsx;
+china;CN;;perc_urea;percentage;2010;;0,402794673;Urea_Synthetic_Rate_IFA.xlsx;
+colombia;CO;;perc_urea;percentage;2010;;0,519300194;Urea_Synthetic_Rate_IFA.xlsx;
+costarica;CR;;perc_urea;percentage;2010;;0,552238806;Urea_Synthetic_Rate_IFA.xlsx;
+czechoslovakia;CS;;perc_urea;percentage;2010;;0,203389831;Urea_Synthetic_Rate_IFA.xlsx;Value from  (CZ) assigned
+cuba;CU;;perc_urea;percentage;2010;;0,713461538;Urea_Synthetic_Rate_IFA.xlsx;
+capeverde;CV;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+curacao;CW;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+christmasisds;CX;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+cyprus;CY;;perc_urea;percentage;2010;;0,119047619;Urea_Synthetic_Rate_IFA.xlsx;
+czechia;CZ;;perc_urea;percentage;2010;;0,203389831;Urea_Synthetic_Rate_IFA.xlsx;
+germany;DE;;perc_urea;percentage;2010;;0,211254199;Urea_Synthetic_Rate_IFA.xlsx;
+djibouti;DJ;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+denmark;DK;;perc_urea;percentage;2010;;0,005050505;Urea_Synthetic_Rate_IFA.xlsx;
+dominica;DM;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+dominicanrep.;DO;;perc_urea;percentage;2010;;0,500813008;Urea_Synthetic_Rate_IFA.xlsx;
+algeria;DZ;;perc_urea;percentage;2010;;0,572379368;Urea_Synthetic_Rate_IFA.xlsx;
+ecuador;EC;;perc_urea;percentage;2010;;0,779210926;Urea_Synthetic_Rate_IFA.xlsx;
+estonia;EE;;perc_urea;percentage;2010;;0,02688172;Urea_Synthetic_Rate_IFA.xlsx;
+egyptarabrep.;EG;;perc_urea;percentage;2010;;0,649434711;Urea_Synthetic_Rate_IFA.xlsx;
+westernsahara;EH;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+eritrea;ER;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+spain;ES;;perc_urea;percentage;2010;;0,293570395;Urea_Synthetic_Rate_IFA.xlsx;
+ethiopiapdr;ET;;perc_urea;percentage;2010;;0,571428571;Urea_Synthetic_Rate_IFA.xlsx;
+finland;FI;;perc_urea;percentage;2010;;0,012578616;Urea_Synthetic_Rate_IFA.xlsx;
+fiji;FJ;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+falklandsisl.;FK;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+micronesia(federatedstatesof);FM;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+faeroeisds;FO;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+france;FR;;perc_urea;percentage;2010;;0,168306666;Urea_Synthetic_Rate_IFA.xlsx;
+gabon;GA;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+unitedkingdom;GB;;perc_urea;percentage;2010;;0,056918548;Urea_Synthetic_Rate_IFA.xlsx;
+grenada;GD;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+georgia;GE;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+frenchguyana;GF;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+guernsey;GG;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+ghana;GH;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+gibraltar;GI;;perc_urea;percentage;2010;;0,293570395;Urea_Synthetic_Rate_IFA.xlsx;Value from  (ES) assigned
+greenland;GL;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+gambia;GM;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+guinea;GN;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+guadeloupe;GP;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+equatorialguinea;GQ;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+greece;GR;;perc_urea;percentage;2010;;0,020304569;Urea_Synthetic_Rate_IFA.xlsx;
+southgeorgiaandthesouthsandwichislands;GS;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+guatemala;GT;;perc_urea;percentage;2010;;0,570652174;Urea_Synthetic_Rate_IFA.xlsx;
+guam;GU;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+guineabissau;GW;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+guyana;GY;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+hongkongchina;HK;;perc_urea;percentage;2010;;0,272727273;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSEASTASIA) assigned
+heardislandandmcdonaldislands;HM;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+honduras;HN;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+croatia;HR;;perc_urea;percentage;2010;;0,402489627;Urea_Synthetic_Rate_IFA.xlsx;
+haiti;HT;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+hungary;HU;;perc_urea;percentage;2010;;0,115964438;Urea_Synthetic_Rate_IFA.xlsx;
+indonesia;ID;;perc_urea;percentage;2010;;0,799697855;Urea_Synthetic_Rate_IFA.xlsx;
+ireland;IE;;perc_urea;percentage;2010;;0,142655367;Urea_Synthetic_Rate_IFA.xlsx;
+israelincl.palestine;IL;;perc_urea;percentage;2010;;0,477326969;Urea_Synthetic_Rate_IFA.xlsx;
+isleofman;IM;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+india;IN;;perc_urea;percentage;2010;;0,780990687;Urea_Synthetic_Rate_IFA.xlsx;
+britishindianoceanterritory;IO;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+iraq;IQ;;perc_urea;percentage;2010;;1;Urea_Synthetic_Rate_IFA.xlsx;
+iran;IR;;perc_urea;percentage;2010;;0,884761905;Urea_Synthetic_Rate_IFA.xlsx;
+iceland;IS;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+italy;IT;;perc_urea;percentage;2010;;0,596153846;Urea_Synthetic_Rate_IFA.xlsx;
+jersey;JE;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+jamaica;JM;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+jordan;JO;;perc_urea;percentage;2010;;0,284313725;Urea_Synthetic_Rate_IFA.xlsx;
+japan;JP;;perc_urea;percentage;2010;;0,019753086;Urea_Synthetic_Rate_IFA.xlsx;
+kenya;KE;;perc_urea;percentage;2010;;0,333953488;Urea_Synthetic_Rate_IFA.xlsx;
+kyrgyzrepublic;KG;;perc_urea;percentage;2010;;0,723404255;Urea_Synthetic_Rate_IFA.xlsx;
+cambodia;KH;;perc_urea;percentage;2010;;0,937207123;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSWESTASIA) assigned
+kiribati;KI;;perc_urea;percentage;2010;;0,937207123;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSWESTASIA) assigned
+comoros;KM;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+st.kittsandnevis;KN;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+koreadem.rep.;KP;;perc_urea;percentage;2010;;0,331674959;Urea_Synthetic_Rate_IFA.xlsx;
+republicofkorea;KR;;perc_urea;percentage;2010;;0,303571429;Urea_Synthetic_Rate_IFA.xlsx;
+kuwait;KW;;perc_urea;percentage;2010;;1;Urea_Synthetic_Rate_IFA.xlsx;
+caymanisds;KY;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+kazakhstan;KZ;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+laopdr;LA;;perc_urea;percentage;2010;;0,272727273;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSEASTASIA) assigned
+lebanon;LB;;perc_urea;percentage;2010;;0,038461538;Urea_Synthetic_Rate_IFA.xlsx;
+st.lucia;LC;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+liechtenstein;LI;;perc_urea;percentage;2010;;0,211254199;Urea_Synthetic_Rate_IFA.xlsx;Value from  (DE) assigned
+srilanka;LK;;perc_urea;percentage;2010;;0,944476245;Urea_Synthetic_Rate_IFA.xlsx;
+liberia;LR;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+lesotho;LS;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+lithuania;LT;;perc_urea;percentage;2010;;0,069832402;Urea_Synthetic_Rate_IFA.xlsx;
+luxemburg;LU;;perc_urea;percentage;2010;;0,052083333;Urea_Synthetic_Rate_IFA.xlsx;
+latvia;LV;;perc_urea;percentage;2010;;0,0975;Urea_Synthetic_Rate_IFA.xlsx;
+libyanarabjamahiriya;LY;;perc_urea;percentage;2010;;0,9375;Urea_Synthetic_Rate_IFA.xlsx;
+morocco;MA;;perc_urea;percentage;2010;;0,097560976;Urea_Synthetic_Rate_IFA.xlsx;
+monaco;MC;;perc_urea;percentage;2010;;0,168306666;Urea_Synthetic_Rate_IFA.xlsx;Value from  (FR) assigned
+republicofmoldova;MD;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+montenegro;ME;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+saintmartin(frenchpart);MF;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+madagascar;MG;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+marshallislands;MH;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+northmacedonia;MK;;perc_urea;percentage;2010;;0,116959064;Urea_Synthetic_Rate_IFA.xlsx;
+mali;ML;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+myanmar;MM;;perc_urea;percentage;2010;;0,720858896;Urea_Synthetic_Rate_IFA.xlsx;
+mongolia;MN;;perc_urea;percentage;2010;;0,272727273;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSEASTASIA) assigned
+macaochina;MO;;perc_urea;percentage;2010;;0,272727273;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSEASTASIA) assigned
+n.marianaisds;MP;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+martinique;MQ;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+mauritania;MR;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+montserrat;MS;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+malta;MT;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+mauritius;MU;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+maldives;MV;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+malawi;MW;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+mexico;MX;;perc_urea;percentage;2010;;0,583340482;Urea_Synthetic_Rate_IFA.xlsx;
+malaysia;MY;;perc_urea;percentage;2010;;0,36900369;Urea_Synthetic_Rate_IFA.xlsx;
+mozambique;MZ;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+namibia;NA;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+newcaledonia;NC;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+niger;NE;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+norfolkisds;NF;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+nigeria;NG;;perc_urea;percentage;2010;;0,548108956;Urea_Synthetic_Rate_IFA.xlsx;
+nicaragua;NI;;perc_urea;percentage;2010;;0,977911647;Urea_Synthetic_Rate_IFA.xlsx;
+netherlandsantilles;NL;;perc_urea;percentage;2010;;0,017021277;Urea_Synthetic_Rate_IFA.xlsx;
+norway;NO;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+nepal;NP;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+nauru;NR;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+niue;NU;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+newzealand;NZ;;perc_urea;percentage;2010;;0,846509101;Urea_Synthetic_Rate_IFA.xlsx;
+oman;OM;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+panama;PA;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+peru;PE;;perc_urea;percentage;2010;;0,628084343;Urea_Synthetic_Rate_IFA.xlsx;
+frenchpolynesia;PF;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+papuanewguinea;PG;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+philippines;PH;;perc_urea;percentage;2010;;0,64665127;Urea_Synthetic_Rate_IFA.xlsx;
+pakistan;PK;;perc_urea;percentage;2010;;0,855124574;Urea_Synthetic_Rate_IFA.xlsx;
+poland;PL;;perc_urea;percentage;2010;;0,290825688;Urea_Synthetic_Rate_IFA.xlsx;
+st.pierreandmiquelon;PM;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+pitcairn;PN;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+puertorico;PR;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+palestine;PS;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+portugal;PT;;perc_urea;percentage;2010;;0,137362637;Urea_Synthetic_Rate_IFA.xlsx;
+palau;PW;;perc_urea;percentage;2010;;0,937207123;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSWESTASIA) assigned
+paraguay;PY;;perc_urea;percentage;2010;;0,197727273;Urea_Synthetic_Rate_IFA.xlsx;
+qatar;QA;;perc_urea;percentage;2010;;1;Urea_Synthetic_Rate_IFA.xlsx;
+reunion;RE;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+romania;RO;;perc_urea;percentage;2010;;0,286096257;Urea_Synthetic_Rate_IFA.xlsx;
+serbiaandmontenegro;RS;;perc_urea;percentage;2010;;0,606060606;Urea_Synthetic_Rate_IFA.xlsx;
+russia;RU;;perc_urea;percentage;2010;;0,060675521;Urea_Synthetic_Rate_IFA.xlsx;
+rwanda;RW;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+saudiarabia;SA;;perc_urea;percentage;2010;;0,765100671;Urea_Synthetic_Rate_IFA.xlsx;
+solomonisds;SB;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+seychelles;SC;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+sudan(former);SD;;perc_urea;percentage;2010;;0,962643678;Urea_Synthetic_Rate_IFA.xlsx;
+sweden;SE;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+singapore;SG;;perc_urea;percentage;2010;;0,272727273;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSEASTASIA) assigned
+st.helena;SH;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+slovenia;SI;;perc_urea;percentage;2010;;0,56122449;Urea_Synthetic_Rate_IFA.xlsx;
+svalbardandjanmayen;SJ;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+slovakrepublic;SK;;perc_urea;percentage;2010;;0,21875;Urea_Synthetic_Rate_IFA.xlsx;
+sierraleone;SL;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+sanmarino;SM;;perc_urea;percentage;2010;;0,596153846;Urea_Synthetic_Rate_IFA.xlsx;Value from  (IT) assigned
+senegal;SN;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+somalia;SO;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+suriname;SR;;perc_urea;percentage;2010;;0,434189406;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSLATINAMERICA) assigned
+southsudan;SS;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+saotomeandprincipe;ST;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+formerussr;SU;;perc_urea;percentage;2010;;0,060675521;Urea_Synthetic_Rate_IFA.xlsx;Value from  (RU) assigned
+elsalvador;SV;;perc_urea;percentage;2010;;0,368869936;Urea_Synthetic_Rate_IFA.xlsx;
+sintmaarten(dutchpart);SX;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+syria;SY;;perc_urea;percentage;2010;;0,839459459;Urea_Synthetic_Rate_IFA.xlsx;
+eswatini;SZ;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+turksandcaicosisl.;TC;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+chad;TD;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+frenchsouthernterritories;TF;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+togo;TG;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+thailand;TH;;perc_urea;percentage;2010;;0,734742142;Urea_Synthetic_Rate_IFA.xlsx;
+tajikistan;TJ;;perc_urea;percentage;2010;;0,090909091;Urea_Synthetic_Rate_IFA.xlsx;
+tokelau;TK;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+timorleste;TL;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+turkmenistan;TM;;perc_urea;percentage;2010;;0,588235294;Urea_Synthetic_Rate_IFA.xlsx;
+tunisia;TN;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+tonga;TO;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+turkey;TR;;perc_urea;percentage;2010;;0,301108878;Urea_Synthetic_Rate_IFA.xlsx;
+trinidadandtobago;TT;;perc_urea;percentage;2010;;0,980392157;Urea_Synthetic_Rate_IFA.xlsx;
+tuvalu;TV;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+china,taiwanprovinceof;TW;;perc_urea;percentage;2010;;0,633373206;Urea_Synthetic_Rate_IFA.xlsx;
+tanzania;TZ;;perc_urea;percentage;2010;;0,631178707;Urea_Synthetic_Rate_IFA.xlsx;
+ukraine;UA;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;
+uganda;UG;;perc_urea;percentage;2010;;0,379701493;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSAFRICA) assigned
+unitedstatesminoroutlyingislands;UM;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+unitedstatesofamerica;US;;perc_urea;percentage;2010;;0,216358524;Urea_Synthetic_Rate_IFA.xlsx;
+uruguay;UY;;perc_urea;percentage;2010;;0,634920635;Urea_Synthetic_Rate_IFA.xlsx;
+uzbekistan;UZ;;perc_urea;percentage;2010;;0,097285933;Urea_Synthetic_Rate_IFA.xlsx;
+vaticancitystate;VA;;perc_urea;percentage;2010;;0,596153846;Urea_Synthetic_Rate_IFA.xlsx;Value from  (IT) assigned
+st.vincentandthegrenadines;VC;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+venezuelarb;VE;;perc_urea;percentage;2010;;0,754285714;Urea_Synthetic_Rate_IFA.xlsx;
+virginisl.br.);VG;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+virginislands,u.s.;VI;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+vietnam;VN;;perc_urea;percentage;2010;;0,52;Urea_Synthetic_Rate_IFA.xlsx;
+vanuatu;VU;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+wallisansfutunaisland;WF;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+samoa;WS;;perc_urea;percentage;2010;;0,091503268;Urea_Synthetic_Rate_IFA.xlsx;Value from  (OTHERSOCEANIA) assigned
+kosovo;XK;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+yemenrep.;YE;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+mayotte;YT;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+yugoslavsfr;YU;;perc_urea;percentage;2010;;0,475600188;Urea_Synthetic_Rate_IFA.xlsx;Value from  (WORLD) assigned
+southafrica;ZA;;perc_urea;percentage;2010;;0,417721519;Urea_Synthetic_Rate_IFA.xlsx;
+zambia;ZM;;perc_urea;percentage;2010;;0,619195046;Urea_Synthetic_Rate_IFA.xlsx;
+zimbabwe;ZW;;perc_urea;percentage;2010;;0;Urea_Synthetic_Rate_IFA.xlsx;

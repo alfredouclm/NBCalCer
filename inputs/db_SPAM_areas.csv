@@ -1,0 +1,1179 @@
+country_origname;country_code;crop;variable;units;year;campaign;data;source;comments
+Afghanistan;AF;barley;area_irrigated;ha;NA;NA;98109,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Afghanistan;AF;maize;area_irrigated;ha;NA;NA;142902,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Afghanistan;AF;rice;area_irrigated;ha;NA;NA;206001,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Afghanistan;AF;wheat;area_irrigated;ha;NA;NA;1398073,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Afghanistan;AF;barley;area_rainfed;ha;NA;NA;124847,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Afghanistan;AF;maize;area_rainfed;ha;NA;NA;25745,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Afghanistan;AF;wheat;area_rainfed;ha;NA;NA;988901,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Angola;AO;maize;area_irrigated;ha;NA;NA;16592,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Angola;AO;maize;area_rainfed;ha;NA;NA;1539297,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Angola;AO;rice;area_rainfed;ha;NA;NA;24527,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Angola;AO;wheat;area_rainfed;ha;NA;NA;3808,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Albania;AL;maize;area_irrigated;ha;NA;NA;32256,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Albania;AL;wheat;area_irrigated;ha;NA;NA;2937,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Albania;AL;barley;area_rainfed;ha;NA;NA;2346,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Albania;AL;maize;area_rainfed;ha;NA;NA;22075,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Albania;AL;wheat;area_rainfed;ha;NA;NA;72370,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United Arab Emirates;AE;wheat;area_irrigated;ha;NA;NA;3,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+United Arab Emirates;AE;barley;area_rainfed;ha;NA;NA;13,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+United Arab Emirates;AE;maize;area_rainfed;ha;NA;NA;212,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+United Arab Emirates;AE;wheat;area_rainfed;ha;NA;NA;4,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Argentina;AR;barley;area_irrigated;ha;NA;NA;810,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Argentina;AR;maize;area_irrigated;ha;NA;NA;154723,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Argentina;AR;rice;area_irrigated;ha;NA;NA;162803,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Argentina;AR;wheat;area_irrigated;ha;NA;NA;72369,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Argentina;AR;barley;area_rainfed;ha;NA;NA;789291,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Argentina;AR;maize;area_rainfed;ha;NA;NA;2847038,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Argentina;AR;rice;area_rainfed;ha;NA;NA;59497,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Argentina;AR;wheat;area_rainfed;ha;NA;NA;4008547,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Armenia;AM;barley;area_irrigated;ha;NA;NA;5417,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Armenia;AM;maize;area_irrigated;ha;NA;NA;2637,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Armenia;AM;wheat;area_irrigated;ha;NA;NA;21202,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Armenia;AM;barley;area_rainfed;ha;NA;NA;59694,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Armenia;AM;maize;area_rainfed;ha;NA;NA;326,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Armenia;AM;wheat;area_rainfed;ha;NA;NA;63096,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Antigua & Barbuda;AG;maize;area_rainfed;ha;NA;NA;42;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Australia;AU;maize;area_irrigated;ha;NA;NA;42077,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Australia;AU;rice;area_irrigated;ha;NA;NA;33550,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Australia;AU;wheat;area_irrigated;ha;NA;NA;100227,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Australia;AU;barley;area_rainfed;ha;NA;NA;4071695,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Australia;AU;maize;area_rainfed;ha;NA;NA;19825,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Australia;AU;rice;area_rainfed;ha;NA;NA;666,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Australia;AU;wheat;area_rainfed;ha;NA;NA;13498708,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Austria;AT;maize;area_irrigated;ha;NA;NA;8652,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Austria;AT;wheat;area_irrigated;ha;NA;NA;2198,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Austria;AT;barley;area_rainfed;ha;NA;NA;167902,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Austria;AT;maize;area_rainfed;ha;NA;NA;190248;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Austria;AT;wheat;area_rainfed;ha;NA;NA;303206,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Azerbaijan;AZ;barley;area_irrigated;ha;NA;NA;214279,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Azerbaijan;AZ;maize;area_irrigated;ha;NA;NA;27867,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Azerbaijan;AZ;rice;area_irrigated;ha;NA;NA;1708,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Azerbaijan;AZ;wheat;area_irrigated;ha;NA;NA;628887,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Azerbaijan;AZ;barley;area_rainfed;ha;NA;NA;51179,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Azerbaijan;AZ;maize;area_rainfed;ha;NA;NA;3755,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Azerbaijan;AZ;wheat;area_rainfed;ha;NA;NA;77258,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Burundi;BI;rice;area_irrigated;ha;NA;NA;29127,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Burundi;BI;maize;area_rainfed;ha;NA;NA;118419,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Burundi;BI;wheat;area_rainfed;ha;NA;NA;12046,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Belgium;BE;barley;area_irrigated;ha;NA;NA;1199,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Belgium;BE;maize;area_irrigated;ha;NA;NA;55873,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Belgium;BE;wheat;area_irrigated;ha;NA;NA;5284,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Belgium;BE;barley;area_rainfed;ha;NA;NA;45099,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Belgium;BE;maize;area_rainfed;ha;NA;NA;11201,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Belgium;BE;wheat;area_rainfed;ha;NA;NA;198754,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Benin;BJ;rice;area_irrigated;ha;NA;NA;20642,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Benin;BJ;maize;area_rainfed;ha;NA;NA;866935,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Benin;BJ;rice;area_rainfed;ha;NA;NA;27298,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Burkina Faso;BF;maize;area_irrigated;ha;NA;NA;4222,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Burkina Faso;BF;rice;area_irrigated;ha;NA;NA;9164,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Burkina Faso;BF;maize;area_rainfed;ha;NA;NA;688010,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Burkina Faso;BF;rice;area_rainfed;ha;NA;NA;111577,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bangladesh;BD;maize;area_irrigated;ha;NA;NA;33581,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bangladesh;BD;rice;area_irrigated;ha;NA;NA;5366250,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bangladesh;BD;wheat;area_irrigated;ha;NA;NA;307991,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bangladesh;BD;barley;area_rainfed;ha;NA;NA;571,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bangladesh;BD;maize;area_rainfed;ha;NA;NA;114962,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bangladesh;BD;rice;area_rainfed;ha;NA;NA;6103941,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bangladesh;BD;wheat;area_rainfed;ha;NA;NA;73559,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bulgaria;BG;maize;area_irrigated;ha;NA;NA;26697,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bulgaria;BG;rice;area_irrigated;ha;NA;NA;10004;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bulgaria;BG;barley;area_rainfed;ha;NA;NA;227607,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bulgaria;BG;maize;area_rainfed;ha;NA;NA;307012,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bulgaria;BG;wheat;area_rainfed;ha;NA;NA;1174330,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bahamas;BS;maize;area_rainfed;ha;NA;NA;95;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bosnia & Herzegovina;BA;barley;area_rainfed;ha;NA;NA;20618,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bosnia & Herzegovina;BA;maize;area_rainfed;ha;NA;NA;191136,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bosnia & Herzegovina;BA;wheat;area_rainfed;ha;NA;NA;60264,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Belarus;BY;barley;area_rainfed;ha;NA;NA;651240,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Belarus;BY;maize;area_rainfed;ha;NA;NA;130475;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Belarus;BY;wheat;area_rainfed;ha;NA;NA;601953,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Belize;BZ;maize;area_rainfed;ha;NA;NA;18207,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Belize;BZ;rice;area_rainfed;ha;NA;NA;4577,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bolivia;BO;barley;area_irrigated;ha;NA;NA;4744,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bolivia;BO;maize;area_irrigated;ha;NA;NA;44017,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bolivia;BO;rice;area_irrigated;ha;NA;NA;16834,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bolivia;BO;wheat;area_irrigated;ha;NA;NA;8110,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bolivia;BO;barley;area_rainfed;ha;NA;NA;52323,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bolivia;BO;maize;area_rainfed;ha;NA;NA;340223,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bolivia;BO;rice;area_rainfed;ha;NA;NA;169602,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Bolivia;BO;wheat;area_rainfed;ha;NA;NA;164571,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Brazil;BR;barley;area_irrigated;ha;NA;NA;2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Brazil;BR;maize;area_irrigated;ha;NA;NA;101364,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Brazil;BR;rice;area_irrigated;ha;NA;NA;974446,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Brazil;BR;wheat;area_irrigated;ha;NA;NA;963,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Brazil;BR;barley;area_rainfed;ha;NA;NA;83260,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Brazil;BR;maize;area_rainfed;ha;NA;NA;13082710,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Brazil;BR;rice;area_rainfed;ha;NA;NA;1807983;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Brazil;BR;wheat;area_rainfed;ha;NA;NA;2249258,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Barbados;BB;maize;area_rainfed;ha;NA;NA;91;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Brunei;BN;rice;area_irrigated;ha;NA;NA;1435,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Brunei;BN;rice;area_rainfed;ha;NA;NA;292,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bhutan;BT;rice;area_irrigated;ha;NA;NA;23615,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bhutan;BT;barley;area_rainfed;ha;NA;NA;1548,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bhutan;BT;maize;area_rainfed;ha;NA;NA;27300,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Bhutan;BT;wheat;area_rainfed;ha;NA;NA;2572;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Botswana;BW;maize;area_irrigated;ha;NA;NA;1530,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Botswana;BW;maize;area_rainfed;ha;NA;NA;81642,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Central African Republic;CF;rice;area_irrigated;ha;NA;NA;6219,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Central African Republic;CF;maize;area_rainfed;ha;NA;NA;121970,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Central African Republic;CF;rice;area_rainfed;ha;NA;NA;16388,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Canada;CA;barley;area_irrigated;ha;NA;NA;164000,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Canada;CA;maize;area_irrigated;ha;NA;NA;188,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Canada;CA;wheat;area_irrigated;ha;NA;NA;368989,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Canada;CA;barley;area_rainfed;ha;NA;NA;2392526,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Canada;CA;maize;area_rainfed;ha;NA;NA;1182007,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Canada;CA;wheat;area_rainfed;ha;NA;NA;8459930,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Switzerland;CH;maize;area_irrigated;ha;NA;NA;2060,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Switzerland;CH;barley;area_rainfed;ha;NA;NA;29392,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Switzerland;CH;maize;area_rainfed;ha;NA;NA;14328,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Switzerland;CH;wheat;area_rainfed;ha;NA;NA;90116,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Chile;CL;barley;area_irrigated;ha;NA;NA;1530,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chile;CL;maize;area_irrigated;ha;NA;NA;99339,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Chile;CL;rice;area_irrigated;ha;NA;NA;20312,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chile;CL;wheat;area_irrigated;ha;NA;NA;34095,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chile;CL;barley;area_rainfed;ha;NA;NA;16982,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chile;CL;maize;area_rainfed;ha;NA;NA;24187,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chile;CL;rice;area_rainfed;ha;NA;NA;4130,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chile;CL;wheat;area_rainfed;ha;NA;NA;238023,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;barley;area_irrigated;ha;NA;NA;211480,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;maize;area_irrigated;ha;NA;NA;13763326,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;rice;area_irrigated;ha;NA;NA;29877414,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;wheat;area_irrigated;ha;NA;NA;15038195,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;barley;area_rainfed;ha;NA;NA;384482;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;maize;area_rainfed;ha;NA;NA;18664017,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;rice;area_rainfed;ha;NA;NA;225904,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+China;CN;wheat;area_rainfed;ha;NA;NA;9235712,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Côte d’Ivoire;CI;rice;area_irrigated;ha;NA;NA;3878,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Côte d’Ivoire;CI;maize;area_rainfed;ha;NA;NA;323691,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Côte d’Ivoire;CI;rice;area_rainfed;ha;NA;NA;380079,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cameroon;CM;maize;area_irrigated;ha;NA;NA;15154;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cameroon;CM;rice;area_irrigated;ha;NA;NA;61448;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cameroon;CM;maize;area_rainfed;ha;NA;NA;799584,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cameroon;CM;rice;area_rainfed;ha;NA;NA;44645,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cameroon;CM;wheat;area_rainfed;ha;NA;NA;642,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Congo - Kinshasa;CD;rice;area_irrigated;ha;NA;NA;16901,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Congo - Kinshasa;CD;barley;area_rainfed;ha;NA;NA;1203,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Congo - Kinshasa;CD;maize;area_rainfed;ha;NA;NA;1484998,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Congo - Kinshasa;CD;rice;area_rainfed;ha;NA;NA;403494;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Congo - Kinshasa;CD;wheat;area_rainfed;ha;NA;NA;6855,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Congo - Brazzaville;CG;maize;area_rainfed;ha;NA;NA;12784,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Congo - Brazzaville;CG;rice;area_rainfed;ha;NA;NA;2245,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Colombia;CO;rice;area_irrigated;ha;NA;NA;266988,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Colombia;CO;barley;area_rainfed;ha;NA;NA;5619,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Colombia;CO;maize;area_rainfed;ha;NA;NA;568323,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Colombia;CO;rice;area_rainfed;ha;NA;NA;239071,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Colombia;CO;wheat;area_rainfed;ha;NA;NA;10308,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cape Verde;CV;maize;area_rainfed;ha;NA;NA;31775,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Costa Rica;CR;maize;area_irrigated;ha;NA;NA;54,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Costa Rica;CR;rice;area_irrigated;ha;NA;NA;70285,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Costa Rica;CR;maize;area_rainfed;ha;NA;NA;9701,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cuba;CU;maize;area_irrigated;ha;NA;NA;25532,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cuba;CU;rice;area_irrigated;ha;NA;NA;86891,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cuba;CU;maize;area_rainfed;ha;NA;NA;165439;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cuba;CU;rice;area_rainfed;ha;NA;NA;113181,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cyprus;CY;barley;area_irrigated;ha;NA;NA;1586,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cyprus;CY;wheat;area_irrigated;ha;NA;NA;999,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cyprus;CY;barley;area_rainfed;ha;NA;NA;23283,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Cyprus;CY;wheat;area_rainfed;ha;NA;NA;6097;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Czechia;CZ;barley;area_rainfed;ha;NA;NA;405509,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Czechia;CZ;maize;area_rainfed;ha;NA;NA;109855,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Czechia;CZ;wheat;area_rainfed;ha;NA;NA;842674,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Germany;DE;barley;area_irrigated;ha;NA;NA;25989,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Germany;DE;maize;area_irrigated;ha;NA;NA;70648,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Germany;DE;barley;area_rainfed;ha;NA;NA;1683739,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Germany;DE;maize;area_rainfed;ha;NA;NA;401286,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Germany;DE;wheat;area_rainfed;ha;NA;NA;3257309,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Djibouti;DJ;maize;area_rainfed;ha;NA;NA;7,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Dominica;DM;maize;area_rainfed;ha;NA;NA;116;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Denmark;DK;barley;area_irrigated;ha;NA;NA;65585,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Denmark;DK;wheat;area_irrigated;ha;NA;NA;70715;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Denmark;DK;barley;area_rainfed;ha;NA;NA;524748,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Denmark;DK;maize;area_rainfed;ha;NA;NA;6700,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Denmark;DK;wheat;area_rainfed;ha;NA;NA;679186,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Dominican Republic;DO;maize;area_irrigated;ha;NA;NA;7461,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Dominican Republic;DO;rice;area_irrigated;ha;NA;NA;181004,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Dominican Republic;DO;maize;area_rainfed;ha;NA;NA;15204,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Algeria;DZ;barley;area_irrigated;ha;NA;NA;31218,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Algeria;DZ;maize;area_irrigated;ha;NA;NA;3,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Algeria;DZ;wheat;area_irrigated;ha;NA;NA;52768,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Algeria;DZ;barley;area_rainfed;ha;NA;NA;1009428,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Algeria;DZ;maize;area_rainfed;ha;NA;NA;178,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Algeria;DZ;rice;area_rainfed;ha;NA;NA;215,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Algeria;DZ;wheat;area_rainfed;ha;NA;NA;1706139,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ecuador;EC;maize;area_irrigated;ha;NA;NA;71333,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ecuador;EC;rice;area_irrigated;ha;NA;NA;148761,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ecuador;EC;barley;area_rainfed;ha;NA;NA;30144,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ecuador;EC;maize;area_rainfed;ha;NA;NA;390964,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ecuador;EC;rice;area_rainfed;ha;NA;NA;223872,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ecuador;EC;wheat;area_rainfed;ha;NA;NA;9360,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Egypt;EG;barley;area_irrigated;ha;NA;NA;83415,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Egypt;EG;maize;area_irrigated;ha;NA;NA;945694,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Egypt;EG;rice;area_irrigated;ha;NA;NA;542183;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Egypt;EG;wheat;area_irrigated;ha;NA;NA;1301314,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Egypt;EG;maize;area_rainfed;ha;NA;NA;946,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Egypt;EG;rice;area_rainfed;ha;NA;NA;542,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Egypt;EG;wheat;area_rainfed;ha;NA;NA;1302,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Eritrea;ER;barley;area_rainfed;ha;NA;NA;50850,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Eritrea;ER;maize;area_rainfed;ha;NA;NA;19862,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Eritrea;ER;wheat;area_rainfed;ha;NA;NA;24698,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Western Sahara;EH;barley;area_irrigated;ha;NA;NA;65,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Western Sahara;EH;barley;area_rainfed;ha;NA;NA;3221,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Spain;ES;barley;area_irrigated;ha;NA;NA;293631,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Spain;ES;maize;area_irrigated;ha;NA;NA;344403,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Spain;ES;rice;area_irrigated;ha;NA;NA;119651,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Spain;ES;wheat;area_irrigated;ha;NA;NA;59627,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Spain;ES;barley;area_rainfed;ha;NA;NA;2576698,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Spain;ES;rice;area_rainfed;ha;NA;NA;1621,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Spain;ES;wheat;area_rainfed;ha;NA;NA;1845523,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Estonia;EE;barley;area_rainfed;ha;NA;NA;121025,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Estonia;EE;wheat;area_rainfed;ha;NA;NA;120740,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ethiopia;ET;barley;area_irrigated;ha;NA;NA;8031,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ethiopia;ET;maize;area_irrigated;ha;NA;NA;36640,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ethiopia;ET;rice;area_irrigated;ha;NA;NA;266,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ethiopia;ET;wheat;area_irrigated;ha;NA;NA;7396,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ethiopia;ET;barley;area_rainfed;ha;NA;NA;1033237,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ethiopia;ET;maize;area_rainfed;ha;NA;NA;1893468,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ethiopia;ET;rice;area_rainfed;ha;NA;NA;35818,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ethiopia;ET;wheat;area_rainfed;ha;NA;NA;1550696,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Finland;FI;barley;area_rainfed;ha;NA;NA;470383,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Finland;FI;wheat;area_rainfed;ha;NA;NA;227318,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Fiji;FJ;maize;area_irrigated;ha;NA;NA;0,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Fiji;FJ;maize;area_rainfed;ha;NA;NA;409,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Fiji;FJ;rice;area_rainfed;ha;NA;NA;3423,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+France;FR;maize;area_irrigated;ha;NA;NA;788108,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+France;FR;wheat;area_irrigated;ha;NA;NA;68747,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+France;FR;barley;area_rainfed;ha;NA;NA;1670295;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+France;FR;maize;area_rainfed;ha;NA;NA;831175,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+France;FR;rice;area_rainfed;ha;NA;NA;22388,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+France;FR;wheat;area_rainfed;ha;NA;NA;5565851,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Micronesia (Federated States of);FM;maize;area_rainfed;ha;NA;NA;54,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Micronesia (Federated States of);FM;rice;area_rainfed;ha;NA;NA;91,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Gabon;GA;rice;area_irrigated;ha;NA;NA;560;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Gabon;GA;maize;area_rainfed;ha;NA;NA;25179,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+United Kingdom;GB;barley;area_rainfed;ha;NA;NA;1011309,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United Kingdom;GB;wheat;area_rainfed;ha;NA;NA;1894324,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Georgia;GE;barley;area_irrigated;ha;NA;NA;8640,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Georgia;GE;maize;area_irrigated;ha;NA;NA;14509,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Georgia;GE;wheat;area_irrigated;ha;NA;NA;31236,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Georgia;GE;barley;area_rainfed;ha;NA;NA;9325,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Georgia;GE;maize;area_rainfed;ha;NA;NA;99289;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Georgia;GE;wheat;area_rainfed;ha;NA;NA;16930,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ghana;GH;rice;area_irrigated;ha;NA;NA;31391,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ghana;GH;maize;area_rainfed;ha;NA;NA;989752,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ghana;GH;rice;area_rainfed;ha;NA;NA;148962,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guinea;GN;rice;area_irrigated;ha;NA;NA;114289,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guinea;GN;maize;area_rainfed;ha;NA;NA;357769,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guinea;GN;rice;area_rainfed;ha;NA;NA;1181524;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Gambia;GM;rice;area_irrigated;ha;NA;NA;411,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Gambia;GM;maize;area_rainfed;ha;NA;NA;41685,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Gambia;GM;rice;area_rainfed;ha;NA;NA;66647,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guinea-Bissau;GW;rice;area_irrigated;ha;NA;NA;2532,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guinea-Bissau;GW;maize;area_rainfed;ha;NA;NA;15315,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guinea-Bissau;GW;rice;area_rainfed;ha;NA;NA;91951,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Greece;GR;maize;area_irrigated;ha;NA;NA;201862;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Greece;GR;rice;area_irrigated;ha;NA;NA;31798,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Greece;GR;wheat;area_irrigated;ha;NA;NA;29889,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Greece;GR;barley;area_rainfed;ha;NA;NA;117722,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Greece;GR;wheat;area_rainfed;ha;NA;NA;602052,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Grenada;GD;maize;area_rainfed;ha;NA;NA;342;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guatemala;GT;maize;area_irrigated;ha;NA;NA;77565,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guatemala;GT;barley;area_rainfed;ha;NA;NA;1101,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guatemala;GT;maize;area_rainfed;ha;NA;NA;760976,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guatemala;GT;rice;area_rainfed;ha;NA;NA;9115,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guatemala;GT;wheat;area_rainfed;ha;NA;NA;682;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+French Guiana;GF;maize;area_rainfed;ha;NA;NA;297,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+French Guiana;GF;rice;area_rainfed;ha;NA;NA;2534;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guam;GU;maize;area_rainfed;ha;NA;NA;18;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guyana;GY;rice;area_irrigated;ha;NA;NA;69421,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Guyana;GY;maize;area_rainfed;ha;NA;NA;3359,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Guyana;GY;rice;area_rainfed;ha;NA;NA;62782,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Honduras;HN;maize;area_irrigated;ha;NA;NA;35925,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Honduras;HN;rice;area_irrigated;ha;NA;NA;5063,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Honduras;HN;maize;area_rainfed;ha;NA;NA;296114,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Honduras;HN;rice;area_rainfed;ha;NA;NA;3260,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Honduras;HN;wheat;area_rainfed;ha;NA;NA;2076;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Croatia;HR;maize;area_irrigated;ha;NA;NA;1614,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Croatia;HR;barley;area_rainfed;ha;NA;NA;53476,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Croatia;HR;maize;area_rainfed;ha;NA;NA;297983,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Croatia;HR;wheat;area_rainfed;ha;NA;NA;166226,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Haiti;HT;maize;area_irrigated;ha;NA;NA;24784,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Haiti;HT;rice;area_irrigated;ha;NA;NA;59529,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Haiti;HT;maize;area_rainfed;ha;NA;NA;390367,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Hungary;HU;maize;area_irrigated;ha;NA;NA;11853,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Hungary;HU;barley;area_rainfed;ha;NA;NA;287645;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Hungary;HU;maize;area_rainfed;ha;NA;NA;1150194,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Hungary;HU;rice;area_rainfed;ha;NA;NA;2500,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Hungary;HU;wheat;area_rainfed;ha;NA;NA;1045214,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Indonesia;ID;maize;area_irrigated;ha;NA;NA;396622,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Indonesia;ID;rice;area_irrigated;ha;NA;NA;6662570,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Indonesia;ID;maize;area_rainfed;ha;NA;NA;3655710,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Indonesia;ID;rice;area_rainfed;ha;NA;NA;6450975,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;barley;area_irrigated;ha;NA;NA;568959,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;maize;area_irrigated;ha;NA;NA;1249747,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;rice;area_irrigated;ha;NA;NA;22774836,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;wheat;area_irrigated;ha;NA;NA;22204476,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;barley;area_rainfed;ha;NA;NA;109336;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;maize;area_rainfed;ha;NA;NA;7282317,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;rice;area_rainfed;ha;NA;NA;20155315,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+India;IN;wheat;area_rainfed;ha;NA;NA;6238432;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ireland;IE;barley;area_rainfed;ha;NA;NA;183002,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ireland;IE;wheat;area_rainfed;ha;NA;NA;85499,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iran;IR;barley;area_irrigated;ha;NA;NA;651302;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iran;IR;maize;area_irrigated;ha;NA;NA;243246,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iran;IR;rice;area_irrigated;ha;NA;NA;543018,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iran;IR;wheat;area_irrigated;ha;NA;NA;2546945,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iran;IR;barley;area_rainfed;ha;NA;NA;964657,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iran;IR;maize;area_rainfed;ha;NA;NA;371,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Iran;IR;wheat;area_rainfed;ha;NA;NA;4139505,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iraq;IQ;barley;area_irrigated;ha;NA;NA;251170,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iraq;IQ;maize;area_irrigated;ha;NA;NA;76924,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iraq;IQ;rice;area_irrigated;ha;NA;NA;25222,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Iraq;IQ;wheat;area_irrigated;ha;NA;NA;638227,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iraq;IQ;barley;area_rainfed;ha;NA;NA;453770,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Iraq;IQ;maize;area_rainfed;ha;NA;NA;41694,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Iraq;IQ;rice;area_rainfed;ha;NA;NA;30985;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Iraq;IQ;wheat;area_rainfed;ha;NA;NA;603940,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Israel;IL;barley;area_rainfed;ha;NA;NA;5639,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Israel;IL;maize;area_rainfed;ha;NA;NA;3010;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Israel;IL;wheat;area_rainfed;ha;NA;NA;63060,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Italy;IT;maize;area_irrigated;ha;NA;NA;403331,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Italy;IT;rice;area_irrigated;ha;NA;NA;189256;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Italy;IT;wheat;area_irrigated;ha;NA;NA;35271,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Italy;IT;barley;area_rainfed;ha;NA;NA;283362,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Italy;IT;maize;area_rainfed;ha;NA;NA;542498;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Italy;IT;rice;area_rainfed;ha;NA;NA;54979,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Italy;IT;wheat;area_rainfed;ha;NA;NA;1759983,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Jamaica;JM;maize;area_rainfed;ha;NA;NA;2009,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Jamaica;JM;rice;area_rainfed;ha;NA;NA;48,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Jordan;JO;barley;area_irrigated;ha;NA;NA;468,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Jordan;JO;wheat;area_irrigated;ha;NA;NA;1140,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Jordan;JO;barley;area_rainfed;ha;NA;NA;25716,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Jordan;JO;maize;area_rainfed;ha;NA;NA;1111,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Jordan;JO;wheat;area_rainfed;ha;NA;NA;16083,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Japan;JP;barley;area_irrigated;ha;NA;NA;47130,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Japan;JP;rice;area_irrigated;ha;NA;NA;1360772;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Japan;JP;wheat;area_irrigated;ha;NA;NA;104891,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Japan;JP;barley;area_rainfed;ha;NA;NA;11795,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Japan;JP;maize;area_rainfed;ha;NA;NA;65,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Japan;JP;rice;area_rainfed;ha;NA;NA;248655,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Japan;JP;wheat;area_rainfed;ha;NA;NA;104010,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kazakhstan;KZ;barley;area_irrigated;ha;NA;NA;69576,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kazakhstan;KZ;maize;area_irrigated;ha;NA;NA;74459,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kazakhstan;KZ;rice;area_irrigated;ha;NA;NA;81835,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kazakhstan;KZ;wheat;area_irrigated;ha;NA;NA;190679,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kazakhstan;KZ;barley;area_rainfed;ha;NA;NA;1449494,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kazakhstan;KZ;maize;area_rainfed;ha;NA;NA;22676,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kazakhstan;KZ;rice;area_rainfed;ha;NA;NA;9494,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kazakhstan;KZ;wheat;area_rainfed;ha;NA;NA;13527231,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kenya;KE;maize;area_irrigated;ha;NA;NA;4455,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kenya;KE;rice;area_irrigated;ha;NA;NA;23348,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kenya;KE;barley;area_rainfed;ha;NA;NA;19217;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kenya;KE;maize;area_rainfed;ha;NA;NA;2003743,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kenya;KE;wheat;area_rainfed;ha;NA;NA;141047,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kyrgyzstan;KG;barley;area_irrigated;ha;NA;NA;97362,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kyrgyzstan;KG;maize;area_irrigated;ha;NA;NA;59986,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kyrgyzstan;KG;rice;area_irrigated;ha;NA;NA;4875,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kyrgyzstan;KG;wheat;area_irrigated;ha;NA;NA;314237,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Kyrgyzstan;KG;barley;area_rainfed;ha;NA;NA;25335;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kyrgyzstan;KG;maize;area_rainfed;ha;NA;NA;15259,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kyrgyzstan;KG;rice;area_rainfed;ha;NA;NA;1420,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kyrgyzstan;KG;wheat;area_rainfed;ha;NA;NA;69156,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cambodia;KH;rice;area_irrigated;ha;NA;NA;446527,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cambodia;KH;maize;area_rainfed;ha;NA;NA;203173,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Cambodia;KH;rice;area_rainfed;ha;NA;NA;2360014,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Korea;KR;maize;area_irrigated;ha;NA;NA;4971,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+South Korea;KR;rice;area_irrigated;ha;NA;NA;874885,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Korea;KR;barley;area_rainfed;ha;NA;NA;38732,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+South Korea;KR;maize;area_rainfed;ha;NA;NA;10604,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+South Korea;KR;rice;area_rainfed;ha;NA;NA;15238,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+South Korea;KR;wheat;area_rainfed;ha;NA;NA;10218,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kuwait;KW;barley;area_irrigated;ha;NA;NA;363,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kuwait;KW;maize;area_irrigated;ha;NA;NA;304,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kuwait;KW;wheat;area_irrigated;ha;NA;NA;37,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kuwait;KW;barley;area_rainfed;ha;NA;NA;584,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kuwait;KW;maize;area_rainfed;ha;NA;NA;489,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Kuwait;KW;wheat;area_rainfed;ha;NA;NA;22,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Laos;LA;rice;area_irrigated;ha;NA;NA;344081,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Laos;LA;maize;area_rainfed;ha;NA;NA;210817,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Laos;LA;rice;area_rainfed;ha;NA;NA;486226,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Lebanon;LB;barley;area_irrigated;ha;NA;NA;4799,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lebanon;LB;maize;area_irrigated;ha;NA;NA;1233,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lebanon;LB;wheat;area_irrigated;ha;NA;NA;12422,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lebanon;LB;barley;area_rainfed;ha;NA;NA;9104,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lebanon;LB;wheat;area_rainfed;ha;NA;NA;25427,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Liberia;LR;rice;area_rainfed;ha;NA;NA;247825,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Libya;LY;barley;area_irrigated;ha;NA;NA;56695,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Libya;LY;wheat;area_irrigated;ha;NA;NA;85083;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Libya;LY;barley;area_rainfed;ha;NA;NA;136697,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Libya;LY;maize;area_rainfed;ha;NA;NA;1348,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Libya;LY;wheat;area_rainfed;ha;NA;NA;88244;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Sri Lanka;LK;maize;area_irrigated;ha;NA;NA;1325,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sri Lanka;LK;rice;area_irrigated;ha;NA;NA;850694,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Sri Lanka;LK;maize;area_rainfed;ha;NA;NA;51682,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Sri Lanka;LK;rice;area_rainfed;ha;NA;NA;180576,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Lesotho;LS;barley;area_rainfed;ha;NA;NA;2268,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lesotho;LS;maize;area_rainfed;ha;NA;NA;131464;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Lesotho;LS;wheat;area_rainfed;ha;NA;NA;18398,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lithuania;LT;barley;area_irrigated;ha;NA;NA;507,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lithuania;LT;wheat;area_irrigated;ha;NA;NA;1047,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lithuania;LT;barley;area_rainfed;ha;NA;NA;253457,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Lithuania;LT;maize;area_rainfed;ha;NA;NA;7400,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Lithuania;LT;wheat;area_rainfed;ha;NA;NA;521854,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Luxembourg;LU;barley;area_rainfed;ha;NA;NA;8524,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Luxembourg;LU;maize;area_rainfed;ha;NA;NA;360,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Luxembourg;LU;wheat;area_rainfed;ha;NA;NA;13916,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Latvia;LV;barley;area_rainfed;ha;NA;NA;100331,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Latvia;LV;wheat;area_rainfed;ha;NA;NA;297465,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Morocco;MA;barley;area_irrigated;ha;NA;NA;61074,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Morocco;MA;maize;area_irrigated;ha;NA;NA;37609,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Morocco;MA;rice;area_irrigated;ha;NA;NA;5912,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Morocco;MA;wheat;area_irrigated;ha;NA;NA;246732,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Morocco;MA;barley;area_rainfed;ha;NA;NA;1981649,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Morocco;MA;maize;area_rainfed;ha;NA;NA;177553,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Morocco;MA;wheat;area_rainfed;ha;NA;NA;2725931,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Moldova;MD;barley;area_rainfed;ha;NA;NA;127735,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Moldova;MD;maize;area_rainfed;ha;NA;NA;419019,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Moldova;MD;wheat;area_rainfed;ha;NA;NA;325896,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Madagascar;MG;rice;area_irrigated;ha;NA;NA;1054991,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Madagascar;MG;maize;area_rainfed;ha;NA;NA;267773,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Madagascar;MG;rice;area_rainfed;ha;NA;NA;190888,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Madagascar;MG;wheat;area_rainfed;ha;NA;NA;3900,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Maldives;MV;maize;area_rainfed;ha;NA;NA;22,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mexico;MX;barley;area_irrigated;ha;NA;NA;53354,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mexico;MX;maize;area_irrigated;ha;NA;NA;1405100,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mexico;MX;rice;area_irrigated;ha;NA;NA;25664,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mexico;MX;wheat;area_irrigated;ha;NA;NA;610270;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mexico;MX;barley;area_rainfed;ha;NA;NA;188331;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mexico;MX;maize;area_rainfed;ha;NA;NA;5074952,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mexico;MX;rice;area_rainfed;ha;NA;NA;17674,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mexico;MX;wheat;area_rainfed;ha;NA;NA;112792;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+North Macedonia;MK;barley;area_irrigated;ha;NA;NA;1943,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;maize;area_irrigated;ha;NA;NA;1367,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;rice;area_irrigated;ha;NA;NA;172,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;wheat;area_irrigated;ha;NA;NA;3587,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;barley;area_rainfed;ha;NA;NA;42229,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;maize;area_rainfed;ha;NA;NA;29713,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;rice;area_rainfed;ha;NA;NA;3742,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Macedonia;MK;wheat;area_rainfed;ha;NA;NA;77933,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mali;ML;rice;area_irrigated;ha;NA;NA;413351,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mali;ML;wheat;area_irrigated;ha;NA;NA;8153,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mali;ML;maize;area_rainfed;ha;NA;NA;624009,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mali;ML;rice;area_rainfed;ha;NA;NA;240671,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Malta;MT;barley;area_rainfed;ha;NA;NA;515;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Malta;MT;wheat;area_rainfed;ha;NA;NA;2917;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Myanmar (Burma);MM;maize;area_irrigated;ha;NA;NA;45598,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Myanmar (Burma);MM;rice;area_irrigated;ha;NA;NA;1265827,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Myanmar (Burma);MM;wheat;area_irrigated;ha;NA;NA;76428,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Myanmar (Burma);MM;maize;area_rainfed;ha;NA;NA;342166,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Myanmar (Burma);MM;rice;area_rainfed;ha;NA;NA;6613025,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Myanmar (Burma);MM;wheat;area_rainfed;ha;NA;NA;23664,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Montenegro;ME;barley;area_rainfed;ha;NA;NA;759,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Montenegro;ME;maize;area_rainfed;ha;NA;NA;2731,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Montenegro;ME;wheat;area_rainfed;ha;NA;NA;779,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mongolia;MN;wheat;area_irrigated;ha;NA;NA;36809,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mongolia;MN;barley;area_rainfed;ha;NA;NA;3506,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mongolia;MN;wheat;area_rainfed;ha;NA;NA;226679,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mozambique;MZ;maize;area_irrigated;ha;NA;NA;17725,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mozambique;MZ;rice;area_irrigated;ha;NA;NA;28979,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mozambique;MZ;maize;area_rainfed;ha;NA;NA;1703202;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mozambique;MZ;rice;area_rainfed;ha;NA;NA;186822,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Mozambique;MZ;wheat;area_rainfed;ha;NA;NA;12433;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritania;MR;maize;area_irrigated;ha;NA;NA;664,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritania;MR;rice;area_irrigated;ha;NA;NA;23380,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritania;MR;barley;area_rainfed;ha;NA;NA;594,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritania;MR;maize;area_rainfed;ha;NA;NA;20024,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritania;MR;wheat;area_rainfed;ha;NA;NA;1563,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Montserrat;MS;maize;area_rainfed;ha;NA;NA;17;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritius;MU;maize;area_rainfed;ha;NA;NA;35,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Mauritius;MU;rice;area_rainfed;ha;NA;NA;90,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Malawi;MW;rice;area_irrigated;ha;NA;NA;15551,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Malawi;MW;maize;area_rainfed;ha;NA;NA;1660216;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Malawi;MW;rice;area_rainfed;ha;NA;NA;45986;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Malawi;MW;wheat;area_rainfed;ha;NA;NA;1494,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Malaysia;MY;rice;area_irrigated;ha;NA;NA;352133,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Malaysia;MY;maize;area_rainfed;ha;NA;NA;8513,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Malaysia;MY;rice;area_rainfed;ha;NA;NA;327959,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Namibia;NA;maize;area_irrigated;ha;NA;NA;17,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Namibia;NA;wheat;area_irrigated;ha;NA;NA;46,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Namibia;NA;maize;area_rainfed;ha;NA;NA;25635,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Namibia;NA;wheat;area_rainfed;ha;NA;NA;2173,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+New Caledonia;NC;maize;area_rainfed;ha;NA;NA;766,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+New Caledonia;NC;wheat;area_rainfed;ha;NA;NA;7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Niger;NE;maize;area_irrigated;ha;NA;NA;31,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Niger;NE;rice;area_irrigated;ha;NA;NA;57,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Niger;NE;wheat;area_irrigated;ha;NA;NA;1233,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Niger;NE;maize;area_rainfed;ha;NA;NA;7406;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Niger;NE;rice;area_rainfed;ha;NA;NA;14295,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Niger;NE;wheat;area_rainfed;ha;NA;NA;2288,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nigeria;NG;maize;area_irrigated;ha;NA;NA;40165,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nigeria;NG;rice;area_irrigated;ha;NA;NA;21584,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nigeria;NG;wheat;area_irrigated;ha;NA;NA;48242,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nigeria;NG;maize;area_rainfed;ha;NA;NA;4278660,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nigeria;NG;rice;area_rainfed;ha;NA;NA;2158061,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nigeria;NG;wheat;area_rainfed;ha;NA;NA;37472,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nicaragua;NI;maize;area_irrigated;ha;NA;NA;1721,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nicaragua;NI;rice;area_irrigated;ha;NA;NA;57788,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nicaragua;NI;maize;area_rainfed;ha;NA;NA;342683,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nicaragua;NI;rice;area_rainfed;ha;NA;NA;29693,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Netherlands;NL;maize;area_irrigated;ha;NA;NA;1293,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Netherlands;NL;barley;area_rainfed;ha;NA;NA;37220,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Netherlands;NL;maize;area_rainfed;ha;NA;NA;16089,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Netherlands;NL;wheat;area_rainfed;ha;NA;NA;151888,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Norway;NO;barley;area_irrigated;ha;NA;NA;27049,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Norway;NO;barley;area_rainfed;ha;NA;NA;116441,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Norway;NO;wheat;area_rainfed;ha;NA;NA;75857,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nepal;NP;maize;area_irrigated;ha;NA;NA;607998,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nepal;NP;rice;area_irrigated;ha;NA;NA;512763,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nepal;NP;wheat;area_irrigated;ha;NA;NA;703042;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nepal;NP;barley;area_rainfed;ha;NA;NA;26956,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Nepal;NP;maize;area_rainfed;ha;NA;NA;277780;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nepal;NP;rice;area_rainfed;ha;NA;NA;998471,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Nepal;NP;wheat;area_rainfed;ha;NA;NA;28151,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+New Zealand;NZ;wheat;area_irrigated;ha;NA;NA;49444,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+New Zealand;NZ;barley;area_rainfed;ha;NA;NA;64968,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+New Zealand;NZ;maize;area_rainfed;ha;NA;NA;19207,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+New Zealand;NZ;wheat;area_rainfed;ha;NA;NA;4298,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Oman;OM;wheat;area_irrigated;ha;NA;NA;369,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Oman;OM;barley;area_rainfed;ha;NA;NA;722,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Oman;OM;wheat;area_rainfed;ha;NA;NA;238,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Pakistan;PK;barley;area_irrigated;ha;NA;NA;16489,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Pakistan;PK;maize;area_irrigated;ha;NA;NA;843141,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Pakistan;PK;rice;area_irrigated;ha;NA;NA;2422180,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Pakistan;PK;wheat;area_irrigated;ha;NA;NA;6234565,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Pakistan;PK;barley;area_rainfed;ha;NA;NA;65893;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Pakistan;PK;maize;area_rainfed;ha;NA;NA;155743,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Pakistan;PK;rice;area_rainfed;ha;NA;NA;184351,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Pakistan;PK;wheat;area_rainfed;ha;NA;NA;2791542,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Panama;PA;maize;area_irrigated;ha;NA;NA;3007,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Panama;PA;rice;area_irrigated;ha;NA;NA;17393;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Panama;PA;maize;area_rainfed;ha;NA;NA;48494,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Panama;PA;rice;area_rainfed;ha;NA;NA;90906,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Peru;PE;barley;area_irrigated;ha;NA;NA;23932,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Peru;PE;maize;area_irrigated;ha;NA;NA;361691,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Peru;PE;rice;area_irrigated;ha;NA;NA;153661,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Peru;PE;barley;area_rainfed;ha;NA;NA;129002,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Peru;PE;maize;area_rainfed;ha;NA;NA;134218,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Peru;PE;rice;area_rainfed;ha;NA;NA;230622,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Peru;PE;wheat;area_rainfed;ha;NA;NA;152605,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Philippines;PH;maize;area_irrigated;ha;NA;NA;98913,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Philippines;PH;rice;area_irrigated;ha;NA;NA;2630932,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Philippines;PH;maize;area_rainfed;ha;NA;NA;2476939,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Philippines;PH;rice;area_rainfed;ha;NA;NA;1843421,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Papua New Guinea;PG;maize;area_rainfed;ha;NA;NA;2182,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Papua New Guinea;PG;rice;area_rainfed;ha;NA;NA;415,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Poland;PL;maize;area_irrigated;ha;NA;NA;5140,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Poland;PL;barley;area_rainfed;ha;NA;NA;1097938,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Poland;PL;maize;area_rainfed;ha;NA;NA;296937;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Poland;PL;wheat;area_rainfed;ha;NA;NA;2337001,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Puerto Rico;PR;maize;area_rainfed;ha;NA;NA;314,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Korea;KP;rice;area_irrigated;ha;NA;NA;496355,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+North Korea;KP;wheat;area_irrigated;ha;NA;NA;70232,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+North Korea;KP;barley;area_rainfed;ha;NA;NA;29034,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+North Korea;KP;maize;area_rainfed;ha;NA;NA;503012,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+North Korea;KP;rice;area_rainfed;ha;NA;NA;73645,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Portugal;PT;maize;area_irrigated;ha;NA;NA;81075,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Portugal;PT;rice;area_irrigated;ha;NA;NA;28192,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Portugal;PT;wheat;area_irrigated;ha;NA;NA;6050,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Portugal;PT;barley;area_rainfed;ha;NA;NA;26472,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Portugal;PT;maize;area_rainfed;ha;NA;NA;13947,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Portugal;PT;rice;area_rainfed;ha;NA;NA;1485,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Portugal;PT;wheat;area_rainfed;ha;NA;NA;51680;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Paraguay;PY;rice;area_irrigated;ha;NA;NA;62692,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Paraguay;PY;maize;area_rainfed;ha;NA;NA;807222,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Paraguay;PY;wheat;area_rainfed;ha;NA;NA;551068,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Qatar;QA;barley;area_irrigated;ha;NA;NA;83,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Qatar;QA;maize;area_irrigated;ha;NA;NA;31,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Qatar;QA;wheat;area_irrigated;ha;NA;NA;9,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Qatar;QA;barley;area_rainfed;ha;NA;NA;134,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Qatar;QA;maize;area_rainfed;ha;NA;NA;51;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Qatar;QA;wheat;area_rainfed;ha;NA;NA;5,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Romania;RO;maize;area_irrigated;ha;NA;NA;161106,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Romania;RO;barley;area_rainfed;ha;NA;NA;481502,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Romania;RO;maize;area_rainfed;ha;NA;NA;2177170,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Romania;RO;rice;area_rainfed;ha;NA;NA;12801,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Romania;RO;wheat;area_rainfed;ha;NA;NA;2079640,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Russia;RU;rice;area_irrigated;ha;NA;NA;195200;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Russia;RU;barley;area_rainfed;ha;NA;NA;6759899,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Russia;RU;maize;area_rainfed;ha;NA;NA;1248878,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Russia;RU;wheat;area_rainfed;ha;NA;NA;24328224,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Rwanda;RW;rice;area_irrigated;ha;NA;NA;8936,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Rwanda;RW;maize;area_rainfed;ha;NA;NA;185066,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Rwanda;RW;rice;area_rainfed;ha;NA;NA;5066,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Rwanda;RW;wheat;area_rainfed;ha;NA;NA;45368,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Saudi Arabia;SA;barley;area_irrigated;ha;NA;NA;2702,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Saudi Arabia;SA;maize;area_irrigated;ha;NA;NA;10106,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Saudi Arabia;SA;wheat;area_irrigated;ha;NA;NA;168209,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Saudi Arabia;SA;maize;area_rainfed;ha;NA;NA;9809,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Saudi Arabia;SA;wheat;area_rainfed;ha;NA;NA;34524,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sudan;SD;wheat;area_irrigated;ha;NA;NA;264849,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Sudan;SD;maize;area_rainfed;ha;NA;NA;31537,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sudan;SD;rice;area_rainfed;ha;NA;NA;6468,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sudan;SD;wheat;area_rainfed;ha;NA;NA;4295,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Senegal;SN;maize;area_irrigated;ha;NA;NA;3361,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Senegal;SN;rice;area_irrigated;ha;NA;NA;129844,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Senegal;SN;maize;area_rainfed;ha;NA;NA;144086,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Senegal;SN;rice;area_rainfed;ha;NA;NA;2078,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Solomon Islands;SB;rice;area_rainfed;ha;NA;NA;1207;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sierra Leone;SL;maize;area_rainfed;ha;NA;NA;34048,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sierra Leone;SL;rice;area_rainfed;ha;NA;NA;550685,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+El Salvador;SV;maize;area_irrigated;ha;NA;NA;3579,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+El Salvador;SV;rice;area_irrigated;ha;NA;NA;2592,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+El Salvador;SV;maize;area_rainfed;ha;NA;NA;257724,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+El Salvador;SV;rice;area_rainfed;ha;NA;NA;2544,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Somalia;SO;maize;area_irrigated;ha;NA;NA;16227,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Somalia;SO;rice;area_irrigated;ha;NA;NA;1316,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Somalia;SO;maize;area_rainfed;ha;NA;NA;53266,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Somalia;SO;wheat;area_rainfed;ha;NA;NA;2548,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Serbia;RS;barley;area_rainfed;ha;NA;NA;87077,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Serbia;RS;maize;area_rainfed;ha;NA;NA;1268708,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Serbia;RS;wheat;area_rainfed;ha;NA;NA;602532,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+São Tomé & Príncipe;ST;maize;area_rainfed;ha;NA;NA;926,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Suriname;SR;rice;area_irrigated;ha;NA;NA;45993,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Suriname;SR;maize;area_rainfed;ha;NA;NA;12,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Suriname;SR;rice;area_rainfed;ha;NA;NA;8998,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Slovakia;SK;maize;area_irrigated;ha;NA;NA;10154,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Slovakia;SK;wheat;area_irrigated;ha;NA;NA;252,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Slovakia;SK;barley;area_rainfed;ha;NA;NA;154875,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Slovakia;SK;maize;area_rainfed;ha;NA;NA;160798,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Slovakia;SK;wheat;area_rainfed;ha;NA;NA;361131,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Slovenia;SI;maize;area_irrigated;ha;NA;NA;208;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Slovenia;SI;barley;area_rainfed;ha;NA;NA;18765,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Slovenia;SI;maize;area_rainfed;ha;NA;NA;38202,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Slovenia;SI;wheat;area_rainfed;ha;NA;NA;32047,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Sweden;SE;barley;area_rainfed;ha;NA;NA;331681,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Sweden;SE;wheat;area_rainfed;ha;NA;NA;396917,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Eswatini;SZ;maize;area_irrigated;ha;NA;NA;511,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Eswatini;SZ;rice;area_irrigated;ha;NA;NA;38,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Eswatini;SZ;maize;area_rainfed;ha;NA;NA;61065,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Eswatini;SZ;wheat;area_rainfed;ha;NA;NA;304,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Syria;SY;barley;area_irrigated;ha;NA;NA;9314,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Syria;SY;maize;area_irrigated;ha;NA;NA;46292,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Syria;SY;wheat;area_irrigated;ha;NA;NA;566956;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Syria;SY;barley;area_rainfed;ha;NA;NA;1360507,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Syria;SY;wheat;area_rainfed;ha;NA;NA;952217;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Chad;TD;maize;area_irrigated;ha;NA;NA;11843,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chad;TD;rice;area_irrigated;ha;NA;NA;17905,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chad;TD;wheat;area_irrigated;ha;NA;NA;2226,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Chad;TD;maize;area_rainfed;ha;NA;NA;228388,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Chad;TD;rice;area_rainfed;ha;NA;NA;110183,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Togo;TG;rice;area_irrigated;ha;NA;NA;3739,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Togo;TG;maize;area_rainfed;ha;NA;NA;525384,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Togo;TG;rice;area_rainfed;ha;NA;NA;42199;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Thailand;TH;rice;area_irrigated;ha;NA;NA;7162219,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Thailand;TH;barley;area_rainfed;ha;NA;NA;21225,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Thailand;TH;maize;area_rainfed;ha;NA;NA;1138758,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Thailand;TH;rice;area_rainfed;ha;NA;NA;4412202,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Thailand;TH;wheat;area_rainfed;ha;NA;NA;1223,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;barley;area_irrigated;ha;NA;NA;28730,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;maize;area_irrigated;ha;NA;NA;5898,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;rice;area_irrigated;ha;NA;NA;12418,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;wheat;area_irrigated;ha;NA;NA;191163,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Tajikistan;TJ;barley;area_rainfed;ha;NA;NA;37485,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;maize;area_rainfed;ha;NA;NA;7342,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;rice;area_rainfed;ha;NA;NA;1788,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tajikistan;TJ;wheat;area_rainfed;ha;NA;NA;146341,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkmenistan;TM;barley;area_irrigated;ha;NA;NA;21896,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Turkmenistan;TM;maize;area_irrigated;ha;NA;NA;14728,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Turkmenistan;TM;rice;area_irrigated;ha;NA;NA;12272,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Turkmenistan;TM;wheat;area_irrigated;ha;NA;NA;638457,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkmenistan;TM;barley;area_rainfed;ha;NA;NA;22852,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Turkmenistan;TM;rice;area_rainfed;ha;NA;NA;52626,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkmenistan;TM;wheat;area_rainfed;ha;NA;NA;26948,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Timor-Leste;TL;maize;area_irrigated;ha;NA;NA;6433,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Timor-Leste;TL;rice;area_irrigated;ha;NA;NA;25162,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Timor-Leste;TL;maize;area_rainfed;ha;NA;NA;47997,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Timor-Leste;TL;rice;area_rainfed;ha;NA;NA;11874,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Trinidad & Tobago;TT;rice;area_irrigated;ha;NA;NA;2090;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Trinidad & Tobago;TT;maize;area_rainfed;ha;NA;NA;1298,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tunisia;TN;barley;area_irrigated;ha;NA;NA;12100,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tunisia;TN;wheat;area_irrigated;ha;NA;NA;40648,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tunisia;TN;barley;area_rainfed;ha;NA;NA;417052,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Tunisia;TN;wheat;area_rainfed;ha;NA;NA;623556,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;barley;area_irrigated;ha;NA;NA;597111,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;maize;area_irrigated;ha;NA;NA;119686,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;wheat;area_irrigated;ha;NA;NA;1637681,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;barley;area_rainfed;ha;NA;NA;2347223,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;maize;area_rainfed;ha;NA;NA;470476,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;rice;area_rainfed;ha;NA;NA;98279,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Turkey;TR;wheat;area_rainfed;ha;NA;NA;6437632,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Tanzania;TZ;maize;area_irrigated;ha;NA;NA;44930,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tanzania;TZ;rice;area_irrigated;ha;NA;NA;69977,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Tanzania;TZ;barley;area_rainfed;ha;NA;NA;8044,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Tanzania;TZ;maize;area_rainfed;ha;NA;NA;3055008,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Tanzania;TZ;rice;area_rainfed;ha;NA;NA;950422,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Tanzania;TZ;wheat;area_rainfed;ha;NA;NA;104018,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uganda;UG;maize;area_irrigated;ha;NA;NA;1379,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uganda;UG;rice;area_irrigated;ha;NA;NA;50392,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uganda;UG;maize;area_rainfed;ha;NA;NA;1010952,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uganda;UG;rice;area_rainfed;ha;NA;NA;37273,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uganda;UG;wheat;area_rainfed;ha;NA;NA;12332,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ukraine;UA;barley;area_irrigated;ha;NA;NA;19053,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ukraine;UA;maize;area_irrigated;ha;NA;NA;124480;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ukraine;UA;rice;area_irrigated;ha;NA;NA;23257,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ukraine;UA;wheat;area_irrigated;ha;NA;NA;44642,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ukraine;UA;barley;area_rainfed;ha;NA;NA;4312478,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ukraine;UA;maize;area_rainfed;ha;NA;NA;2635640,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Ukraine;UA;rice;area_rainfed;ha;NA;NA;4539,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Ukraine;UA;wheat;area_rainfed;ha;NA;NA;6520138,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uruguay;UY;maize;area_irrigated;ha;NA;NA;22837;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uruguay;UY;rice;area_irrigated;ha;NA;NA;166933,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uruguay;UY;barley;area_rainfed;ha;NA;NA;102357,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uruguay;UY;maize;area_rainfed;ha;NA;NA;65284,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uruguay;UY;rice;area_rainfed;ha;NA;NA;5940,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uruguay;UY;wheat;area_rainfed;ha;NA;NA;515538,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;barley;area_irrigated;ha;NA;NA;294474,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;maize;area_irrigated;ha;NA;NA;5062144,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;rice;area_irrigated;ha;NA;NA;1259254,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;wheat;area_irrigated;ha;NA;NA;1240015,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;barley;area_rainfed;ha;NA;NA;757103,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;maize;area_rainfed;ha;NA;NA;27905009,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+United States;US;wheat;area_rainfed;ha;NA;NA;18079379;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uzbekistan;UZ;maize;area_irrigated;ha;NA;NA;30490,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uzbekistan;UZ;rice;area_irrigated;ha;NA;NA;24826,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uzbekistan;UZ;wheat;area_irrigated;ha;NA;NA;1151056,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uzbekistan;UZ;barley;area_rainfed;ha;NA;NA;78695,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Uzbekistan;UZ;rice;area_rainfed;ha;NA;NA;6485,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Uzbekistan;UZ;wheat;area_rainfed;ha;NA;NA;266329,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+St. Vincent & Grenadines;VC;maize;area_rainfed;ha;NA;NA;31,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Venezuela;VE;maize;area_irrigated;ha;NA;NA;56015,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Venezuela;VE;rice;area_irrigated;ha;NA;NA;152196,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Venezuela;VE;maize;area_rainfed;ha;NA;NA;524621,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Venezuela;VE;rice;area_rainfed;ha;NA;NA;50589,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Venezuela;VE;wheat;area_rainfed;ha;NA;NA;107,3;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Vietnam;VN;maize;area_irrigated;ha;NA;NA;277226;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Vietnam;VN;rice;area_irrigated;ha;NA;NA;6729449,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Vietnam;VN;maize;area_rainfed;ha;NA;NA;835124,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Vietnam;VN;rice;area_rainfed;ha;NA;NA;797896,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Vanuatu;VU;maize;area_rainfed;ha;NA;NA;1458,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Yemen;YE;barley;area_irrigated;ha;NA;NA;15960,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Yemen;YE;maize;area_irrigated;ha;NA;NA;26327,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Yemen;YE;wheat;area_irrigated;ha;NA;NA;71133;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Yemen;YE;barley;area_rainfed;ha;NA;NA;25464,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Yemen;YE;maize;area_rainfed;ha;NA;NA;18700,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Yemen;YE;wheat;area_rainfed;ha;NA;NA;59106,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Africa;ZA;barley;area_irrigated;ha;NA;NA;12034;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+South Africa;ZA;maize;area_irrigated;ha;NA;NA;266721,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Africa;ZA;wheat;area_irrigated;ha;NA;NA;99889,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Africa;ZA;barley;area_rainfed;ha;NA;NA;67146,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Africa;ZA;maize;area_rainfed;ha;NA;NA;2247258,2;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+South Africa;ZA;rice;area_rainfed;ha;NA;NA;1162,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+South Africa;ZA;wheat;area_rainfed;ha;NA;NA;501879,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Zambia;ZM;barley;area_irrigated;ha;NA;NA;5499,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zambia;ZM;maize;area_irrigated;ha;NA;NA;3435,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zambia;ZM;rice;area_irrigated;ha;NA;NA;10563,6;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zambia;ZM;wheat;area_irrigated;ha;NA;NA;32951,4;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zambia;ZM;maize;area_rainfed;ha;NA;NA;1027996,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Zambia;ZM;rice;area_rainfed;ha;NA;NA;17389,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zambia;ZM;wheat;area_rainfed;ha;NA;NA;120,8;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zimbabwe;ZW;barley;area_irrigated;ha;NA;NA;6085,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zimbabwe;ZW;maize;area_irrigated;ha;NA;NA;16020,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zimbabwe;ZW;wheat;area_irrigated;ha;NA;NA;4623,5;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zimbabwe;ZW;barley;area_rainfed;ha;NA;NA;2950,9;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zimbabwe;ZW;maize;area_rainfed;ha;NA;NA;1453692,1;harvested_area_world_SPAM2010V2_iso2.csv;threshold_TRUE
+Zimbabwe;ZW;rice;area_rainfed;ha;NA;NA;282,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+Zimbabwe;ZW;wheat;area_rainfed;ha;NA;NA;1752,7;harvested_area_world_SPAM2010V2_iso2.csv;threshold_FALSE
+china;CN_Heilongjiang;barley;area_rainfed;ha;NA;NA;610,1999942;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_innermongolia;barley;area_rainfed;ha;NA;NA;34663,39995;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Xinjiang;barley;area_rainfed;ha;NA;NA;1,000000007;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;barley;area_rainfed;ha;NA;NA;506,4000029;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;barley;area_rainfed;ha;NA;NA;219,8999967;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Gansu;barley;area_rainfed;ha;NA;NA;3666,899966;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;barley;area_rainfed;ha;NA;NA;27,99999949;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Beijing;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanxi;barley;area_rainfed;ha;NA;NA;603,1000044;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tianjin;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;barley;area_rainfed;ha;NA;NA;1044,000004;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Ningxia;barley;area_rainfed;ha;NA;NA;122,1999998;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Qinghai;barley;area_rainfed;ha;NA;NA;21238,3;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tibet;barley;area_rainfed;ha;NA;NA;5829,5;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;barley;area_rainfed;ha;NA;NA;16373,99999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;barley;area_rainfed;ha;NA;NA;17905,89997;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Sichuan;barley;area_rainfed;ha;NA;NA;28809,49993;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hubei;barley;area_rainfed;ha;NA;NA;15537,29998;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Chongqing;barley;area_rainfed;ha;NA;NA;1636,999995;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanghai;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Zhejiang;barley;area_rainfed;ha;NA;NA;22578,80023;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hunan;barley;area_rainfed;ha;NA;NA;508,8000008;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangxi;barley;area_rainfed;ha;NA;NA;165,6000007;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Yunnan;barley;area_rainfed;ha;NA;NA;140565,2004;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guizhou;barley;area_rainfed;ha;NA;NA;3438,700007;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Fujian;barley;area_rainfed;ha;NA;NA;966,0999897;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangxi;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Taiwan;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangdong;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hong Kong;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hainan;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;barley;area_rainfed;ha;NA;NA;317019,8004;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Heilongjiang;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_innermongolia;barley;area_irrigated;ha;NA;NA;34592,00004;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Xinjiang;barley;area_irrigated;ha;NA;NA;20647,09996;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;barley;area_irrigated;ha;NA;NA;71,90000153;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Gansu;barley;area_irrigated;ha;NA;NA;33008,09985;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;barley;area_irrigated;ha;NA;NA;0,100000001;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Beijing;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanxi;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tianjin;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Ningxia;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Qinghai;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tibet;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;barley;area_irrigated;ha;NA;NA;117145,0003;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Sichuan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hubei;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Chongqing;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanghai;barley;area_irrigated;ha;NA;NA;6015,899986;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Zhejiang;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hunan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangxi;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Yunnan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guizhou;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Fujian;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangxi;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Taiwan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangdong;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hong Kong;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hainan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;barley;area_irrigated;ha;NA;NA;211480,1001;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;rice;area_rainfed;ha;NA;NA;14049,99995;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;rice;area_rainfed;ha;NA;NA;28,5999999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tibet;rice;area_rainfed;ha;NA;NA;3377,2;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Chongqing;rice;area_rainfed;ha;NA;NA;48;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hunan;rice;area_rainfed;ha;NA;NA;117,8000006;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangxi;rice;area_rainfed;ha;NA;NA;32899,49993;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Yunnan;rice;area_rainfed;ha;NA;NA;57238,79986;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guizhou;rice;area_rainfed;ha;NA;NA;22249,20002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Fujian;rice;area_rainfed;ha;NA;NA;16;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangxi;rice;area_rainfed;ha;NA;NA;79969,80027;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangdong;rice;area_rainfed;ha;NA;NA;144;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;rice;area_rainfed;ha;NA;NA;236252,3999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Heilongjiang;rice;area_irrigated;ha;NA;NA;1480182,6;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;rice;area_irrigated;ha;NA;NA;213575,0002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;rice;area_irrigated;ha;NA;NA;796977,3029;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;rice;area_irrigated;ha;NA;NA;77524,80064;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;rice;area_irrigated;ha;NA;NA;108977,7006;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;rice;area_irrigated;ha;NA;NA;88437,59947;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;rice;area_irrigated;ha;NA;NA;600070,3002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;rice;area_irrigated;ha;NA;NA;2129144,599;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;rice;area_irrigated;ha;NA;NA;2294266,1;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Sichuan;rice;area_irrigated;ha;NA;NA;1706036,7;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hubei;rice;area_irrigated;ha;NA;NA;2206233,201;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Chongqing;rice;area_irrigated;ha;NA;NA;625945,7999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanghai;rice;area_irrigated;ha;NA;NA;105345,0006;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Zhejiang;rice;area_irrigated;ha;NA;NA;941906,1997;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hunan;rice;area_irrigated;ha;NA;NA;4465090,901;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangxi;rice;area_irrigated;ha;NA;NA;3277251,999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Yunnan;rice;area_irrigated;ha;NA;NA;691063,3005;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guizhou;rice;area_irrigated;ha;NA;NA;768681,0015;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Fujian;rice;area_irrigated;ha;NA;NA;1293062,197;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangxi;rice;area_irrigated;ha;NA;NA;1972651,402;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangdong;rice;area_irrigated;ha;NA;NA;1904185,302;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;rice;area_irrigated;ha;NA;NA;29966267,71;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Heilongjiang;maize;area_rainfed;ha;NA;NA;3412818,997;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_innermongolia;maize;area_rainfed;ha;NA;NA;513097,5997;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;maize;area_rainfed;ha;NA;NA;1548118,3;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;maize;area_rainfed;ha;NA;NA;1635970,6;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Gansu;maize;area_rainfed;ha;NA;NA;329791,7993;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;maize;area_rainfed;ha;NA;NA;636203,5002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Beijing;maize;area_rainfed;ha;NA;NA;37114,50009;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanxi;maize;area_rainfed;ha;NA;NA;906732,4996;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tianjin;maize;area_rainfed;ha;NA;NA;94838,59955;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;maize;area_rainfed;ha;NA;NA;1040002,401;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Ningxia;maize;area_rainfed;ha;NA;NA;10449,90014;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;maize;area_rainfed;ha;NA;NA;1330338,596;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;maize;area_rainfed;ha;NA;NA;996859,9009;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;maize;area_rainfed;ha;NA;NA;34447,70005;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;maize;area_rainfed;ha;NA;NA;1551,500025;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Sichuan;maize;area_rainfed;ha;NA;NA;900379,4002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hubei;maize;area_rainfed;ha;NA;NA;307811,4999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Chongqing;maize;area_rainfed;ha;NA;NA;305279,1;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Zhejiang;maize;area_rainfed;ha;NA;NA;44277,59993;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hunan;maize;area_rainfed;ha;NA;NA;395511,9011;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangxi;maize;area_rainfed;ha;NA;NA;10162,1;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Yunnan;maize;area_rainfed;ha;NA;NA;1016865,1;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guizhou;maize;area_rainfed;ha;NA;NA;633021,7994;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Fujian;maize;area_rainfed;ha;NA;NA;12877,29999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangxi;maize;area_rainfed;ha;NA;NA;400388,5002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Guangdong;maize;area_rainfed;ha;NA;NA;26761,09995;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;maize;area_rainfed;ha;NA;NA;17378177,59;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Heilongjiang;maize;area_irrigated;ha;NA;NA;41430,89997;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_innermongolia;maize;area_irrigated;ha;NA;NA;1408312,797;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Xinjiang;maize;area_irrigated;ha;NA;NA;649007,2995;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;maize;area_irrigated;ha;NA;NA;1262461,698;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;maize;area_irrigated;ha;NA;NA;606547,0003;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Gansu;maize;area_irrigated;ha;NA;NA;257166,0996;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;maize;area_irrigated;ha;NA;NA;1906957,598;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Beijing;maize;area_irrigated;ha;NA;NA;86234,9999;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanxi;maize;area_irrigated;ha;NA;NA;453095,9991;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tianjin;maize;area_irrigated;ha;NA;NA;92575,09992;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;maize;area_irrigated;ha;NA;NA;1031685,802;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Ningxia;maize;area_irrigated;ha;NA;NA;179575,8996;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;maize;area_irrigated;ha;NA;NA;3092774,499;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;maize;area_irrigated;ha;NA;NA;1474067,7;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;maize;area_irrigated;ha;NA;NA;194482,8994;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;maize;area_irrigated;ha;NA;NA;222869,3006;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;maize;area_irrigated;ha;NA;NA;13770681,29;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_innermongolia;wheat;area_rainfed;ha;NA;NA;56705,39975;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Gansu;wheat;area_rainfed;ha;NA;NA;28842,4;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;wheat;area_rainfed;ha;NA;NA;139917,2003;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanxi;wheat;area_rainfed;ha;NA;NA;327087,4006;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tianjin;wheat;area_rainfed;ha;NA;NA;6354,400007;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;wheat;area_rainfed;ha;NA;NA;727803,9872;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Ningxia;wheat;area_rainfed;ha;NA;NA;352;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;wheat;area_rainfed;ha;NA;NA;1323908,301;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;wheat;area_rainfed;ha;NA;NA;1392541,7;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;wheat;area_rainfed;ha;NA;NA;136692,0007;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;wheat;area_rainfed;ha;NA;NA;801876,6002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Sichuan;wheat;area_rainfed;ha;NA;NA;788415,3993;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hubei;wheat;area_rainfed;ha;NA;NA;886694,9994;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Chongqing;wheat;area_rainfed;ha;NA;NA;29661,60007;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hunan;wheat;area_rainfed;ha;NA;NA;19208,29996;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangxi;wheat;area_rainfed;ha;NA;NA;2056,700005;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;wheat;area_rainfed;ha;NA;NA;9239632,187;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Xinjiang;wheat;area_irrigated;ha;NA;NA;78262,30018;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jilin;wheat;area_irrigated;ha;NA;NA;21,29999924;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Liaoning;wheat;area_irrigated;ha;NA;NA;127,7999986;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Hebei;wheat;area_irrigated;ha;NA;NA;1657481,098;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shanxi;wheat;area_irrigated;ha;NA;NA;143812,0006;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Tianjin;wheat;area_irrigated;ha;NA;NA;2635,300024;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shaanxi;wheat;area_irrigated;ha;NA;NA;537727,2988;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Shandong;wheat;area_irrigated;ha;NA;NA;2466735,002;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Henan;wheat;area_irrigated;ha;NA;NA;3196177,497;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Jiangsu;wheat;area_irrigated;ha;NA;NA;1111778,902;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_Anhui;wheat;area_irrigated;ha;NA;NA;1224205,102;YpYw_Area_USA-China_regions_v2.csv;NA
+china;CN_TOTAL;wheat;area_irrigated;ha;NA;NA;15040353,6;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Mississippi;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Carolina;barley;area_rainfed;ha;NA;NA;6541,800007;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oklahoma;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Virginia;barley;area_rainfed;ha;NA;NA;21440,89999;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_West Virginia;barley;area_rainfed;ha;NA;NA;14,7000003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Louisiana;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Michigan;barley;area_rainfed;ha;NA;NA;3643,899999;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Massachusetts;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Idaho;barley;area_rainfed;ha;NA;NA;68022,29998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Florida;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nebraska;barley;area_rainfed;ha;NA;NA;1,100000024;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Washington;barley;area_rainfed;ha;NA;NA;38906,69996;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Mexico;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Puerto Rico;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Dakota;barley;area_rainfed;ha;NA;NA;6561,500001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_California;barley;area_rainfed;ha;NA;NA;12559,8;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Alabama;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Georgia;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Pennsylvania;barley;area_rainfed;ha;NA;NA;19549,59997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Missouri;barley;area_rainfed;ha;NA;NA;1;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Colorado;barley;area_rainfed;ha;NA;NA;2275,799999;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Utah;barley;area_rainfed;ha;NA;NA;1737,500003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Tennessee;barley;area_rainfed;ha;NA;NA;0,100000001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wyoming;barley;area_rainfed;ha;NA;NA;3435,400006;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New York;barley;area_rainfed;ha;NA;NA;3906,500002;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kansas;barley;area_rainfed;ha;NA;NA;2548,600007;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Alaska;barley;area_rainfed;ha;NA;NA;1807,899979;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nevada;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Illinois;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Vermont;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Montana;barley;area_rainfed;ha;NA;NA;200075,7001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Iowa;barley;area_rainfed;ha;NA;NA;5;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Carolina;barley;area_rainfed;ha;NA;NA;0,500000015;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Hampshire;barley;area_rainfed;ha;NA;NA;0,999999978;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arizona;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_District of Columbia;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_American Samoa;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_United States Virgin Islands;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Jersey;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Maryland;barley;area_rainfed;ha;NA;NA;15191,49997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Maine;barley;area_rainfed;ha;NA;NA;5755,900021;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Hawaii;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Delaware;barley;area_rainfed;ha;NA;NA;8644,100009;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Guam;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Commonwealth of the Northern Mariana Islands;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Rhode Island;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kentucky;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Ohio;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wisconsin;barley;area_rainfed;ha;NA;NA;9315,400003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oregon;barley;area_rainfed;ha;NA;NA;9696,79998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Dakota;barley;area_rainfed;ha;NA;NA;287560,4;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arkansas;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Indiana;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Minnesota;barley;area_rainfed;ha;NA;NA;27766,50004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Connecticut;barley;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;barley;area_rainfed;ha;NA;NA;756967,9001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Mississippi;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Carolina;barley;area_irrigated;ha;NA;NA;23,20000035;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oklahoma;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Virginia;barley;area_irrigated;ha;NA;NA;272,7000023;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_West Virginia;barley;area_irrigated;ha;NA;NA;0,70000001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Louisiana;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Michigan;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Massachusetts;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Idaho;barley;area_irrigated;ha;NA;NA;127449,0003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Florida;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nebraska;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Washington;barley;area_irrigated;ha;NA;NA;915,600004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Mexico;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Puerto Rico;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Dakota;barley;area_irrigated;ha;NA;NA;27,3000004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_California;barley;area_irrigated;ha;NA;NA;15090,80004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Alabama;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Georgia;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Pennsylvania;barley;area_irrigated;ha;NA;NA;4,200000063;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Missouri;barley;area_irrigated;ha;NA;NA;0,100000001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Colorado;barley;area_irrigated;ha;NA;NA;25115;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Utah;barley;area_irrigated;ha;NA;NA;8918,100024;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Tennessee;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wyoming;barley;area_irrigated;ha;NA;NA;22596,09997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New York;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kansas;barley;area_irrigated;ha;NA;NA;393,8000064;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Alaska;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nevada;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Illinois;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Vermont;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Montana;barley;area_irrigated;ha;NA;NA;65469,19996;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Iowa;barley;area_irrigated;ha;NA;NA;0,100000001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Carolina;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Hampshire;barley;area_irrigated;ha;NA;NA;0,100000001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arizona;barley;area_irrigated;ha;NA;NA;18352,30004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_District of Columbia;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_American Samoa;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_United States Virgin Islands;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Jersey;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Maryland;barley;area_irrigated;ha;NA;NA;985,0999958;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Maine;barley;area_irrigated;ha;NA;NA;176,3000008;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Hawaii;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Delaware;barley;area_irrigated;ha;NA;NA;1236,100004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Guam;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Commonwealth of the Northern Mariana Islands;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Rhode Island;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kentucky;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Ohio;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wisconsin;barley;area_irrigated;ha;NA;NA;95,90000132;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oregon;barley;area_irrigated;ha;NA;NA;4310,200012;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Dakota;barley;area_irrigated;ha;NA;NA;2632,000005;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arkansas;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Indiana;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Minnesota;barley;area_irrigated;ha;NA;NA;404,5000023;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Connecticut;barley;area_irrigated;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;barley;area_irrigated;ha;NA;NA;294468,4003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Mississippi;rice;area_irrigated;ha;NA;NA;95927,39998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Louisiana;rice;area_irrigated;ha;NA;NA;190003,1998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;rice;area_irrigated;ha;NA;NA;72190,60019;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_California;rice;area_irrigated;ha;NA;NA;225253,6993;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Missouri;rice;area_irrigated;ha;NA;NA;77680,29986;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Tennessee;rice;area_irrigated;ha;NA;NA;257,1000061;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Illinois;rice;area_irrigated;ha;NA;NA;0,100000001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arkansas;rice;area_irrigated;ha;NA;NA;595125,0002;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;rice;area_irrigated;ha;NA;NA;1259254,699;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Mississippi;maize;area_rainfed;ha;NA;NA;131225,9001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Carolina;maize;area_rainfed;ha;NA;NA;97151,99977;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oklahoma;maize;area_rainfed;ha;NA;NA;49461,29994;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Virginia;maize;area_rainfed;ha;NA;NA;10188,8;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_West Virginia;maize;area_rainfed;ha;NA;NA;11182,50001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Louisiana;maize;area_rainfed;ha;NA;NA;114081,9;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Michigan;maize;area_rainfed;ha;NA;NA;762167,9986;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Idaho;maize;area_rainfed;ha;NA;NA;18253,70005;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Florida;maize;area_rainfed;ha;NA;NA;7368,600121;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nebraska;maize;area_rainfed;ha;NA;NA;1445269,699;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Dakota;maize;area_rainfed;ha;NA;NA;1784875,3;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;maize;area_rainfed;ha;NA;NA;188410,5999;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Alabama;maize;area_rainfed;ha;NA;NA;23983,99997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Georgia;maize;area_rainfed;ha;NA;NA;55113,60011;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Pennsylvania;maize;area_rainfed;ha;NA;NA;342019,9998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Missouri;maize;area_rainfed;ha;NA;NA;1016992,799;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New York;maize;area_rainfed;ha;NA;NA;231380,6001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kansas;maize;area_rainfed;ha;NA;NA;1020778,2;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Illinois;maize;area_rainfed;ha;NA;NA;4731678,901;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Montana;maize;area_rainfed;ha;NA;NA;1590,2;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Iowa;maize;area_rainfed;ha;NA;NA;5355219,496;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Carolina;maize;area_rainfed;ha;NA;NA;116001,1002;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_District of Columbia;maize;area_rainfed;ha;NA;NA;0;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Jersey;maize;area_rainfed;ha;NA;NA;6621,699986;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Maryland;maize;area_rainfed;ha;NA;NA;106732,7;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Delaware;maize;area_rainfed;ha;NA;NA;10949,49998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kentucky;maize;area_rainfed;ha;NA;NA;109148,1001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Ohio;maize;area_rainfed;ha;NA;NA;1291808,399;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wisconsin;maize;area_rainfed;ha;NA;NA;1208241,999;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Dakota;maize;area_rainfed;ha;NA;NA;738820,3995;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arkansas;maize;area_rainfed;ha;NA;NA;27622,39996;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Indiana;maize;area_rainfed;ha;NA;NA;2169831,8;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Minnesota;maize;area_rainfed;ha;NA;NA;2876763;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;maize;area_rainfed;ha;NA;NA;27901198,09;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oklahoma;maize;area_irrigated;ha;NA;NA;44613,69988;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Virginia;maize;area_irrigated;ha;NA;NA;26,49999998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Michigan;maize;area_irrigated;ha;NA;NA;7525,600024;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Idaho;maize;area_irrigated;ha;NA;NA;23540,20005;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nebraska;maize;area_irrigated;ha;NA;NA;2242797,697;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Washington;maize;area_irrigated;ha;NA;NA;3623,100004;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Mexico;maize;area_irrigated;ha;NA;NA;12795,29998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Dakota;maize;area_irrigated;ha;NA;NA;71743,70015;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;maize;area_irrigated;ha;NA;NA;288876,7997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_California;maize;area_irrigated;ha;NA;NA;64301,09988;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Pennsylvania;maize;area_irrigated;ha;NA;NA;11,40000024;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Missouri;maize;area_irrigated;ha;NA;NA;125898,3998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Colorado;maize;area_irrigated;ha;NA;NA;294394,9001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Utah;maize;area_irrigated;ha;NA;NA;9443,500037;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Tennessee;maize;area_irrigated;ha;NA;NA;5700,599993;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wyoming;maize;area_irrigated;ha;NA;NA;18210,5;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New York;maize;area_irrigated;ha;NA;NA;378,7000035;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kansas;maize;area_irrigated;ha;NA;NA;653083,7009;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Illinois;maize;area_irrigated;ha;NA;NA;14474,4;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Montana;maize;area_irrigated;ha;NA;NA;6626,6;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Iowa;maize;area_irrigated;ha;NA;NA;31329,19994;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arizona;maize;area_irrigated;ha;NA;NA;7487,800006;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Maryland;maize;area_irrigated;ha;NA;NA;1857,899988;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kentucky;maize;area_irrigated;ha;NA;NA;2983,100014;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wisconsin;maize;area_irrigated;ha;NA;NA;31804,39997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oregon;maize;area_irrigated;ha;NA;NA;868,100009;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Dakota;maize;area_irrigated;ha;NA;NA;6077,599981;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arkansas;maize;area_irrigated;ha;NA;NA;40248,60011;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Indiana;maize;area_irrigated;ha;NA;NA;3194,300003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Minnesota;maize;area_irrigated;ha;NA;NA;94170,69998;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;maize;area_irrigated;ha;NA;NA;5061875,798;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oklahoma;wheat;area_rainfed;ha;NA;NA;1292899,199;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_West Virginia;wheat;area_rainfed;ha;NA;NA;1,399999976;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Michigan;wheat;area_rainfed;ha;NA;NA;238878,5997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Idaho;wheat;area_rainfed;ha;NA;NA;176796,2003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nebraska;wheat;area_rainfed;ha;NA;NA;541537,1002;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Washington;wheat;area_rainfed;ha;NA;NA;192243,4003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Mexico;wheat;area_rainfed;ha;NA;NA;61362,59992;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Dakota;wheat;area_rainfed;ha;NA;NA;1153179,099;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;wheat;area_rainfed;ha;NA;NA;856592,8988;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_California;wheat;area_rainfed;ha;NA;NA;32989,19994;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Pennsylvania;wheat;area_rainfed;ha;NA;NA;58570,70006;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Colorado;wheat;area_rainfed;ha;NA;NA;926669,1005;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Utah;wheat;area_rainfed;ha;NA;NA;42370,30022;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wyoming;wheat;area_rainfed;ha;NA;NA;49226,90008;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New York;wheat;area_rainfed;ha;NA;NA;40791,49994;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kansas;wheat;area_rainfed;ha;NA;NA;2983793,301;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Illinois;wheat;area_rainfed;ha;NA;NA;12014,40002;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Montana;wheat;area_rainfed;ha;NA;NA;1918737,302;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Iowa;wheat;area_rainfed;ha;NA;NA;3802,900001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Ohio;wheat;area_rainfed;ha;NA;NA;309337,7006;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wisconsin;wheat;area_rainfed;ha;NA;NA;118300,6001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oregon;wheat;area_rainfed;ha;NA;NA;5514,299974;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_North Dakota;wheat;area_rainfed;ha;NA;NA;2639866,702;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Indiana;wheat;area_rainfed;ha;NA;NA;72012,80011;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Minnesota;wheat;area_rainfed;ha;NA;NA;22035,5;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;wheat;area_rainfed;ha;NA;NA;18077150,8;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oklahoma;wheat;area_irrigated;ha;NA;NA;30165,80022;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Idaho;wheat;area_irrigated;ha;NA;NA;130089,5;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Nebraska;wheat;area_irrigated;ha;NA;NA;52721,5;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Washington;wheat;area_irrigated;ha;NA;NA;30880,49989;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_New Mexico;wheat;area_irrigated;ha;NA;NA;15176,70005;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_South Dakota;wheat;area_irrigated;ha;NA;NA;1863,300003;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Texas;wheat;area_irrigated;ha;NA;NA;165954,4;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_California;wheat;area_irrigated;ha;NA;NA;117716,6002;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Colorado;wheat;area_irrigated;ha;NA;NA;20688,80001;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Wyoming;wheat;area_irrigated;ha;NA;NA;5911,400006;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Kansas;wheat;area_irrigated;ha;NA;NA;203599,0997;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Montana;wheat;area_irrigated;ha;NA;NA;56141,09999;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Arizona;wheat;area_irrigated;ha;NA;NA;352,1000006;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_Oregon;wheat;area_irrigated;ha;NA;NA;3235,099988;YpYw_Area_USA-China_regions_v2.csv;NA
+united states of america;US_TOTAL;wheat;area_irrigated;ha;NA;NA;1240179,1;YpYw_Area_USA-China_regions_v2.csv;NA

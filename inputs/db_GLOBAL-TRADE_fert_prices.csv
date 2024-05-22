@@ -1,0 +1,493 @@
+country_origname;country_code;crop;variable;units;year;campaign;data;source;comments
+albania;AL;NA;CAN_importer_price;USD/kgN;2016;NA;1,139645291;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+algeria;DZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,653254945;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+algeria;DZ;NA;CAN_exporter_price;USD/kgN;2016;NA;0,475571201;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+angola;AO;NA;CAN_importer_price;USD/kgN;2016;NA;3,067836587;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+antigua and barbuda;AG;NA;CAN_importer_price;USD/kgN;2016;NA;13,83529444;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+argentina;AR;NA;CAN_importer_price;USD/kgN;2016;NA;1,08474405;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+argentina;AR;NA;CAN_exporter_price;USD/kgN;2016;NA;2,567320261;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+armenia;AM;NA;CAN_importer_price;USD/kgN;2016;NA;1,472265383;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+australia;AU;NA;CAN_importer_price;USD/kgN;2016;NA;0,968747379;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+australia;AU;NA;CAN_exporter_price;USD/kgN;2016;NA;1,880733215;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+austria;AT;NA;CAN_importer_price;USD/kgN;2016;NA;0,767291969;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+austria;AT;NA;CAN_exporter_price;USD/kgN;2016;NA;0,83674666;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+azerbaijan;AZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,602540419;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bahamas;BS;NA;CAN_importer_price;USD/kgN;2016;NA;3,070125896;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bahrain;BH;NA;CAN_importer_price;USD/kgN;2016;NA;2,037311797;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bangladesh;BD;NA;CAN_importer_price;USD/kgN;2016;NA;1,129826869;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+barbados;BB;NA;CAN_importer_price;USD/kgN;2016;NA;0,830024618;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belarus;BY;NA;CAN_importer_price;USD/kgN;2016;NA;1,479375473;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belarus;BY;NA;CAN_exporter_price;USD/kgN;2016;NA;2,144637634;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belgium;BE;NA;CAN_importer_price;USD/kgN;2016;NA;1,065526405;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belgium;BE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,417798497;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belize;BZ;NA;CAN_importer_price;USD/kgN;2016;NA;0,629421178;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bermuda;BM;NA;CAN_importer_price;USD/kgN;2016;NA;8,994708995;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bolivia;BO;NA;CAN_importer_price;USD/kgN;2016;NA;1,25634035;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bosnia herzegovina;BA;NA;CAN_importer_price;USD/kgN;2016;NA;1,427708544;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+botswana;BW;NA;CAN_importer_price;USD/kgN;2016;NA;1,643373547;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+botswana;BW;NA;CAN_exporter_price;USD/kgN;2016;NA;1,865961199;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+brazil;BR;NA;CAN_importer_price;USD/kgN;2016;NA;0,998621218;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+brazil;BR;NA;CAN_exporter_price;USD/kgN;2016;NA;1,987484029;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+brunei darussalam;BN;NA;CAN_importer_price;USD/kgN;2016;NA;2,133333333;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bulgaria;BG;NA;CAN_importer_price;USD/kgN;2016;NA;0,926021019;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bulgaria;BG;NA;CAN_exporter_price;USD/kgN;2016;NA;1,256019511;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+burkina faso;BF;NA;CAN_importer_price;USD/kgN;2016;NA;2,011699344;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+burkina faso;BF;NA;CAN_exporter_price;USD/kgN;2016;NA;2,224740741;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+burundi;BI;NA;CAN_importer_price;USD/kgN;2016;NA;0,284312275;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cabo verde;CV;NA;CAN_importer_price;USD/kgN;2016;NA;4,947337816;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cambodia;KH;NA;CAN_importer_price;USD/kgN;2016;NA;1,181147422;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cameroon;CM;NA;CAN_importer_price;USD/kgN;2016;NA;1,586482351;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cameroon;CM;NA;CAN_exporter_price;USD/kgN;2016;NA;12,60273973;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+canada;CA;NA;CAN_importer_price;USD/kgN;2016;NA;1,497781466;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+canada;CA;NA;CAN_exporter_price;USD/kgN;2016;NA;1,571627546;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cayman isds;KY;NA;CAN_importer_price;USD/kgN;2016;NA;2,306509515;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+chile;CL;NA;CAN_importer_price;USD/kgN;2016;NA;1,022042905;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+chile;CL;NA;CAN_exporter_price;USD/kgN;2016;NA;2,706232191;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china;CN;NA;CAN_importer_price;USD/kgN;2016;NA;1,199799803;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china;CN;NA;CAN_exporter_price;USD/kgN;2016;NA;0,955523;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china, hong kong sar;HK;NA;CAN_importer_price;USD/kgN;2016;NA;3,567046126;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china, hong kong sar;HK;NA;CAN_exporter_price;USD/kgN;2016;NA;1,267145847;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china, macao sar;MO;NA;CAN_importer_price;USD/kgN;2016;NA;0,740740741;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+colombia;CO;NA;CAN_importer_price;USD/kgN;2016;NA;0,968354524;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+colombia;CO;NA;CAN_exporter_price;USD/kgN;2016;NA;1,180870048;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+congo, dem. rep.;CD;NA;CAN_importer_price;USD/kgN;2016;NA;3,326847685;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+congo, rep.;CG;NA;CAN_importer_price;USD/kgN;2016;NA;1,933651951;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+costa rica;CR;NA;CAN_importer_price;USD/kgN;2016;NA;1,011941008;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+costa rica;CR;NA;CAN_exporter_price;USD/kgN;2016;NA;1,945973054;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cote d'ivoire;CI;NA;CAN_importer_price;USD/kgN;2016;NA;1,164561263;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cote d'ivoire;CI;NA;CAN_exporter_price;USD/kgN;2016;NA;1,147032382;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+croatia;HR;NA;CAN_importer_price;USD/kgN;2016;NA;1,737939575;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+croatia;HR;NA;CAN_exporter_price;USD/kgN;2016;NA;0,834605174;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cuba;CU;NA;CAN_importer_price;USD/kgN;2016;NA;0,971304323;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cyprus;CY;NA;CAN_importer_price;USD/kgN;2016;NA;2,89299781;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cyprus;CY;NA;CAN_exporter_price;USD/kgN;2016;NA;1,042266601;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+czech rep.;CZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,350584977;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+czech rep.;CZ;NA;CAN_exporter_price;USD/kgN;2016;NA;0,94506555;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+denmark;DK;NA;CAN_importer_price;USD/kgN;2016;NA;1,014625426;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+denmark;DK;NA;CAN_exporter_price;USD/kgN;2016;NA;1,291898953;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+djibouti;DJ;NA;CAN_importer_price;USD/kgN;2016;NA;0,908637008;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+dominica;DM;NA;CAN_importer_price;USD/kgN;2016;NA;0,969958848;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+dominican rep.;DO;NA;CAN_importer_price;USD/kgN;2016;NA;1,220820338;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+dominican rep.;DO;NA;CAN_exporter_price;USD/kgN;2016;NA;0,628900647;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ecuador;EC;NA;CAN_importer_price;USD/kgN;2016;NA;1,309266874;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ecuador;EC;NA;CAN_exporter_price;USD/kgN;2016;NA;17,5552163;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+egypt;EG;NA;CAN_importer_price;USD/kgN;2016;NA;1,476387946;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+egypt;EG;NA;CAN_exporter_price;USD/kgN;2016;NA;1,197219229;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+el salvador;SV;NA;CAN_importer_price;USD/kgN;2016;NA;1,423662403;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+el salvador;SV;NA;CAN_exporter_price;USD/kgN;2016;NA;1,632722296;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+eritrea;ER;NA;CAN_importer_price;USD/kgN;2016;NA;3,322497755;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+estonia;EE;NA;CAN_importer_price;USD/kgN;2016;NA;1,09311915;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+estonia;EE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,077728427;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ethiopia;ET;NA;CAN_importer_price;USD/kgN;2016;NA;2,523358366;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+fiji;FJ;NA;CAN_importer_price;USD/kgN;2016;NA;0,993271681;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+finland;FI;NA;CAN_importer_price;USD/kgN;2016;NA;1,20406324;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+finland;FI;NA;CAN_exporter_price;USD/kgN;2016;NA;0,922552615;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+france;FR;NA;CAN_importer_price;USD/kgN;2016;NA;1,012621642;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+france;FR;NA;CAN_exporter_price;USD/kgN;2016;NA;2,626463633;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+french polynesia;PF;NA;CAN_importer_price;USD/kgN;2016;NA;1,466580716;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+gabon;GA;NA;CAN_importer_price;USD/kgN;2016;NA;1,446463954;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+gambia;GM;NA;CAN_importer_price;USD/kgN;2016;NA;1,081791248;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+georgia;GE;NA;CAN_importer_price;USD/kgN;2016;NA;1,393771808;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+germany;DE;NA;CAN_importer_price;USD/kgN;2016;NA;1,02702798;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+germany;DE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,086548056;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ghana;GH;NA;CAN_importer_price;USD/kgN;2016;NA;1,156667836;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ghana;GH;NA;CAN_exporter_price;USD/kgN;2016;NA;9,505080302;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+greece;GR;NA;CAN_importer_price;USD/kgN;2016;NA;1,618853199;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+greece;GR;NA;CAN_exporter_price;USD/kgN;2016;NA;2,258628084;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+grenada;GD;NA;CAN_importer_price;USD/kgN;2016;NA;1,199537037;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guatemala;GT;NA;CAN_importer_price;USD/kgN;2016;NA;1,036819659;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guatemala;GT;NA;CAN_exporter_price;USD/kgN;2016;NA;1,87296228;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guinea;GN;NA;CAN_importer_price;USD/kgN;2016;NA;1,895196162;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guyana;GY;NA;CAN_importer_price;USD/kgN;2016;NA;2,65080574;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+honduras;HN;NA;CAN_importer_price;USD/kgN;2016;NA;0,871622021;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+honduras;HN;NA;CAN_exporter_price;USD/kgN;2016;NA;1,655079304;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+hungary;HU;NA;CAN_importer_price;USD/kgN;2016;NA;1,053183431;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+hungary;HU;NA;CAN_exporter_price;USD/kgN;2016;NA;1,150964493;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iceland;IS;NA;CAN_importer_price;USD/kgN;2016;NA;1,3262229;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iceland;IS;NA;CAN_exporter_price;USD/kgN;2016;NA;2,980242655;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+india;IN;NA;CAN_importer_price;USD/kgN;2016;NA;1,058980365;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+india;IN;NA;CAN_exporter_price;USD/kgN;2016;NA;1,403286915;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+indonesia;ID;NA;CAN_importer_price;USD/kgN;2016;NA;1,175947409;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+indonesia;ID;NA;CAN_exporter_price;USD/kgN;2016;NA;5,643738977;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iran;IR;NA;CAN_importer_price;USD/kgN;2016;NA;1,388510432;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iran;IR;NA;CAN_exporter_price;USD/kgN;2016;NA;2,81497974;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iraq;IQ;NA;CAN_importer_price;USD/kgN;2016;NA;2,316412487;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ireland;IE;NA;CAN_importer_price;USD/kgN;2016;NA;0,930709888;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ireland;IE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,460539256;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+israel;IL;NA;CAN_importer_price;USD/kgN;2016;NA;1,404547675;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+israel;IL;NA;CAN_exporter_price;USD/kgN;2016;NA;1,456181041;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+italy;IT;NA;CAN_importer_price;USD/kgN;2016;NA;1,108056412;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+italy;IT;NA;CAN_exporter_price;USD/kgN;2016;NA;1,009066909;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+jamaica;JM;NA;CAN_importer_price;USD/kgN;2016;NA;1,714466748;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+japan;JP;NA;CAN_importer_price;USD/kgN;2016;NA;1,452669311;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+japan;JP;NA;CAN_exporter_price;USD/kgN;2016;NA;1,430232061;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+jordan;JO;NA;CAN_importer_price;USD/kgN;2016;NA;1,287609529;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+jordan;JO;NA;CAN_exporter_price;USD/kgN;2016;NA;3,778236967;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kazakhstan;KZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,673747088;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kazakhstan;KZ;NA;CAN_exporter_price;USD/kgN;2016;NA;3,344372735;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kenya;KE;NA;CAN_importer_price;USD/kgN;2016;NA;0,944249358;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kenya;KE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,88702892;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+korea, dem. rep.;KP;NA;CAN_importer_price;USD/kgN;2016;NA;1,857549858;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+korea, rep.;KR;NA;CAN_importer_price;USD/kgN;2016;NA;1,40863123;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+korea, rep.;KR;NA;CAN_exporter_price;USD/kgN;2016;NA;1,898770044;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kuwait;KW;NA;CAN_importer_price;USD/kgN;2016;NA;1,54771349;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kyrgyzstan;KG;NA;CAN_importer_price;USD/kgN;2016;NA;2,307661098;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lao pdr;LA;NA;CAN_importer_price;USD/kgN;2016;NA;1,384511935;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+latvia;LV;NA;CAN_importer_price;USD/kgN;2016;NA;1,37932179;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+latvia;LV;NA;CAN_exporter_price;USD/kgN;2016;NA;0,908165176;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lebanon;LB;NA;CAN_importer_price;USD/kgN;2016;NA;1,117048607;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lebanon;LB;NA;CAN_exporter_price;USD/kgN;2016;NA;2,191122869;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lesotho;LS;NA;CAN_importer_price;USD/kgN;2016;NA;1,563043767;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+libya;LY;NA;CAN_importer_price;USD/kgN;2016;NA;1,11565619;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lithuania;LT;NA;CAN_importer_price;USD/kgN;2016;NA;1,088838238;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lithuania;LT;NA;CAN_exporter_price;USD/kgN;2016;NA;1,483823751;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+luxembourg;LU;NA;CAN_importer_price;USD/kgN;2016;NA;1,193269527;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+luxembourg;LU;NA;CAN_exporter_price;USD/kgN;2016;NA;1,199301739;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+macedonia, fyr;MK;NA;CAN_importer_price;USD/kgN;2016;NA;1,497531069;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+macedonia, fyr;MK;NA;CAN_exporter_price;USD/kgN;2016;NA;1,625533444;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+madagascar;MG;NA;CAN_importer_price;USD/kgN;2016;NA;2,086887891;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malawi;MW;NA;CAN_importer_price;USD/kgN;2016;NA;1,840189612;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malaysia;MY;NA;CAN_importer_price;USD/kgN;2016;NA;1,084863733;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malaysia;MY;NA;CAN_exporter_price;USD/kgN;2016;NA;1,965248669;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+maldives;MV;NA;CAN_importer_price;USD/kgN;2016;NA;3,429405046;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mali;ML;NA;CAN_importer_price;USD/kgN;2016;NA;1,634234355;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malta;MT;NA;CAN_importer_price;USD/kgN;2016;NA;2,03887821;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mauritania;MR;NA;CAN_importer_price;USD/kgN;2016;NA;1,968284324;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mauritius;MU;NA;CAN_importer_price;USD/kgN;2016;NA;1,329480331;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mauritius;MU;NA;CAN_exporter_price;USD/kgN;2016;NA;1,972973638;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mexico;MX;NA;CAN_importer_price;USD/kgN;2016;NA;0,741076852;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mexico;MX;NA;CAN_exporter_price;USD/kgN;2016;NA;1,81926904;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+moldova;MD;NA;CAN_importer_price;USD/kgN;2016;NA;1,80063369;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+montenegro;ME;NA;CAN_importer_price;USD/kgN;2016;NA;1,383177376;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+morocco;MA;NA;CAN_importer_price;USD/kgN;2016;NA;1,143941578;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+morocco;MA;NA;CAN_exporter_price;USD/kgN;2016;NA;1,590648413;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mozambique;MZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,14538033;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mozambique;MZ;NA;CAN_exporter_price;USD/kgN;2016;NA;2,436924555;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+myanmar;MM;NA;CAN_importer_price;USD/kgN;2016;NA;0,951947729;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+namibia;NA;NA;CAN_importer_price;USD/kgN;2016;NA;2,3160615;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+namibia;NA;NA;CAN_exporter_price;USD/kgN;2016;NA;2,554395709;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+nepal;NP;NA;CAN_importer_price;USD/kgN;2016;NA;3,279367446;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+netherlands;NL;NA;CAN_importer_price;USD/kgN;2016;NA;0,908041483;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+netherlands;NL;NA;CAN_exporter_price;USD/kgN;2016;NA;0,982878978;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+new caledonia;NC;NA;CAN_importer_price;USD/kgN;2016;NA;2,202856451;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+new zealand;NZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,359303493;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+new zealand;NZ;NA;CAN_exporter_price;USD/kgN;2016;NA;2,629150093;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+nicaragua;NI;NA;CAN_importer_price;USD/kgN;2016;NA;1,105081048;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+nigeria;NG;NA;CAN_importer_price;USD/kgN;2016;NA;1,104244037;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+norway;NO;NA;CAN_importer_price;USD/kgN;2016;NA;1,464098055;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+norway;NO;NA;CAN_exporter_price;USD/kgN;2016;NA;0,823023981;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+oman;OM;NA;CAN_importer_price;USD/kgN;2016;NA;1,288482394;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+pakistan;PK;NA;CAN_importer_price;USD/kgN;2016;NA;1,550259414;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+pakistan;PK;NA;CAN_exporter_price;USD/kgN;2016;NA;0,903411915;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+panama;PA;NA;CAN_importer_price;USD/kgN;2016;NA;1,372461142;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+panama;PA;NA;CAN_exporter_price;USD/kgN;2016;NA;1,253909465;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+papua new guinea;PG;NA;CAN_importer_price;USD/kgN;2016;NA;1,339879926;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+paraguay;PY;NA;CAN_importer_price;USD/kgN;2016;NA;2,013131829;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+peru;PE;NA;CAN_importer_price;USD/kgN;2016;NA;1,108607779;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+peru;PE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,539714962;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+philippines;PH;NA;CAN_importer_price;USD/kgN;2016;NA;1,472374956;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+poland;PL;NA;CAN_importer_price;USD/kgN;2016;NA;0,914823739;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+poland;PL;NA;CAN_exporter_price;USD/kgN;2016;NA;1,19295463;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+portugal;PT;NA;CAN_importer_price;USD/kgN;2016;NA;1,391652236;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+portugal;PT;NA;CAN_exporter_price;USD/kgN;2016;NA;1,103138403;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+qatar;QA;NA;CAN_importer_price;USD/kgN;2016;NA;2,086386247;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+romania;RO;NA;CAN_importer_price;USD/kgN;2016;NA;1,605524159;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+romania;RO;NA;CAN_exporter_price;USD/kgN;2016;NA;1,053105202;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+russian federation;RU;NA;CAN_importer_price;USD/kgN;2016;NA;1,362970463;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+russian federation;RU;NA;CAN_exporter_price;USD/kgN;2016;NA;1,137881599;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+rwanda;RW;NA;CAN_importer_price;USD/kgN;2016;NA;1,64526103;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+rwanda;RW;NA;CAN_exporter_price;USD/kgN;2016;NA;28,33333333;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+saint lucia;LC;NA;CAN_importer_price;USD/kgN;2016;NA;1,269967698;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+saudi arabia;SA;NA;CAN_importer_price;USD/kgN;2016;NA;1,891193705;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+saudi arabia;SA;NA;CAN_exporter_price;USD/kgN;2016;NA;1,398924292;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+senegal;SN;NA;CAN_importer_price;USD/kgN;2016;NA;1,2335769;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+senegal;SN;NA;CAN_exporter_price;USD/kgN;2016;NA;2,054156862;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+serbia;RS;NA;CAN_importer_price;USD/kgN;2016;NA;1,384390288;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+serbia;RS;NA;CAN_exporter_price;USD/kgN;2016;NA;1,680045779;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+seychelles;SC;NA;CAN_importer_price;USD/kgN;2016;NA;3,325818816;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sierra leone;SL;NA;CAN_importer_price;USD/kgN;2016;NA;1,470076507;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sierra leone;SL;NA;CAN_exporter_price;USD/kgN;2016;NA;0,695723348;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+singapore;SG;NA;CAN_importer_price;USD/kgN;2016;NA;1,37501274;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+singapore;SG;NA;CAN_exporter_price;USD/kgN;2016;NA;1,629575337;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovakia;SK;NA;CAN_importer_price;USD/kgN;2016;NA;0,977966485;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovakia;SK;NA;CAN_exporter_price;USD/kgN;2016;NA;1,311489548;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovenia;SI;NA;CAN_importer_price;USD/kgN;2016;NA;1,549222744;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovenia;SI;NA;CAN_exporter_price;USD/kgN;2016;NA;1,245583738;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+south africa;ZA;NA;CAN_importer_price;USD/kgN;2016;NA;0,837074038;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+south africa;ZA;NA;CAN_exporter_price;USD/kgN;2016;NA;1,815209093;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+spain;ES;NA;CAN_importer_price;USD/kgN;2016;NA;0,867576881;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+spain;ES;NA;CAN_exporter_price;USD/kgN;2016;NA;1,434447503;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sri lanka;LK;NA;CAN_importer_price;USD/kgN;2016;NA;1,145314399;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sri lanka;LK;NA;CAN_exporter_price;USD/kgN;2016;NA;12,88888889;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+state of palestine;PS;NA;CAN_importer_price;USD/kgN;2016;NA;1,795041505;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sudan;SD;NA;CAN_importer_price;USD/kgN;2016;NA;1,222155532;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+suriname;SR;NA;CAN_importer_price;USD/kgN;2016;NA;0,990271147;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+swaziland;SZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,548016671;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+swaziland;SZ;NA;CAN_exporter_price;USD/kgN;2016;NA;1,409435209;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sweden;SE;NA;CAN_importer_price;USD/kgN;2016;NA;0,454136774;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sweden;SE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,440925767;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+switzerland;CH;NA;CAN_importer_price;USD/kgN;2016;NA;1,56478817;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+switzerland;CH;NA;CAN_exporter_price;USD/kgN;2016;NA;1,377449773;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+syria;SY;NA;CAN_importer_price;USD/kgN;2016;NA;1,086131274;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tanzania;TZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,178965777;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tanzania;TZ;NA;CAN_exporter_price;USD/kgN;2016;NA;2,056831988;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+thailand;TH;NA;CAN_importer_price;USD/kgN;2016;NA;1,286872632;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+thailand;TH;NA;CAN_exporter_price;USD/kgN;2016;NA;3,195131098;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+timor-leste;TL;NA;CAN_importer_price;USD/kgN;2016;NA;9,090909091;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+trinidad and tobago;TT;NA;CAN_importer_price;USD/kgN;2016;NA;1,663526298;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tunisia;TN;NA;CAN_importer_price;USD/kgN;2016;NA;1,26614409;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tunisia;TN;NA;CAN_exporter_price;USD/kgN;2016;NA;1,946081871;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+turkey;TR;NA;CAN_importer_price;USD/kgN;2016;NA;1,157456638;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+turkey;TR;NA;CAN_exporter_price;USD/kgN;2016;NA;1,138623622;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+turkmenistan;TM;NA;CAN_importer_price;USD/kgN;2016;NA;2,23313751;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uganda;UG;NA;CAN_importer_price;USD/kgN;2016;NA;2,435938077;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uganda;UG;NA;CAN_exporter_price;USD/kgN;2016;NA;0,90947269;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ukraine;UA;NA;CAN_importer_price;USD/kgN;2016;NA;1,43925429;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ukraine;UA;NA;CAN_exporter_price;USD/kgN;2016;NA;1,074362232;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united arab emirates;AE;NA;CAN_importer_price;USD/kgN;2016;NA;1,072501184;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united arab emirates;AE;NA;CAN_exporter_price;USD/kgN;2016;NA;1,625616776;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united kingdom;GB;NA;CAN_importer_price;USD/kgN;2016;NA;0,92839059;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united kingdom;GB;NA;CAN_exporter_price;USD/kgN;2016;NA;2,87061771;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united states;US;NA;CAN_importer_price;USD/kgN;2016;NA;0,81113232;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united states;US;NA;CAN_exporter_price;USD/kgN;2016;NA;1,531412795;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uruguay;UY;NA;CAN_importer_price;USD/kgN;2016;NA;1,347583069;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uzbekistan;UZ;NA;CAN_importer_price;USD/kgN;2016;NA;1,913879378;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+venezuela;VE;NA;CAN_importer_price;USD/kgN;2016;NA;1,515738052;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+vietnam;VN;NA;CAN_importer_price;USD/kgN;2016;NA;1,010743599;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+vietnam;VN;NA;CAN_exporter_price;USD/kgN;2016;NA;1,837737566;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+yemen;YE;NA;CAN_importer_price;USD/kgN;2016;NA;1,849790374;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+zambia;ZM;NA;CAN_importer_price;USD/kgN;2016;NA;1,665078102;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+zambia;ZM;NA;CAN_exporter_price;USD/kgN;2016;NA;4,72753546;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+zimbabwe;ZW;NA;CAN_importer_price;USD/kgN;2016;NA;1,877928686;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+zimbabwe;ZW;NA;CAN_exporter_price;USD/kgN;2016;NA;1,652747931;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+albania;AL;NA;urea_importer_price;USD/kgN;2016;NA;0,401786445;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+algeria;DZ;NA;urea_importer_price;USD/kgN;2016;NA;1,450433457;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+algeria;DZ;NA;urea_exporter_price;USD/kgN;2016;NA;0,416875209;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+andorra;AD;NA;urea_importer_price;USD/kgN;2016;NA;6,333781065;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+angola;AO;NA;urea_importer_price;USD/kgN;2016;NA;1,254319444;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+antigua and barbuda;AG;NA;urea_importer_price;USD/kgN;2016;NA;25,77639752;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+argentina;AR;NA;urea_importer_price;USD/kgN;2016;NA;0,413989603;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+aruba;AW;NA;urea_importer_price;USD/kgN;2016;NA;0,483091787;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+australia;AU;NA;urea_importer_price;USD/kgN;2016;NA;0,439077895;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+australia;AU;NA;urea_exporter_price;USD/kgN;2016;NA;1,536423542;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+austria;AT;NA;urea_importer_price;USD/kgN;2016;NA;0,464092032;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+austria;AT;NA;urea_exporter_price;USD/kgN;2016;NA;0,435229961;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+azerbaijan;AZ;NA;urea_importer_price;USD/kgN;2016;NA;1,913525306;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bahamas;BS;NA;urea_importer_price;USD/kgN;2016;NA;0,821256039;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bahrain;BH;NA;urea_importer_price;USD/kgN;2016;NA;3,867430124;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bangladesh;BD;NA;urea_importer_price;USD/kgN;2016;NA;0,483091787;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+barbados;BB;NA;urea_importer_price;USD/kgN;2016;NA;0,596738826;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+barbados;BB;NA;urea_exporter_price;USD/kgN;2016;NA;0,754365838;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belarus;BY;NA;urea_importer_price;USD/kgN;2016;NA;0,705277158;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belarus;BY;NA;urea_exporter_price;USD/kgN;2016;NA;0,409189023;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belgium;BE;NA;urea_importer_price;USD/kgN;2016;NA;0,388602808;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belgium;BE;NA;urea_exporter_price;USD/kgN;2016;NA;0,447535636;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+belize;BZ;NA;urea_importer_price;USD/kgN;2016;NA;0,525301776;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bolivia;BO;NA;urea_importer_price;USD/kgN;2016;NA;4,375623937;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bosnia herzegovina;BA;NA;urea_importer_price;USD/kgN;2016;NA;3,14489916;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+botswana;BW;NA;urea_importer_price;USD/kgN;2016;NA;0,88381167;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+brazil;BR;NA;urea_importer_price;USD/kgN;2016;NA;0,264818574;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+brazil;BR;NA;urea_exporter_price;USD/kgN;2016;NA;9,358053278;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bulgaria;BG;NA;urea_importer_price;USD/kgN;2016;NA;0,418313276;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+bulgaria;BG;NA;urea_exporter_price;USD/kgN;2016;NA;0,553893314;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+burundi;BI;NA;urea_importer_price;USD/kgN;2016;NA;1,222715006;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cameroon;CM;NA;urea_importer_price;USD/kgN;2016;NA;5,527826087;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+canada;CA;NA;urea_importer_price;USD/kgN;2016;NA;0,497830813;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+canada;CA;NA;urea_exporter_price;USD/kgN;2016;NA;0,53698218;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+chile;CL;NA;urea_importer_price;USD/kgN;2016;NA;0,45589739;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china;CN;NA;urea_importer_price;USD/kgN;2016;NA;0,818727487;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china;CN;NA;urea_exporter_price;USD/kgN;2016;NA;0,586562939;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+china, hong kong sar;HK;NA;urea_importer_price;USD/kgN;2016;NA;0,745396707;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+colombia;CO;NA;urea_importer_price;USD/kgN;2016;NA;0,39605737;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+congo, dem. rep.;CD;NA;urea_importer_price;USD/kgN;2016;NA;1,550892234;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+congo, rep.;CG;NA;urea_importer_price;USD/kgN;2016;NA;5,691699605;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+costa rica;CR;NA;urea_importer_price;USD/kgN;2016;NA;1,131204053;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+costa rica;CR;NA;urea_exporter_price;USD/kgN;2016;NA;2,957309641;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cote d'ivoire;CI;NA;urea_importer_price;USD/kgN;2016;NA;6,500541712;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+croatia;HR;NA;urea_importer_price;USD/kgN;2016;NA;0,713184463;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+croatia;HR;NA;urea_exporter_price;USD/kgN;2016;NA;0,614434281;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cyprus;CY;NA;urea_importer_price;USD/kgN;2016;NA;2,048891457;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+cyprus;CY;NA;urea_exporter_price;USD/kgN;2016;NA;1,068382789;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+czech rep.;CZ;NA;urea_importer_price;USD/kgN;2016;NA;0,429131462;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+czech rep.;CZ;NA;urea_exporter_price;USD/kgN;2016;NA;0,49063019;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+denmark;DK;NA;urea_importer_price;USD/kgN;2016;NA;0,419852773;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+denmark;DK;NA;urea_exporter_price;USD/kgN;2016;NA;0,407427489;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+dominica;DM;NA;urea_importer_price;USD/kgN;2016;NA;0,339714936;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+dominican rep.;DO;NA;urea_importer_price;USD/kgN;2016;NA;0,255464605;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+dominican rep.;DO;NA;urea_exporter_price;USD/kgN;2016;NA;0,804654011;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ecuador;EC;NA;urea_importer_price;USD/kgN;2016;NA;85,75514874;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+egypt;EG;NA;urea_importer_price;USD/kgN;2016;NA;2,474652835;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+egypt;EG;NA;urea_exporter_price;USD/kgN;2016;NA;0,511474129;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+el salvador;SV;NA;urea_importer_price;USD/kgN;2016;NA;1,05591307;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+estonia;EE;NA;urea_importer_price;USD/kgN;2016;NA;0,338553593;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+estonia;EE;NA;urea_exporter_price;USD/kgN;2016;NA;0,376616657;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ethiopia;ET;NA;urea_importer_price;USD/kgN;2016;NA;4,076205591;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+fiji;FJ;NA;urea_importer_price;USD/kgN;2016;NA;0,822757005;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+finland;FI;NA;urea_importer_price;USD/kgN;2016;NA;0,650707087;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+finland;FI;NA;urea_exporter_price;USD/kgN;2016;NA;0,315703154;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+france;FR;NA;urea_importer_price;USD/kgN;2016;NA;0,41789154;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+france;FR;NA;urea_exporter_price;USD/kgN;2016;NA;0,455196835;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+gambia;GM;NA;urea_importer_price;USD/kgN;2016;NA;1,093580863;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+georgia;GE;NA;urea_importer_price;USD/kgN;2016;NA;0,610095368;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+germany;DE;NA;urea_importer_price;USD/kgN;2016;NA;0,445346856;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+germany;DE;NA;urea_exporter_price;USD/kgN;2016;NA;0,46553156;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ghana;GH;NA;urea_importer_price;USD/kgN;2016;NA;0,922589672;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ghana;GH;NA;urea_exporter_price;USD/kgN;2016;NA;7,355072464;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+greece;GR;NA;urea_importer_price;USD/kgN;2016;NA;0,480346531;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+greece;GR;NA;urea_exporter_price;USD/kgN;2016;NA;1,709554141;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guatemala;GT;NA;urea_importer_price;USD/kgN;2016;NA;0,222798119;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guatemala;GT;NA;urea_exporter_price;USD/kgN;2016;NA;3,996529286;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+guyana;GY;NA;urea_importer_price;USD/kgN;2016;NA;0,775860471;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+honduras;HN;NA;urea_importer_price;USD/kgN;2016;NA;0,678920807;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+hungary;HU;NA;urea_importer_price;USD/kgN;2016;NA;0,40262777;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+hungary;HU;NA;urea_exporter_price;USD/kgN;2016;NA;0,551666734;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+india;IN;NA;urea_importer_price;USD/kgN;2016;NA;1,026299804;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+india;IN;NA;urea_exporter_price;USD/kgN;2016;NA;5,827793825;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+indonesia;ID;NA;urea_importer_price;USD/kgN;2016;NA;5,582817511;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+indonesia;ID;NA;urea_exporter_price;USD/kgN;2016;NA;1,810434783;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iran;IR;NA;urea_importer_price;USD/kgN;2016;NA;3,239667952;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iran;IR;NA;urea_exporter_price;USD/kgN;2016;NA;0,867431507;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+iraq;IQ;NA;urea_importer_price;USD/kgN;2016;NA;1,001127075;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ireland;IE;NA;urea_importer_price;USD/kgN;2016;NA;0,603250287;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ireland;IE;NA;urea_exporter_price;USD/kgN;2016;NA;0,922108212;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+israel;IL;NA;urea_importer_price;USD/kgN;2016;NA;0,411863643;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+israel;IL;NA;urea_exporter_price;USD/kgN;2016;NA;0,554754328;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+italy;IT;NA;urea_importer_price;USD/kgN;2016;NA;0,574694279;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+italy;IT;NA;urea_exporter_price;USD/kgN;2016;NA;0,930225464;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+jamaica;JM;NA;urea_importer_price;USD/kgN;2016;NA;3,088635351;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+japan;JP;NA;urea_importer_price;USD/kgN;2016;NA;1,04588027;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+japan;JP;NA;urea_exporter_price;USD/kgN;2016;NA;3,733249783;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+jordan;JO;NA;urea_importer_price;USD/kgN;2016;NA;1,343021983;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+jordan;JO;NA;urea_exporter_price;USD/kgN;2016;NA;0,634098326;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kazakhstan;KZ;NA;urea_importer_price;USD/kgN;2016;NA;0,304851445;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kazakhstan;KZ;NA;urea_exporter_price;USD/kgN;2016;NA;1,304347826;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kenya;KE;NA;urea_importer_price;USD/kgN;2016;NA;0,42033058;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kenya;KE;NA;urea_exporter_price;USD/kgN;2016;NA;1,380358266;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+korea, rep.;KR;NA;urea_importer_price;USD/kgN;2016;NA;1,194286377;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+korea, rep.;KR;NA;urea_exporter_price;USD/kgN;2016;NA;3,868763878;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kuwait;KW;NA;urea_importer_price;USD/kgN;2016;NA;0,362318841;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kuwait;KW;NA;urea_exporter_price;USD/kgN;2016;NA;0,432492304;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+kyrgyzstan;KG;NA;urea_importer_price;USD/kgN;2016;NA;0,581950024;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lao pdr;LA;NA;urea_importer_price;USD/kgN;2016;NA;0,505169569;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+latvia;LV;NA;urea_importer_price;USD/kgN;2016;NA;0,397797733;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+latvia;LV;NA;urea_exporter_price;USD/kgN;2016;NA;0,441949463;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lebanon;LB;NA;urea_importer_price;USD/kgN;2016;NA;0,638582614;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lebanon;LB;NA;urea_exporter_price;USD/kgN;2016;NA;0,543444013;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+libya;LY;NA;urea_importer_price;USD/kgN;2016;NA;1,92177713;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+libya;LY;NA;urea_exporter_price;USD/kgN;2016;NA;0,824633568;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lithuania;LT;NA;urea_importer_price;USD/kgN;2016;NA;0,320007566;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+lithuania;LT;NA;urea_exporter_price;USD/kgN;2016;NA;0,428240936;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+luxembourg;LU;NA;urea_importer_price;USD/kgN;2016;NA;0,542049067;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+luxembourg;LU;NA;urea_exporter_price;USD/kgN;2016;NA;0,522840555;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+macedonia, fyr;MK;NA;urea_importer_price;USD/kgN;2016;NA;0,702571161;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+macedonia, fyr;MK;NA;urea_exporter_price;USD/kgN;2016;NA;2,037075933;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+madagascar;MG;NA;urea_importer_price;USD/kgN;2016;NA;0,734161491;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malawi;MW;NA;urea_importer_price;USD/kgN;2016;NA;1,147933801;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malaysia;MY;NA;urea_importer_price;USD/kgN;2016;NA;2,494834596;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malaysia;MY;NA;urea_exporter_price;USD/kgN;2016;NA;0,956841871;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mali;ML;NA;urea_importer_price;USD/kgN;2016;NA;0,830852259;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malta;MT;NA;urea_importer_price;USD/kgN;2016;NA;1,156739244;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+malta;MT;NA;urea_exporter_price;USD/kgN;2016;NA;0,535807015;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mauritania;MR;NA;urea_importer_price;USD/kgN;2016;NA;1,196035242;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mauritius;MU;NA;urea_importer_price;USD/kgN;2016;NA;2,976128719;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mauritius;MU;NA;urea_exporter_price;USD/kgN;2016;NA;1,244944191;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mexico;MX;NA;urea_importer_price;USD/kgN;2016;NA;0,515168666;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mexico;MX;NA;urea_exporter_price;USD/kgN;2016;NA;0,654743789;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+moldova;MD;NA;urea_importer_price;USD/kgN;2016;NA;0,532496578;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+montenegro;ME;NA;urea_importer_price;USD/kgN;2016;NA;3,554207383;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+morocco;MA;NA;urea_importer_price;USD/kgN;2016;NA;0,714351747;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+morocco;MA;NA;urea_exporter_price;USD/kgN;2016;NA;1,186974579;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mozambique;MZ;NA;urea_importer_price;USD/kgN;2016;NA;1,097094306;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+mozambique;MZ;NA;urea_exporter_price;USD/kgN;2016;NA;1,564470971;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+myanmar;MM;NA;urea_importer_price;USD/kgN;2016;NA;5,7786524;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+namibia;NA;NA;urea_importer_price;USD/kgN;2016;NA;0,900882928;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+namibia;NA;NA;urea_exporter_price;USD/kgN;2016;NA;1,695652174;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+nepal;NP;NA;urea_importer_price;USD/kgN;2016;NA;0,704433913;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+netherlands;NL;NA;urea_importer_price;USD/kgN;2016;NA;0,42044819;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+netherlands;NL;NA;urea_exporter_price;USD/kgN;2016;NA;0,433525324;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+new caledonia;NC;NA;urea_importer_price;USD/kgN;2016;NA;4,355245585;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+new zealand;NZ;NA;urea_importer_price;USD/kgN;2016;NA;0,866966823;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+new zealand;NZ;NA;urea_exporter_price;USD/kgN;2016;NA;1,943973785;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+nicaragua;NI;NA;urea_importer_price;USD/kgN;2016;NA;12,56738864;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+niger;NE;NA;urea_importer_price;USD/kgN;2016;NA;12,34746452;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+nigeria;NG;NA;urea_importer_price;USD/kgN;2016;NA;0,539560746;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+norway;NO;NA;urea_importer_price;USD/kgN;2016;NA;6,856444012;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+norway;NO;NA;urea_exporter_price;USD/kgN;2016;NA;0,262696849;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+oman;OM;NA;urea_importer_price;USD/kgN;2016;NA;0,752163576;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+oman;OM;NA;urea_exporter_price;USD/kgN;2016;NA;0,505120024;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+pakistan;PK;NA;urea_importer_price;USD/kgN;2016;NA;0,875976169;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+palau;PW;NA;urea_importer_price;USD/kgN;2016;NA;0,780566093;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+panama;PA;NA;urea_importer_price;USD/kgN;2016;NA;0,541689312;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+papua new guinea;PG;NA;urea_importer_price;USD/kgN;2016;NA;0,39107119;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+paraguay;PY;NA;urea_importer_price;USD/kgN;2016;NA;9,678785824;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+peru;PE;NA;urea_importer_price;USD/kgN;2016;NA;0,793313091;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+peru;PE;NA;urea_exporter_price;USD/kgN;2016;NA;4,308086285;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+philippines;PH;NA;urea_importer_price;USD/kgN;2016;NA;5,687673961;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+philippines;PH;NA;urea_exporter_price;USD/kgN;2016;NA;4,922346687;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+poland;PL;NA;urea_importer_price;USD/kgN;2016;NA;0,389733085;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+poland;PL;NA;urea_exporter_price;USD/kgN;2016;NA;0,461190298;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+portugal;PT;NA;urea_importer_price;USD/kgN;2016;NA;0,481651734;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+portugal;PT;NA;urea_exporter_price;USD/kgN;2016;NA;0,555916708;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+qatar;QA;NA;urea_importer_price;USD/kgN;2016;NA;3,975960009;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+qatar;QA;NA;urea_exporter_price;USD/kgN;2016;NA;0,806460788;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+romania;RO;NA;urea_importer_price;USD/kgN;2016;NA;0,471243036;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+romania;RO;NA;urea_exporter_price;USD/kgN;2016;NA;0,566380511;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+russian federation;RU;NA;urea_importer_price;USD/kgN;2016;NA;1,142009481;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+russian federation;RU;NA;urea_exporter_price;USD/kgN;2016;NA;0,419694411;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+rwanda;RW;NA;urea_importer_price;USD/kgN;2016;NA;1,876525355;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+saint lucia;LC;NA;urea_importer_price;USD/kgN;2016;NA;1,290236634;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+saudi arabia;SA;NA;urea_importer_price;USD/kgN;2016;NA;0,46113307;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+saudi arabia;SA;NA;urea_exporter_price;USD/kgN;2016;NA;0,92980772;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+senegal;SN;NA;urea_importer_price;USD/kgN;2016;NA;0,356240448;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+serbia;RS;NA;urea_importer_price;USD/kgN;2016;NA;0,71342726;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+serbia;RS;NA;urea_exporter_price;USD/kgN;2016;NA;0,413178744;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+seychelles;SC;NA;urea_importer_price;USD/kgN;2016;NA;1,304347826;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+singapore;SG;NA;urea_importer_price;USD/kgN;2016;NA;2,326085677;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+singapore;SG;NA;urea_exporter_price;USD/kgN;2016;NA;0,898948022;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovakia;SK;NA;urea_importer_price;USD/kgN;2016;NA;0,506832425;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovakia;SK;NA;urea_exporter_price;USD/kgN;2016;NA;0,421499094;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovenia;SI;NA;urea_importer_price;USD/kgN;2016;NA;0,487600688;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+slovenia;SI;NA;urea_exporter_price;USD/kgN;2016;NA;0,262343645;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+solomon isds;SB;NA;urea_importer_price;USD/kgN;2016;NA;0,554420776;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+south africa;ZA;NA;urea_importer_price;USD/kgN;2016;NA;4,427388804;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+south africa;ZA;NA;urea_exporter_price;USD/kgN;2016;NA;1,104223945;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+spain;ES;NA;urea_importer_price;USD/kgN;2016;NA;0,479148426;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+spain;ES;NA;urea_exporter_price;USD/kgN;2016;NA;0,599188145;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sri lanka;LK;NA;urea_importer_price;USD/kgN;2016;NA;1,180679486;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sri lanka;LK;NA;urea_exporter_price;USD/kgN;2016;NA;5,341614907;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+state of palestine;PS;NA;urea_importer_price;USD/kgN;2016;NA;0,558459599;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+state of palestine;PS;NA;urea_exporter_price;USD/kgN;2016;NA;0,524474767;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sudan;SD;NA;urea_importer_price;USD/kgN;2016;NA;0,639406243;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+swaziland;SZ;NA;urea_importer_price;USD/kgN;2016;NA;0,745207205;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sweden;SE;NA;urea_importer_price;USD/kgN;2016;NA;0,438932207;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+sweden;SE;NA;urea_exporter_price;USD/kgN;2016;NA;1,31756317;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+switzerland;CH;NA;urea_importer_price;USD/kgN;2016;NA;0,561614238;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+switzerland;CH;NA;urea_exporter_price;USD/kgN;2016;NA;0,414252469;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+syria;SY;NA;urea_importer_price;USD/kgN;2016;NA;1,633652898;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tanzania;TZ;NA;urea_importer_price;USD/kgN;2016;NA;0,4903136;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tanzania;TZ;NA;urea_exporter_price;USD/kgN;2016;NA;1,191969514;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+thailand;TH;NA;urea_importer_price;USD/kgN;2016;NA;0,413402812;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+thailand;TH;NA;urea_exporter_price;USD/kgN;2016;NA;0,490150566;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+timor-leste;TL;NA;urea_importer_price;USD/kgN;2016;NA;1,089890141;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tonga;TO;NA;urea_importer_price;USD/kgN;2016;NA;0,957065217;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tunisia;TN;NA;urea_importer_price;USD/kgN;2016;NA;0,404056554;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+tunisia;TN;NA;urea_exporter_price;USD/kgN;2016;NA;12,85780597;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+turkey;TR;NA;urea_importer_price;USD/kgN;2016;NA;0,56655084;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+turkey;TR;NA;urea_exporter_price;USD/kgN;2016;NA;0,506792908;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uganda;UG;NA;urea_importer_price;USD/kgN;2016;NA;1,018739727;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uganda;UG;NA;urea_exporter_price;USD/kgN;2016;NA;1,295376121;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ukraine;UA;NA;urea_importer_price;USD/kgN;2016;NA;0,41787682;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+ukraine;UA;NA;urea_exporter_price;USD/kgN;2016;NA;0,603397432;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united arab emirates;AE;NA;urea_importer_price;USD/kgN;2016;NA;0,708438821;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united arab emirates;AE;NA;urea_exporter_price;USD/kgN;2016;NA;0,979314509;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united kingdom;GB;NA;urea_importer_price;USD/kgN;2016;NA;0,424445287;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united kingdom;GB;NA;urea_exporter_price;USD/kgN;2016;NA;1,197963625;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united states;US;NA;urea_importer_price;USD/kgN;2016;NA;0,469853138;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+united states;US;NA;urea_exporter_price;USD/kgN;2016;NA;0,383845173;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uruguay;UY;NA;urea_importer_price;USD/kgN;2016;NA;0,439492308;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uzbekistan;UZ;NA;urea_importer_price;USD/kgN;2016;NA;0,392681309;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+uzbekistan;UZ;NA;urea_exporter_price;USD/kgN;2016;NA;0,390945233;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+vietnam;VN;NA;urea_importer_price;USD/kgN;2016;NA;8,099979122;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+yemen;YE;NA;urea_importer_price;USD/kgN;2016;NA;2,075890912;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+zambia;ZM;NA;urea_importer_price;USD/kgN;2016;NA;1,046120257;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA
+zimbabwe;ZW;NA;urea_importer_price;USD/kgN;2016;NA;1,317878696;global_trade_database_(Prices_N_fertilizer_and_cereal_2014-2018);NA

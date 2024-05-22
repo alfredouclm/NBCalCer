@@ -1,0 +1,223 @@
+country_origname;country_code;crop;variable;units;year;campaign;data;source;comments
+china;CN_jilin;rice;yw;t/ha;NA;NA;5,799357166;YpYw_Area_USA-China_regions.csv;NA
+china;CN_liaoning;rice;yw;t/ha;NA;NA;6,241694483;YpYw_Area_USA-China_regions.csv;NA
+china;CN_xizang_tibet;rice;yw;t/ha;NA;NA;4,286046512;YpYw_Area_USA-China_regions.csv;NA
+china;CN_chongqing;rice;yw;t/ha;NA;NA;6,611385743;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hunan;rice;yw;t/ha;NA;NA;6,632246271;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangxi;rice;yw;t/ha;NA;NA;6,716518995;YpYw_Area_USA-China_regions.csv;NA
+china;CN_yunnan;rice;yw;t/ha;NA;NA;6,852331249;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guizhou;rice;yw;t/ha;NA;NA;6,650548277;YpYw_Area_USA-China_regions.csv;NA
+china;CN_fujian;rice;yw;t/ha;NA;NA;6,608582555;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guangxi;rice;yw;t/ha;NA;NA;6,569322345;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guangdong;rice;yw;t/ha;NA;NA;6,540610923;YpYw_Area_USA-China_regions.csv;NA
+china;CN_total;rice;yw;t/ha;NA;NA;6,38950783;YpYw_Area_USA-China_regions.csv;NA
+china;CN_heilongjiang;rice;yp;t/ha;NA;NA;10,27121212;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jilin;rice;yp;t/ha;NA;NA;10,27121212;YpYw_Area_USA-China_regions.csv;NA
+china;CN_liaoning;rice;yp;t/ha;NA;NA;10,34227273;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hebei;rice;yp;t/ha;NA;NA;10,34227273;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shaanxi;rice;yp;t/ha;NA;NA;10,5126576;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shandong;rice;yp;t/ha;NA;NA;10,48537643;YpYw_Area_USA-China_regions.csv;NA
+china;CN_henan;rice;yp;t/ha;NA;NA;10,42995299;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangsu;rice;yp;t/ha;NA;NA;10,45562675;YpYw_Area_USA-China_regions.csv;NA
+china;CN_anhui;rice;yp;t/ha;NA;NA;10,14963091;YpYw_Area_USA-China_regions.csv;NA
+china;CN_sichuan;rice;yp;t/ha;NA;NA;10,02035482;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hubei;rice;yp;t/ha;NA;NA;9,449333882;YpYw_Area_USA-China_regions.csv;NA
+china;CN_chongqing;rice;yp;t/ha;NA;NA;9,928863373;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shanghai;rice;yp;t/ha;NA;NA;9,901498057;YpYw_Area_USA-China_regions.csv;NA
+china;CN_zhejiang;rice;yp;t/ha;NA;NA;9,21139177;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hunan;rice;yp;t/ha;NA;NA;9,211064672;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangxi;rice;yp;t/ha;NA;NA;9,119637321;YpYw_Area_USA-China_regions.csv;NA
+china;CN_yunnan;rice;yp;t/ha;NA;NA;9,629360228;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guizhou;rice;yp;t/ha;NA;NA;9,758991796;YpYw_Area_USA-China_regions.csv;NA
+china;CN_fujian;rice;yp;t/ha;NA;NA;8,849296551;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guangxi;rice;yp;t/ha;NA;NA;8,855013781;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guangdong;rice;yp;t/ha;NA;NA;8,809749778;YpYw_Area_USA-China_regions.csv;NA
+china;CN_total;rice;yp;t/ha;NA;NA;9,512048269;YpYw_Area_USA-China_regions.csv;NA
+china;CN_heilongjiang;maize;yw;t/ha;NA;NA;11,96267955;YpYw_Area_USA-China_regions.csv;NA
+china;CN_innermongolia;maize;yw;t/ha;NA;NA;11,11404426;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jilin;maize;yw;t/ha;NA;NA;12,50384161;YpYw_Area_USA-China_regions.csv;NA
+china;CN_liaoning;maize;yw;t/ha;NA;NA;11,87013234;YpYw_Area_USA-China_regions.csv;NA
+china;CN_gansu;maize;yw;t/ha;NA;NA;10,9016222;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hebei;maize;yw;t/ha;NA;NA;10,54278475;YpYw_Area_USA-China_regions.csv;NA
+china;CN_beijing;maize;yw;t/ha;NA;NA;10,17550491;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shanxi;maize;yw;t/ha;NA;NA;10,37837894;YpYw_Area_USA-China_regions.csv;NA
+china;CN_tianjin;maize;yw;t/ha;NA;NA;9,935311179;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shaanxi;maize;yw;t/ha;NA;NA;10,4502566;YpYw_Area_USA-China_regions.csv;NA
+china;CN_ningxia;maize;yw;t/ha;NA;NA;11,67984811;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shandong;maize;yw;t/ha;NA;NA;10,76311679;YpYw_Area_USA-China_regions.csv;NA
+china;CN_henan;maize;yw;t/ha;NA;NA;11,24367332;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangsu;maize;yw;t/ha;NA;NA;11,71300382;YpYw_Area_USA-China_regions.csv;NA
+china;CN_anhui;maize;yw;t/ha;NA;NA;11,11515809;YpYw_Area_USA-China_regions.csv;NA
+china;CN_sichuan;maize;yw;t/ha;NA;NA;8,927745892;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hubei;maize;yw;t/ha;NA;NA;10,35442771;YpYw_Area_USA-China_regions.csv;NA
+china;CN_chongqing;maize;yw;t/ha;NA;NA;8,418955951;YpYw_Area_USA-China_regions.csv;NA
+china;CN_zhejiang;maize;yw;t/ha;NA;NA;7,291967805;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hunan;maize;yw;t/ha;NA;NA;7,693336587;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangxi;maize;yw;t/ha;NA;NA;7,649843743;YpYw_Area_USA-China_regions.csv;NA
+china;CN_yunnan;maize;yw;t/ha;NA;NA;8,733372299;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guizhou;maize;yw;t/ha;NA;NA;8,587047777;YpYw_Area_USA-China_regions.csv;NA
+china;CN_fujian;maize;yw;t/ha;NA;NA;7,279591837;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guangxi;maize;yw;t/ha;NA;NA;9,067550984;YpYw_Area_USA-China_regions.csv;NA
+china;CN_guangdong;maize;yw;t/ha;NA;NA;7,279591837;YpYw_Area_USA-China_regions.csv;NA
+china;CN_total;maize;yw;t/ha;NA;NA;10,74717766;YpYw_Area_USA-China_regions.csv;NA
+china;CN_heilongjiang;maize;yp;t/ha;NA;NA;13,85135256;YpYw_Area_USA-China_regions.csv;NA
+china;CN_innermongolia;maize;yp;t/ha;NA;NA;15,30418726;YpYw_Area_USA-China_regions.csv;NA
+china;CN_xinjiang;maize;yp;t/ha;NA;NA;17,55372554;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jilin;maize;yp;t/ha;NA;NA;13,75590513;YpYw_Area_USA-China_regions.csv;NA
+china;CN_liaoning;maize;yp;t/ha;NA;NA;13,51109604;YpYw_Area_USA-China_regions.csv;NA
+china;CN_gansu;maize;yp;t/ha;NA;NA;16,02947455;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hebei;maize;yp;t/ha;NA;NA;14,15762179;YpYw_Area_USA-China_regions.csv;NA
+china;CN_beijing;maize;yp;t/ha;NA;NA;14,30722224;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shanxi;maize;yp;t/ha;NA;NA;13,90932031;YpYw_Area_USA-China_regions.csv;NA
+china;CN_tianjin;maize;yp;t/ha;NA;NA;14,42943093;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shaanxi;maize;yp;t/ha;NA;NA;14,11189507;YpYw_Area_USA-China_regions.csv;NA
+china;CN_ningxia;maize;yp;t/ha;NA;NA;17,34399557;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shandong;maize;yp;t/ha;NA;NA;13,53342743;YpYw_Area_USA-China_regions.csv;NA
+china;CN_henan;maize;yp;t/ha;NA;NA;13,3285783;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangsu;maize;yp;t/ha;NA;NA;12,52353207;YpYw_Area_USA-China_regions.csv;NA
+china;CN_anhui;maize;yp;t/ha;NA;NA;12,58279629;YpYw_Area_USA-China_regions.csv;NA
+china;CN_total;maize;yp;t/ha;NA;NA;14,13179831;YpYw_Area_USA-China_regions.csv;NA
+china;CN_innermongolia;wheat;yw;t/ha;NA;NA;4,955594174;YpYw_Area_USA-China_regions.csv;NA
+china;CN_gansu;wheat;yw;t/ha;NA;NA;4,955594174;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hebei;wheat;yw;t/ha;NA;NA;5,121141634;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shanxi;wheat;yw;t/ha;NA;NA;5,101943877;YpYw_Area_USA-China_regions.csv;NA
+china;CN_tianjin;wheat;yw;t/ha;NA;NA;5,15364223;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shaanxi;wheat;yw;t/ha;NA;NA;4,976776386;YpYw_Area_USA-China_regions.csv;NA
+china;CN_ningxia;wheat;yw;t/ha;NA;NA;4,955594174;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shandong;wheat;yw;t/ha;NA;NA;6,173143147;YpYw_Area_USA-China_regions.csv;NA
+china;CN_henan;wheat;yw;t/ha;NA;NA;6,085650569;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangsu;wheat;yw;t/ha;NA;NA;6,447205943;YpYw_Area_USA-China_regions.csv;NA
+china;CN_anhui;wheat;yw;t/ha;NA;NA;6,289835897;YpYw_Area_USA-China_regions.csv;NA
+china;CN_sichuan;wheat;yw;t/ha;NA;NA;6,089126897;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hubei;wheat;yw;t/ha;NA;NA;6,369467788;YpYw_Area_USA-China_regions.csv;NA
+china;CN_chongqing;wheat;yw;t/ha;NA;NA;6,089126897;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hunan;wheat;yw;t/ha;NA;NA;6,199702578;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangxi;wheat;yw;t/ha;NA;NA;6,199702578;YpYw_Area_USA-China_regions.csv;NA
+china;CN_total;wheat;yw;t/ha;NA;NA;6,11409152;YpYw_Area_USA-China_regions.csv;NA
+china;CN_xinjiang;wheat;yp;t/ha;NA;NA;10,73807486;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jilin;wheat;yp;t/ha;NA;NA;10,28661228;YpYw_Area_USA-China_regions.csv;NA
+china;CN_liaoning;wheat;yp;t/ha;NA;NA;10,28661228;YpYw_Area_USA-China_regions.csv;NA
+china;CN_hebei;wheat;yp;t/ha;NA;NA;9,813292299;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shanxi;wheat;yp;t/ha;NA;NA;9,817504863;YpYw_Area_USA-China_regions.csv;NA
+china;CN_tianjin;wheat;yp;t/ha;NA;NA;9,767904119;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shaanxi;wheat;yp;t/ha;NA;NA;9,809323436;YpYw_Area_USA-China_regions.csv;NA
+china;CN_shandong;wheat;yp;t/ha;NA;NA;9,724247791;YpYw_Area_USA-China_regions.csv;NA
+china;CN_henan;wheat;yp;t/ha;NA;NA;9,651177825;YpYw_Area_USA-China_regions.csv;NA
+china;CN_jiangsu;wheat;yp;t/ha;NA;NA;9,07035585;YpYw_Area_USA-China_regions.csv;NA
+china;CN_anhui;wheat;yp;t/ha;NA;NA;8,958689378;YpYw_Area_USA-China_regions.csv;NA
+china;CN_total;wheat;yp;t/ha;NA;NA;9,554348575;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_mississippi;rice;yp;t/ha;NA;NA;12,27297406;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_louisiana;rice;yp;t/ha;NA;NA;11,89901608;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_texas;rice;yp;t/ha;NA;NA;12,10927712;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_california;rice;yp;t/ha;NA;NA;13,18388255;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_missouri;rice;yp;t/ha;NA;NA;12,615;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_tennessee;rice;yp;t/ha;NA;NA;12,615;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_illinois;rice;yp;t/ha;NA;NA;12,615;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_arkansas;rice;yp;t/ha;NA;NA;12,48284164;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_total;rice;yp;t/ha;NA;NA;12,46834439;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_mississippi;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_northcarolina;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oklahoma;maize;yw;t/ha;NA;NA;7,784863171;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_virginia;maize;yw;t/ha;NA;NA;13,15335298;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_westvirginia;maize;yw;t/ha;NA;NA;13,11355829;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_louisiana;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_michigan;maize;yw;t/ha;NA;NA;12,93998871;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_idaho;maize;yw;t/ha;NA;NA;8,79047619;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_florida;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_nebraska;maize;yw;t/ha;NA;NA;9,494592344;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_southdakota;maize;yw;t/ha;NA;NA;8,910195209;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_texas;maize;yw;t/ha;NA;NA;6,073333333;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_alabama;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_georgia;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_pennsylvania;maize;yw;t/ha;NA;NA;13,35162115;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_missouri;maize;yw;t/ha;NA;NA;12,80000087;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newyork;maize;yw;t/ha;NA;NA;12,73682823;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_kansas;maize;yw;t/ha;NA;NA;9,014789198;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_illinois;maize;yw;t/ha;NA;NA;13,22453681;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_montana;maize;yw;t/ha;NA;NA;6,259135636;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_iowa;maize;yw;t/ha;NA;NA;12,84749805;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_southcarolina;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_districtof columbia;maize;yw;t/ha;NA;NA;13,51235602;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newjersey;maize;yw;t/ha;NA;NA;13,51235602;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_maryland;maize;yw;t/ha;NA;NA;13,49290028;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_delaware;maize;yw;t/ha;NA;NA;13,51235602;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_kentucky;maize;yw;t/ha;NA;NA;13,51235602;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_ohio;maize;yw;t/ha;NA;NA;13,2886454;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_wisconsin;maize;yw;t/ha;NA;NA;12,75315735;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_northdakota;maize;yw;t/ha;NA;NA;8,784440353;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_arkansas;maize;yw;t/ha;NA;NA;10,53823529;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_indiana;maize;yw;t/ha;NA;NA;13,47940328;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_minnesota;maize;yw;t/ha;NA;NA;12,34182354;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_total;maize;yw;t/ha;NA;NA;12,17966043;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oklahoma;maize;yp;t/ha;NA;NA;13,14664611;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_virginia;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_michigan;maize;yp;t/ha;NA;NA;10,94;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_idaho;maize;yp;t/ha;NA;NA;12,96356309;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_nebraska;maize;yp;t/ha;NA;NA;13,97862912;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_washington;maize;yp;t/ha;NA;NA;12,56842105;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newmexico;maize;yp;t/ha;NA;NA;13,85173656;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_southdakota;maize;yp;t/ha;NA;NA;13,6713729;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_texas;maize;yp;t/ha;NA;NA;13,61670103;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_california;maize;yp;t/ha;NA;NA;13,86428571;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_pennsylvania;maize;yp;t/ha;NA;NA;10,94;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_missouri;maize;yp;t/ha;NA;NA;13,22382366;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_colorado;maize;yp;t/ha;NA;NA;13,36583542;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_utah;maize;yp;t/ha;NA;NA;12,9942889;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_tennessee;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_wyoming;maize;yp;t/ha;NA;NA;12,56842105;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newyork;maize;yp;t/ha;NA;NA;10,94;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_kansas;maize;yp;t/ha;NA;NA;13,8966135;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_illinois;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_montana;maize;yp;t/ha;NA;NA;12,61533075;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_iowa;maize;yp;t/ha;NA;NA;13,92634953;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_arizona;maize;yp;t/ha;NA;NA;13,86428571;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_maryland;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_kentucky;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_wisconsin;maize;yp;t/ha;NA;NA;10,94;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oregon;maize;yp;t/ha;NA;NA;13,86619844;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_northdakota;maize;yp;t/ha;NA;NA;13,34419359;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_arkansas;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_indiana;maize;yp;t/ha;NA;NA;13,2;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_minnesota;maize;yp;t/ha;NA;NA;13,95514999;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_total;maize;yp;t/ha;NA;NA;13,82369411;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oklahoma;wheat;yw;t/ha;NA;NA;6,748005831;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_westvirginia;wheat;yw;t/ha;NA;NA;9,743125;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_michigan;wheat;yw;t/ha;NA;NA;8,200934536;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_idaho;wheat;yw;t/ha;NA;NA;4,440849785;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_nebraska;wheat;yw;t/ha;NA;NA;5,590227007;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_washington;wheat;yw;t/ha;NA;NA;4,757070863;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newmexico;wheat;yw;t/ha;NA;NA;3,319248267;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_southdakota;wheat;yw;t/ha;NA;NA;4,018294545;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_texas;wheat;yw;t/ha;NA;NA;3,818797884;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_california;wheat;yw;t/ha;NA;NA;3,286131868;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_pennsylvania;wheat;yw;t/ha;NA;NA;9,743125;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_colorado;wheat;yw;t/ha;NA;NA;5,782218623;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_utah;wheat;yw;t/ha;NA;NA;5,232982803;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_wyoming;wheat;yw;t/ha;NA;NA;4,541190355;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newyork;wheat;yw;t/ha;NA;NA;9,434415246;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_kansas;wheat;yw;t/ha;NA;NA;6,342008695;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_illinois;wheat;yw;t/ha;NA;NA;9,743125;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_montana;wheat;yw;t/ha;NA;NA;3,969944713;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_iowa;wheat;yw;t/ha;NA;NA;8,680597762;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_ohio;wheat;yw;t/ha;NA;NA;8,956281929;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_wisconsin;wheat;yw;t/ha;NA;NA;8,828221479;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oregon;wheat;yw;t/ha;NA;NA;4,19899583;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_northdakota;wheat;yw;t/ha;NA;NA;5,192635525;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_indiana;wheat;yw;t/ha;NA;NA;9,625093746;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_minnesota;wheat;yw;t/ha;NA;NA;7,645440863;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_total;wheat;yw;t/ha;NA;NA;5,490430848;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oklahoma;wheat;yp;t/ha;NA;NA;10,61098734;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_idaho;wheat;yp;t/ha;NA;NA;10,76699736;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_nebraska;wheat;yp;t/ha;NA;NA;10,78441184;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_washington;wheat;yp;t/ha;NA;NA;10,91567228;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_newmexico;wheat;yp;t/ha;NA;NA;10,33365063;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_southdakota;wheat;yp;t/ha;NA;NA;10,80981203;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_texas;wheat;yp;t/ha;NA;NA;10,4572727;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_california;wheat;yp;t/ha;NA;NA;9,682633247;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_colorado;wheat;yp;t/ha;NA;NA;10,71431164;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_wyoming;wheat;yp;t/ha;NA;NA;10,80981203;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_kansas;wheat;yp;t/ha;NA;NA;10,70449618;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_montana;wheat;yp;t/ha;NA;NA;10,80974963;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_arizona;wheat;yp;t/ha;NA;NA;9,248928571;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_oregon;wheat;yp;t/ha;NA;NA;10,91567228;YpYw_Area_USA-China_regions.csv;NA
+united states of america;US_total;wheat;yp;t/ha;NA;NA;10,46936612;YpYw_Area_USA-China_regions.csv;NA

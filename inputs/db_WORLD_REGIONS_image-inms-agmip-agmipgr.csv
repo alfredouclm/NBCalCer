@@ -1,0 +1,251 @@
+country;iso2c;iso3c;image_region;image_region_name;inms_region;inms_region_name;agmip_region;agmip_region_name;agmipgr_region;agmipgr_region_name;agmipgrnoecuad_region;agmipgrnoecuad_region_name;global_region;global_region_name
+afghanistan;AF;AFG;25;Rest of South Asia;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+alandislands;AX;ALA;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+albania;AL;ALB;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+algeria;DZ;DZA;7;Northern Africa;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+americansamoa;AS;ASM;24;Oceania;ANZ;Australia, New Zealand;ANZ;Australia and New Zealand;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+andorra;AD;AND;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+angola;AO;AGO;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+anguilla;AI;AIA;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+antarctica;AQ;ATA;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+antiguaandbarbuda;AG;ATG;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+argentina;AR;ARG;6;Rest of South America;XPR;La Plata River Catchment case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+armenia;AM;ARM;16;Russia region;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+aruba;AW;ABW;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+australia;AU;AUS;24;Oceania;ANZ;Australia, New Zealand;ANZ;Australia and New Zealand;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+austria;AT;AUT;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+azerbaijan;AZ;AZE;16;Russia region;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+bahamas;BS;BHS;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+bahrain;BH;BHR;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+bangladesh;BD;BGD;25;Rest of South Asia;XSA;South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+barbados;BB;BRB;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+belarus;BY;BLR;14;Ukraine region;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+belgium;BE;BEL;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+belize;BZ;BLZ;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+benin;BJ;BEN;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+bermuda;BM;BMU;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+bhutan;BT;BTN;25;Rest of South Asia;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+bolivia;BO;BOL;6;Rest of South America;XPR;La Plata River Catchment case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+bonaire,sinteustatiusandsaba;BQ;BES;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+bosniaandherzegovina;BA;BIH;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+botswana;BW;BWA;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+bouvetisland;BV;BVT;;;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+brazil;BR;BRA;5;Brazil;XPR;La Plata River Catchment case study region;BRA;Brazil;LAM;L America;LAM;L America;WRL;World
+britishindianoceanterritory;IO;IOT;;;OAS;South Asia other than South Asia case study region;IND;India;IND;India;IND;India;WRL;World
+brunei;BN;BRN;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+bulgaria;BG;BGR;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+burkinafaso;BF;BFA;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+burundi;BI;BDI;9;Eastern Africa;XLV;East Africa Lake Victoria case study region;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+cambodia;KH;KHM;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+cameroon;CM;CMR;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+canada;CA;CAN;1;Canada;XNA;United States of America and Canada;CAN;Canada;NAM;N America;NAM;N America;WRL;World
+capeverde;CV;CPV;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+caymanislands;KY;CYM;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+centralafricanrepublic;CF;CAF;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+chad;TD;TCD;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+chile;CL;CHL;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+china;CN;CHN;20;China region;XEA;East Asia case study region;CHN;China;CHN;China;CHN;China;WRL;World
+christmasisland;CX;CXR;;;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+cocos(keeling)islands;CC;CCK;;;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+colombia;CO;COL;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+comoros;KM;COM;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+congodem.rep.;CD;COD;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+congorep.;CG;COG;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+cookisl.;CK;COK;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+costarica;CR;CRI;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+coted'ivoire;CI;CIV;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+croatia;HR;HRV;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+cuba;CU;CUB;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+curacao;CW;CUW;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+cyprus;CY;CYP;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+czechrepublic;CZ;CZE;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+denmark;DK;DNK;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+djibouti;DJ;DJI;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+dominica;DM;DMA;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+dominicanrepublic;DO;DOM;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+easttimor;TL;TLS;22;Indonesia region;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+ecuador;EC;ECU;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;;;WRL;World
+egyptarabrep.;EG;EGY;7;Northern Africa;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+elsalvador;SV;SLV;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+equatorialguinea;GQ;GNQ;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+eritrea;ER;ERI;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+estonia;EE;EST;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+ethiopia;ET;ETH;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+faeroeislands;FO;FRO;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+falklandsisl.;FK;FLK;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+fiji;FJ;FJI;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+finland;FI;FIN;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+france;FR;FRA;11;Western Europe;XAS;European Atlantic Seaboard case study region;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+frenchguyana;GF;GUF;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+frenchpolynesia;PF;PYF;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+frenchsouthernterritories;TF;ATF;;;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+gabon;GA;GAB;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+gambia;GM;GMB;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+georgia;GE;GEO;16;Russia region;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+germany;DE;DEU;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+ghana;GH;GHA;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+gibraltar;GI;GIB;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+greece;GR;GRC;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+greenland;GL;GRL;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+grenada;GD;GRD;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+guadeloupe;GP;GLP;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+guam;GU;GUM;;;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+guatemala;GT;GTM;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+guernsey;GG;GGY;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+guinea;GN;GIN;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+guineabissau;GW;GNB;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+guyana;GY;GUY;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+haiti;HT;HTI;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+heardislandandmcdonaldislands;HM;HMD;;;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+holysee(vaticancitystate);VA;VAT;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+honduras;HN;HND;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+hongkong;HK;HKG;;;XEA;East Asia case study region;CHN;China;CHN;China;CHN;China;WRL;World
+hungary;HU;HUN;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+iceland;IS;ISL;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+india;IN;IND;18;India;XSA;South Asia case study region;IND;India;IND;India;IND;India;WRL;World
+indonesia;ID;IDN;22;Indonesia region;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+iranislamicrep.;IR;IRN;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+iraq;IQ;IRQ;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+ireland;IE;IRL;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+isleofman;IM;IMN;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+israel;IL;ISR;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+italy;IT;ITA;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+jamaica;JM;JAM;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+japan;JP;JPN;23;Japan;XEA;East Asia case study region;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+jersey;JE;JEY;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+jordan;JO;JOR;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+kazakhstan;KZ;KAZ;15;Central Asia;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+kenya;KE;KEN;9;Eastern Africa;XLV;East Africa Lake Victoria case study region;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+kiribati;KI;KIR;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+koreadem.rep.;KP;PRK;19;Korea region;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+korearep.;KR;KOR;19;Korea region;XEA;East Asia case study region;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+kosovo;XK;XXK;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+kuwait;KW;KWT;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+kyrgyzrepublic;KG;KGZ;15;Central Asia;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+laopdr;LA;LAO;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+latvia;LV;LVA;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+lebanon;LB;LBN;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+lesotho;LS;LSO;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+liberia;LR;LBR;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+libya;LY;LBY;7;Northern Africa;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+liechtenstein;LI;LIE;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+lithuania;LT;LTU;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+luxembourg;LU;LUX;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+macaochina;MO;MAC;20;China region;XEA;East Asia case study region;CHN;China;CHN;China;CHN;China;WRL;World
+macedoniafyr;MK;MKD;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+madagascar;MG;MDG;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+malawi;MW;MWI;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+malaysia;MY;MYS;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+maldives;MV;MDV;25;Rest of South Asia;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+mali;ML;MLI;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+malta;MT;MLT;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+marshallislands;MH;MHL;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+martinique;MQ;MTQ;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+mauritania;MR;MRT;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+mauritius;MU;MUS;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+mayotte;YT;MYT;;;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+mexico;MX;MEX;3;Mexico;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+micronesiafed.sts.;FM;FSM;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+moldova;MD;MDA;14;Ukraine region;XEE;East Europe case study region;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+monaco;MC;MCO;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+mongolia;MN;MNG;20;China region;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+montserrat;MS;MSR;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+morocco;MA;MAR;7;Northern Africa;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+mozambique;MZ;MOZ;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+myanmar;MM;MMR;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+namibia;NA;NAM;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+nauru;NR;NRU;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+nepal;NP;NPL;25;Rest of South Asia;XSA;South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+netherlands;NL;NLD;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+newcaledonia;NC;NCL;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+newzealand;NZ;NZL;24;Oceania;ANZ;Australia, New Zealand;ANZ;Australia and New Zealand;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+nicaragua;NI;NIC;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+niger;NE;NER;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+nigeria;NG;NGA;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+niue;NU;NIU;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+norfolkisland;NF;NFK;;;ANZ;Australia, New Zealand;ANZ;Australia and New Zealand;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+northernmarianaislands;MP;MNP;24;Oceania;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+norway;NO;NOR;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+oman;OM;OMN;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+pakistan;PK;PAK;25;Rest of South Asia;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+palau;PW;PLW;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+palestine,stateof;PS;PSE;;;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+panama;PA;PAN;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+papuanewguinea;PG;PNG;22;Indonesia region;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+paraguay;PY;PRY;6;Rest of South America;XPR;La Plata River Catchment case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+peru;PE;PER;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+philippines;PH;PHL;21;Southeast Asia;XEA;East Asia case study region;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+pitcairn;PN;PCN;24;Oceania;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+poland;PL;POL;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+portugal;PT;PRT;11;Western Europe;XAS;European Atlantic Seaboard case study region;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+puertorico;PR;PRI;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+qatar;QA;QAT;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+reunion;RE;REU;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+romania;RO;ROU;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+russianfederation;RU;RUS;16;Russia region;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+rwanda;RW;RWA;9;Eastern Africa;XLV;East Africa Lake Victoria case study region;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+saintbarthelemy;BL;BLM;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+saintmartin(frenchpart);MF;MAF;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+samoa;WS;WSM;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+sanmarino;SM;SMR;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+saotomeandprincipe;ST;STP;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+saudiarabia;SA;SAU;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+senegal;SN;SEN;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+serbiaandmontenegro;ME;MNE;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+serbiaandmontenegro;RS;SRB;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+seychelles;SC;SYC;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+sierraleone;SL;SLE;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+singapore;SG;SGP;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+sintmaarten(dutchpart);SX;SXM;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+slovakrepublic;SK;SVK;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+slovenia;SI;SVN;12;Central Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+solomonislands;SB;SLB;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+somalia;SO;SOM;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+southafrica;ZA;ZAF;10;South Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+southgeorgiaandthesouthsandwichislands;GS;SGS;;;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+spain;ES;ESP;11;Western Europe;XAS;European Atlantic Seaboard case study region;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+srilanka;LK;LKA;25;Rest of South Asia;XSA;South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+st.helena;SH;SHN;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+st.kittsandnevis;KN;KNA;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+st.lucia;LC;LCA;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+st.pierreandmiquelon;PM;SPM;2;USA;EUR;Europe;CAN;Canada;NAM;N America;NAM;N America;WRL;World
+st.vincentandthegrenadines;VC;VCT;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+sudan;SD;SDN;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+sudan;SS;SSD;9;Eastern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+suriname;SR;SUR;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+svalbardandjanmayen;SJ;SJM;;;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+swaziland;SZ;SWZ;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+sweden;SE;SWE;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+switzerland;CH;CHE;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+syrianarabrepublic;SY;SYR;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+taiwan;TW;TWN;20;China region;XEA;East Asia case study region;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+tajikistan;TJ;TJK;15;Central Asia;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+tanzania;TZ;TZA;26;Rest of Southern Africa;XLV;East Africa Lake Victoria case study region;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+thailand;TH;THA;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+togo;TG;TGO;8;Western Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+tokelau;TK;TKL;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+tonga;TO;TON;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+trinidadandtobago;TT;TTO;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+tunisia;TN;TUN;7;Northern Africa;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+turkey;TR;TUR;13;Turkey;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+turkmenistan;TM;TKM;15;Central Asia;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+turksandcaicosisl.;TC;TCA;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+tuvalu;TV;TUV;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+uganda;UG;UGA;9;Eastern Africa;XLV;East Africa Lake Victoria case study region;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+ukraine;UA;UKR;14;Ukraine region;XEE;East Europe case study region;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+unitedarabemirates;AE;ARE;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+unitedkingdom;GB;GBR;11;Western Europe;EUR;Europe;EUR;Europe;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+unitedstates;US;USA;2;USA;XNA;United States of America and Canada;USA;United States of America;NAM;N America;NAM;N America;WRL;World
+unitedstatesminoroutlyingislands;UM;UMI;;;EUR;Europe;USA;United States of America;NAM;N America;NAM;N America;WRL;World
+uruguay;UY;URY;6;Rest of South America;XPR;La Plata River Catchment case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+uzbekistan;UZ;UZB;15;Central Asia;FSU;Former Soviet Union;FSU;Former Soviet Union;EFS;Europe+FSU;EFS;Europe+FSU;WRL;World
+vanuatu;VU;VUT;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+venezuelarb;VE;VEN;6;Rest of South America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+vietnam;VN;VNM;21;Southeast Asia;SEA;South-East Asia;SEA;South-East Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+virginisl.br.);VG;VGB;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+virginislandsu.s.);VI;VIR;4;Central America;OSA;South America other than South America case study region;OSA;Other South and Central America;LAM;L America;LAM;L America;WRL;World
+wallisansfutunaisland;WF;WLF;24;Oceania;OAS;South Asia other than South Asia case study region;OAS;Other Asia;RAN;R Asia+ANZ;RAN;R Asia+ANZ;WRL;World
+westernsahara;EH;ESH;7;Northern Africa;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+yemenrep.;YE;YEM;17;Middle East;MEN;Middle East and Northern Africa;MEN;Middle-East and North Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+zambia;ZM;ZMB;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World
+zimbabwe;ZW;ZWE;26;Rest of Southern Africa;SSA;Sub-Saharan Africa;SSA;Sub-Saharan Africa;AME;Africa+ME;AME;Africa+ME;WRL;World

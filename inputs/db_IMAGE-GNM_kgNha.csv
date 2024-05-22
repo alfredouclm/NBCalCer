@@ -1,0 +1,1636 @@
+"country_origname";"country_code";"crop";"variable";"units";"year";"campaign";"data";"source";"comments"
+"usa";"US";NA;"fertilizer";"kgN/ha";2010;NA;69,6011402070305;"nutdata_out2010";NA
+"usa";"US";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,0855214445127;"nutdata_out2010";NA
+"usa";"US";NA;"n-fixation";"kgN/ha";2010;NA;37,2495073718841;"nutdata_out2010";NA
+"usa";"US";NA;"n-deposition";"kgN/ha";2010;NA;15,6333875133194;"nutdata_out2010";NA
+"usa";"US";NA;"n-removal";"kgN/ha";2010;NA;85,3794921643563;"nutdata_out2010";NA
+"mexico";"MX";NA;"fertilizer";"kgN/ha";2010;NA;39,4640847557511;"nutdata_out2010";NA
+"mexico";"MX";NA;"totalmanureapplied";"kgN/ha";2010;NA;20,2067122987077;"nutdata_out2010";NA
+"mexico";"MX";NA;"n-fixation";"kgN/ha";2010;NA;12,9735136764886;"nutdata_out2010";NA
+"mexico";"MX";NA;"n-deposition";"kgN/ha";2010;NA;4,37728761233879;"nutdata_out2010";NA
+"mexico";"MX";NA;"n-removal";"kgN/ha";2010;NA;33,9708858718151;"nutdata_out2010";NA
+"central america";"RG_WRL_(centralamerica)";NA;"fertilizer";"kgN/ha";2010;NA;34,0990220391575;"nutdata_out2010";NA
+"central america";"RG_WRL_(centralamerica)";NA;"totalmanureapplied";"kgN/ha";2010;NA;26,1192034171574;"nutdata_out2010";NA
+"central america";"RG_WRL_(centralamerica)";NA;"n-fixation";"kgN/ha";2010;NA;8,32423594560373;"nutdata_out2010";NA
+"central america";"RG_WRL_(centralamerica)";NA;"n-deposition";"kgN/ha";2010;NA;3,61908221292811;"nutdata_out2010";NA
+"central america";"RG_WRL_(centralamerica)";NA;"n-removal";"kgN/ha";2010;NA;21,2804646676136;"nutdata_out2010";NA
+"brazil";"BR";NA;"fertilizer";"kgN/ha";2010;NA;44,8180486462316;"nutdata_out2010";NA
+"brazil";"BR";NA;"totalmanureapplied";"kgN/ha";2010;NA;27,2763233185282;"nutdata_out2010";NA
+"brazil";"BR";NA;"n-fixation";"kgN/ha";2010;NA;44,607124544189;"nutdata_out2010";NA
+"brazil";"BR";NA;"n-deposition";"kgN/ha";2010;NA;7,72088612989522;"nutdata_out2010";NA
+"brazil";"BR";NA;"n-removal";"kgN/ha";2010;NA;82,9452615640158;"nutdata_out2010";NA
+"rest of south america";"RG_WRL_(restofsouthamerica)";NA;"fertilizer";"kgN/ha";2010;NA;35,848107200194;"nutdata_out2010";NA
+"rest of south america";"RG_WRL_(restofsouthamerica)";NA;"totalmanureapplied";"kgN/ha";2010;NA;22,9751778491755;"nutdata_out2010";NA
+"rest of south america";"RG_WRL_(restofsouthamerica)";NA;"n-fixation";"kgN/ha";2010;NA;47,5123190952744;"nutdata_out2010";NA
+"rest of south america";"RG_WRL_(restofsouthamerica)";NA;"n-deposition";"kgN/ha";2010;NA;5,96406106359444;"nutdata_out2010";NA
+"rest of south america";"RG_WRL_(restofsouthamerica)";NA;"n-removal";"kgN/ha";2010;NA;81,159242857053;"nutdata_out2010";NA
+"northern africa";"RG_WRL_(northernafrica)";NA;"fertilizer";"kgN/ha";2010;NA;63,8870762459131;"nutdata_out2010";NA
+"northern africa";"RG_WRL_(northernafrica)";NA;"totalmanureapplied";"kgN/ha";2010;NA;29,9655265284299;"nutdata_out2010";NA
+"northern africa";"RG_WRL_(northernafrica)";NA;"n-fixation";"kgN/ha";2010;NA;16,8254516775246;"nutdata_out2010";NA
+"northern africa";"RG_WRL_(northernafrica)";NA;"n-deposition";"kgN/ha";2010;NA;5,69287656486268;"nutdata_out2010";NA
+"northern africa";"RG_WRL_(northernafrica)";NA;"n-removal";"kgN/ha";2010;NA;44,3740966128713;"nutdata_out2010";NA
+"western africa";"RG_WRL_(westernafrica)";NA;"fertilizer";"kgN/ha";2010;NA;4,21411230120614;"nutdata_out2010";NA
+"western africa";"RG_WRL_(westernafrica)";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,64230883587607;"nutdata_out2010";NA
+"western africa";"RG_WRL_(westernafrica)";NA;"n-fixation";"kgN/ha";2010;NA;9,24405047113854;"nutdata_out2010";NA
+"western africa";"RG_WRL_(westernafrica)";NA;"n-deposition";"kgN/ha";2010;NA;6,182038378465;"nutdata_out2010";NA
+"western africa";"RG_WRL_(westernafrica)";NA;"n-removal";"kgN/ha";2010;NA;17,9538452141818;"nutdata_out2010";NA
+"eastern africa";"RG_WRL_(easternafrica)";NA;"fertilizer";"kgN/ha";2010;NA;6,11552923783386;"nutdata_out2010";NA
+"eastern africa";"RG_WRL_(easternafrica)";NA;"totalmanureapplied";"kgN/ha";2010;NA;29,1884379550342;"nutdata_out2010";NA
+"eastern africa";"RG_WRL_(easternafrica)";NA;"n-fixation";"kgN/ha";2010;NA;7,90947459299716;"nutdata_out2010";NA
+"eastern africa";"RG_WRL_(easternafrica)";NA;"n-deposition";"kgN/ha";2010;NA;7,07737324245868;"nutdata_out2010";NA
+"eastern africa";"RG_WRL_(easternafrica)";NA;"n-removal";"kgN/ha";2010;NA;15,2743512940272;"nutdata_out2010";NA
+"south africa";"ZA";NA;"fertilizer";"kgN/ha";2010;NA;29,8766010057577;"nutdata_out2010";NA
+"south africa";"ZA";NA;"totalmanureapplied";"kgN/ha";2010;NA;14,3782741594959;"nutdata_out2010";NA
+"south africa";"ZA";NA;"n-fixation";"kgN/ha";2010;NA;9,39331039629788;"nutdata_out2010";NA
+"south africa";"ZA";NA;"n-deposition";"kgN/ha";2010;NA;5,1706807591063;"nutdata_out2010";NA
+"south africa";"ZA";NA;"n-removal";"kgN/ha";2010;NA;25,9613707883455;"nutdata_out2010";NA
+"western europe";"RG_WRL_(westerneurope)";NA;"fertilizer";"kgN/ha";2010;NA;66,7934236861195;"nutdata_out2010";NA
+"western europe";"RG_WRL_(westerneurope)";NA;"totalmanureapplied";"kgN/ha";2010;NA;24,074126460115;"nutdata_out2010";NA
+"western europe";"RG_WRL_(westerneurope)";NA;"n-fixation";"kgN/ha";2010;NA;12,481013024995;"nutdata_out2010";NA
+"western europe";"RG_WRL_(westerneurope)";NA;"n-deposition";"kgN/ha";2010;NA;18,5215840604652;"nutdata_out2010";NA
+"western europe";"RG_WRL_(westerneurope)";NA;"n-removal";"kgN/ha";2010;NA;79,9028635603656;"nutdata_out2010";NA
+"central europe";"RG_WRL_(centraleurope)";NA;"fertilizer";"kgN/ha";2010;NA;59,4414283357961;"nutdata_out2010";NA
+"central europe";"RG_WRL_(centraleurope)";NA;"totalmanureapplied";"kgN/ha";2010;NA;10,339830774859;"nutdata_out2010";NA
+"central europe";"RG_WRL_(centraleurope)";NA;"n-fixation";"kgN/ha";2010;NA;12,678343134916;"nutdata_out2010";NA
+"central europe";"RG_WRL_(centraleurope)";NA;"n-deposition";"kgN/ha";2010;NA;15,876947905128;"nutdata_out2010";NA
+"central europe";"RG_WRL_(centraleurope)";NA;"n-removal";"kgN/ha";2010;NA;55,5624554451757;"nutdata_out2010";NA
+"turkey";"TR";NA;"fertilizer";"kgN/ha";2010;NA;57,8949191325357;"nutdata_out2010";NA
+"turkey";"TR";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,8721092708924;"nutdata_out2010";NA
+"turkey";"TR";NA;"n-fixation";"kgN/ha";2010;NA;11,0228248856855;"nutdata_out2010";NA
+"turkey";"TR";NA;"n-deposition";"kgN/ha";2010;NA;9,22920459679729;"nutdata_out2010";NA
+"turkey";"TR";NA;"n-removal";"kgN/ha";2010;NA;41,5768116622576;"nutdata_out2010";NA
+"ukraine region";"RG_WRL_(ukraineregion)";NA;"fertilizer";"kgN/ha";2010;NA;30,1719284897257;"nutdata_out2010";NA
+"ukraine region";"RG_WRL_(ukraineregion)";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,83094307564511;"nutdata_out2010";NA
+"ukraine region";"RG_WRL_(ukraineregion)";NA;"n-fixation";"kgN/ha";2010;NA;7,42029333623775;"nutdata_out2010";NA
+"ukraine region";"RG_WRL_(ukraineregion)";NA;"n-deposition";"kgN/ha";2010;NA;10,1541778897812;"nutdata_out2010";NA
+"ukraine region";"RG_WRL_(ukraineregion)";NA;"n-removal";"kgN/ha";2010;NA;37,9428323036961;"nutdata_out2010";NA
+"central asia";"RG_WRL_(centralasia)";NA;"fertilizer";"kgN/ha";2010;NA;20,242171996322;"nutdata_out2010";NA
+"central asia";"RG_WRL_(centralasia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;16,7448838060101;"nutdata_out2010";NA
+"central asia";"RG_WRL_(centralasia)";NA;"n-fixation";"kgN/ha";2010;NA;5,49980748693989;"nutdata_out2010";NA
+"central asia";"RG_WRL_(centralasia)";NA;"n-deposition";"kgN/ha";2010;NA;4,17607361471755;"nutdata_out2010";NA
+"central asia";"RG_WRL_(centralasia)";NA;"n-removal";"kgN/ha";2010;NA;24,0824713459619;"nutdata_out2010";NA
+"russia region";"RG_WRL_(russiaregion)";NA;"fertilizer";"kgN/ha";2010;NA;9,81073135492911;"nutdata_out2010";NA
+"russia region";"RG_WRL_(russiaregion)";NA;"totalmanureapplied";"kgN/ha";2010;NA;5,97020364150192;"nutdata_out2010";NA
+"russia region";"RG_WRL_(russiaregion)";NA;"n-fixation";"kgN/ha";2010;NA;5,80368607234903;"nutdata_out2010";NA
+"russia region";"RG_WRL_(russiaregion)";NA;"n-deposition";"kgN/ha";2010;NA;7,05998539863427;"nutdata_out2010";NA
+"russia region";"RG_WRL_(russiaregion)";NA;"n-removal";"kgN/ha";2010;NA;16,9753273531801;"nutdata_out2010";NA
+"middle east";"RG_WRL_(middleeast)";NA;"fertilizer";"kgN/ha";2010;NA;27,1840996618967;"nutdata_out2010";NA
+"middle east";"RG_WRL_(middleeast)";NA;"totalmanureapplied";"kgN/ha";2010;NA;31,704498284232;"nutdata_out2010";NA
+"middle east";"RG_WRL_(middleeast)";NA;"n-fixation";"kgN/ha";2010;NA;11,5006981177547;"nutdata_out2010";NA
+"middle east";"RG_WRL_(middleeast)";NA;"n-deposition";"kgN/ha";2010;NA;7,21335559079022;"nutdata_out2010";NA
+"middle east";"RG_WRL_(middleeast)";NA;"n-removal";"kgN/ha";2010;NA;29,9372202544465;"nutdata_out2010";NA
+"india";"IN";NA;"fertilizer";"kgN/ha";2010;NA;95,8457799481632;"nutdata_out2010";NA
+"india";"IN";NA;"totalmanureapplied";"kgN/ha";2010;NA;32,5368491277463;"nutdata_out2010";NA
+"india";"IN";NA;"n-fixation";"kgN/ha";2010;NA;15,4207406551379;"nutdata_out2010";NA
+"india";"IN";NA;"n-deposition";"kgN/ha";2010;NA;9,61960144944529;"nutdata_out2010";NA
+"india";"IN";NA;"n-removal";"kgN/ha";2010;NA;47,2915794609072;"nutdata_out2010";NA
+"korea region";"RG_WRL_(korearegion)";NA;"fertilizer";"kgN/ha";2010;NA;49,3390372835561;"nutdata_out2010";NA
+"korea region";"RG_WRL_(korearegion)";NA;"totalmanureapplied";"kgN/ha";2010;NA;47,0496028907267;"nutdata_out2010";NA
+"korea region";"RG_WRL_(korearegion)";NA;"n-fixation";"kgN/ha";2010;NA;16,981190331214;"nutdata_out2010";NA
+"korea region";"RG_WRL_(korearegion)";NA;"n-deposition";"kgN/ha";2010;NA;15,6941551715116;"nutdata_out2010";NA
+"korea region";"RG_WRL_(korearegion)";NA;"n-removal";"kgN/ha";2010;NA;55,4658706314904;"nutdata_out2010";NA
+"china region";"RG_WRL_(chinaregion)";NA;"fertilizer";"kgN/ha";2010;NA;243,411240324498;"nutdata_out2010";NA
+"china region";"RG_WRL_(chinaregion)";NA;"totalmanureapplied";"kgN/ha";2010;NA;53,4495801981045;"nutdata_out2010";NA
+"china region";"RG_WRL_(chinaregion)";NA;"n-fixation";"kgN/ha";2010;NA;22,9689577081996;"nutdata_out2010";NA
+"china region";"RG_WRL_(chinaregion)";NA;"n-deposition";"kgN/ha";2010;NA;22,3513415789383;"nutdata_out2010";NA
+"china region";"RG_WRL_(chinaregion)";NA;"n-removal";"kgN/ha";2010;NA;106,738934592244;"nutdata_out2010";NA
+"southeastern asia";"RG_WRL_(southeasternasia)";NA;"fertilizer";"kgN/ha";2010;NA;61,6563190466822;"nutdata_out2010";NA
+"southeastern asia";"RG_WRL_(southeasternasia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;23,1635228539576;"nutdata_out2010";NA
+"southeastern asia";"RG_WRL_(southeasternasia)";NA;"n-fixation";"kgN/ha";2010;NA;16,8959621071171;"nutdata_out2010";NA
+"southeastern asia";"RG_WRL_(southeasternasia)";NA;"n-deposition";"kgN/ha";2010;NA;11,7221278022915;"nutdata_out2010";NA
+"southeastern asia";"RG_WRL_(southeasternasia)";NA;"n-removal";"kgN/ha";2010;NA;66,8382539744995;"nutdata_out2010";NA
+"indonesia region";"RG_WRL_(indonesiaregion)";NA;"fertilizer";"kgN/ha";2010;NA;61,4242453838672;"nutdata_out2010";NA
+"indonesia region";"RG_WRL_(indonesiaregion)";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,3147847913908;"nutdata_out2010";NA
+"indonesia region";"RG_WRL_(indonesiaregion)";NA;"n-fixation";"kgN/ha";2010;NA;11,1764276782701;"nutdata_out2010";NA
+"indonesia region";"RG_WRL_(indonesiaregion)";NA;"n-deposition";"kgN/ha";2010;NA;5,85092017568415;"nutdata_out2010";NA
+"indonesia region";"RG_WRL_(indonesiaregion)";NA;"n-removal";"kgN/ha";2010;NA;64,9143383935745;"nutdata_out2010";NA
+"japan";"JP";NA;"fertilizer";"kgN/ha";2010;NA;91,8167989181089;"nutdata_out2010";NA
+"japan";"JP";NA;"totalmanureapplied";"kgN/ha";2010;NA;90,5612406287339;"nutdata_out2010";NA
+"japan";"JP";NA;"n-fixation";"kgN/ha";2010;NA;17,9050680257062;"nutdata_out2010";NA
+"japan";"JP";NA;"n-deposition";"kgN/ha";2010;NA;13,6865268376437;"nutdata_out2010";NA
+"japan";"JP";NA;"n-removal";"kgN/ha";2010;NA;63,6648239544203;"nutdata_out2010";NA
+"oceania";"RG_WRL_(oceania)";NA;"fertilizer";"kgN/ha";2010;NA;21,6380258770572;"nutdata_out2010";NA
+"oceania";"RG_WRL_(oceania)";NA;"totalmanureapplied";"kgN/ha";2010;NA;4,75757805377948;"nutdata_out2010";NA
+"oceania";"RG_WRL_(oceania)";NA;"n-fixation";"kgN/ha";2010;NA;6,93024210162677;"nutdata_out2010";NA
+"oceania";"RG_WRL_(oceania)";NA;"n-deposition";"kgN/ha";2010;NA;2,51123129272851;"nutdata_out2010";NA
+"oceania";"RG_WRL_(oceania)";NA;"n-removal";"kgN/ha";2010;NA;20,8055498337448;"nutdata_out2010";NA
+"rest of south asia";"RG_WRL_(restofsouthasia)";NA;"fertilizer";"kgN/ha";2010;NA;93,4080771045566;"nutdata_out2010";NA
+"rest of south asia";"RG_WRL_(restofsouthasia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;49,3057324120019;"nutdata_out2010";NA
+"rest of south asia";"RG_WRL_(restofsouthasia)";NA;"n-fixation";"kgN/ha";2010;NA;11,422601773868;"nutdata_out2010";NA
+"rest of south asia";"RG_WRL_(restofsouthasia)";NA;"n-deposition";"kgN/ha";2010;NA;7,22643033294705;"nutdata_out2010";NA
+"rest of south asia";"RG_WRL_(restofsouthasia)";NA;"n-removal";"kgN/ha";2010;NA;43,7569535176056;"nutdata_out2010";NA
+"rest of southern africa";"RG_WRL_(restofsouthernafrica)";NA;"fertilizer";"kgN/ha";2010;NA;10,6500624658127;"nutdata_out2010";NA
+"rest of southern africa";"RG_WRL_(restofsouthernafrica)";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,39128300346425;"nutdata_out2010";NA
+"rest of southern africa";"RG_WRL_(restofsouthernafrica)";NA;"n-fixation";"kgN/ha";2010;NA;8,1678618100468;"nutdata_out2010";NA
+"rest of southern africa";"RG_WRL_(restofsouthernafrica)";NA;"n-deposition";"kgN/ha";2010;NA;3,36961154647751;"nutdata_out2010";NA
+"rest of southern africa";"RG_WRL_(restofsouthernafrica)";NA;"n-removal";"kgN/ha";2010;NA;16,419658096065;"nutdata_out2010";NA
+"world";"WORLD";NA;"fertilizer";"kgN/ha";2010;NA;62,3801779018177;"nutdata_out2010";NA
+"world";"WORLD";NA;"totalmanureapplied";"kgN/ha";2010;NA;22,2915822320415;"nutdata_out2010";NA
+"world";"WORLD";NA;"n-fixation";"kgN/ha";2010;NA;17,8958729250237;"nutdata_out2010";NA
+"world";"WORLD";NA;"n-deposition";"kgN/ha";2010;NA;10,0870876638232;"nutdata_out2010";NA
+"world";"WORLD";NA;"n-removal";"kgN/ha";2010;NA;52,5191384741508;"nutdata_out2010";NA
+"afghanistan";"AF";NA;"fertilizer";"kgN/ha";2010;NA;3,99900460613367;"nutdata_out2010";NA
+"afghanistan";"AF";NA;"totalmanureapplied";"kgN/ha";2010;NA;24,1122175786594;"nutdata_out2010";NA
+"afghanistan";"AF";NA;"n-fixation";"kgN/ha";2010;NA;7,64703454728092;"nutdata_out2010";NA
+"afghanistan";"AF";NA;"n-deposition";"kgN/ha";2010;NA;2,14086757284884;"nutdata_out2010";NA
+"afghanistan";"AF";NA;"n-removal";"kgN/ha";2010;NA;35,7031959185959;"nutdata_out2010";NA
+"albania";"AL";NA;"fertilizer";"kgN/ha";2010;NA;47,2673668378011;"nutdata_out2010";NA
+"albania";"AL";NA;"totalmanureapplied";"kgN/ha";2010;NA;30,7305237073913;"nutdata_out2010";NA
+"albania";"AL";NA;"n-fixation";"kgN/ha";2010;NA;45,7628789806544;"nutdata_out2010";NA
+"albania";"AL";NA;"n-deposition";"kgN/ha";2010;NA;10,1378899416495;"nutdata_out2010";NA
+"albania";"AL";NA;"n-removal";"kgN/ha";2010;NA;83,0347774730703;"nutdata_out2010";NA
+"algeria";"DZ";NA;"fertilizer";"kgN/ha";2010;NA;7,61005723726547;"nutdata_out2010";NA
+"algeria";"DZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;22,3655239026343;"nutdata_out2010";NA
+"algeria";"DZ";NA;"n-fixation";"kgN/ha";2010;NA;6,66878386255334;"nutdata_out2010";NA
+"algeria";"DZ";NA;"n-deposition";"kgN/ha";2010;NA;4,53526865797924;"nutdata_out2010";NA
+"algeria";"DZ";NA;"n-removal";"kgN/ha";2010;NA;31,8515097763415;"nutdata_out2010";NA
+"american samoa";"AS";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"american samoa";"AS";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"american samoa";"AS";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"american samoa";"AS";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"american samoa";"AS";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"andorra";"AD";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"andorra";"AD";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"andorra";"AD";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"andorra";"AD";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"andorra";"AD";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"angola";"AO";NA;"fertilizer";"kgN/ha";2010;NA;3,95068311064367;"nutdata_out2010";NA
+"angola";"AO";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,95769584524549;"nutdata_out2010";NA
+"angola";"AO";NA;"n-fixation";"kgN/ha";2010;NA;7,31813294926023;"nutdata_out2010";NA
+"angola";"AO";NA;"n-deposition";"kgN/ha";2010;NA;4,04686325436309;"nutdata_out2010";NA
+"angola";"AO";NA;"n-removal";"kgN/ha";2010;NA;12,9296151737899;"nutdata_out2010";NA
+"antigua and barbuda";"AG";NA;"fertilizer";"kgN/ha";2010;NA;1,20396547689297;"nutdata_out2010";NA
+"antigua and barbuda";"AG";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,4999890890632;"nutdata_out2010";NA
+"antigua and barbuda";"AG";NA;"n-fixation";"kgN/ha";2010;NA;15,5193837683486;"nutdata_out2010";NA
+"antigua and barbuda";"AG";NA;"n-deposition";"kgN/ha";2010;NA;0,919275246832727;"nutdata_out2010";NA
+"antigua and barbuda";"AG";NA;"n-removal";"kgN/ha";2010;NA;7,22474025574333;"nutdata_out2010";NA
+"azerbaijan";"AZ";NA;"fertilizer";"kgN/ha";2010;NA;3,5255113246076;"nutdata_out2010";NA
+"azerbaijan";"AZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;25,6556652632596;"nutdata_out2010";NA
+"azerbaijan";"AZ";NA;"n-fixation";"kgN/ha";2010;NA;7,38800906390893;"nutdata_out2010";NA
+"azerbaijan";"AZ";NA;"n-deposition";"kgN/ha";2010;NA;5,34655133499664;"nutdata_out2010";NA
+"azerbaijan";"AZ";NA;"n-removal";"kgN/ha";2010;NA;19,1383899602654;"nutdata_out2010";NA
+"argentina";"AR";NA;"fertilizer";"kgN/ha";2010;NA;19,6848473331058;"nutdata_out2010";NA
+"argentina";"AR";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,82662994812774;"nutdata_out2010";NA
+"argentina";"AR";NA;"n-fixation";"kgN/ha";2010;NA;56,3727838380249;"nutdata_out2010";NA
+"argentina";"AR";NA;"n-deposition";"kgN/ha";2010;NA;4,10574682311102;"nutdata_out2010";NA
+"argentina";"AR";NA;"n-removal";"kgN/ha";2010;NA;99,0439396523916;"nutdata_out2010";NA
+"australia";"AU";NA;"fertilizer";"kgN/ha";2010;NA;21,2984567166864;"nutdata_out2010";NA
+"australia";"AU";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,37189806518226;"nutdata_out2010";NA
+"australia";"AU";NA;"n-fixation";"kgN/ha";2010;NA;6,62884715286371;"nutdata_out2010";NA
+"australia";"AU";NA;"n-deposition";"kgN/ha";2010;NA;2,00654462723614;"nutdata_out2010";NA
+"australia";"AU";NA;"n-removal";"kgN/ha";2010;NA;19,3807931558783;"nutdata_out2010";NA
+"austria";"AT";NA;"fertilizer";"kgN/ha";2010;NA;47,5055035729381;"nutdata_out2010";NA
+"austria";"AT";NA;"totalmanureapplied";"kgN/ha";2010;NA;32,8345890207168;"nutdata_out2010";NA
+"austria";"AT";NA;"n-fixation";"kgN/ha";2010;NA;8,79943795809032;"nutdata_out2010";NA
+"austria";"AT";NA;"n-deposition";"kgN/ha";2010;NA;23,0206867007494;"nutdata_out2010";NA
+"austria";"AT";NA;"n-removal";"kgN/ha";2010;NA;89,3513363888368;"nutdata_out2010";NA
+"bahamas";"BS";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"bahamas";"BS";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000046765653;"nutdata_out2010";NA
+"bahamas";"BS";NA;"n-fixation";"kgN/ha";2010;NA;9,01035227203307;"nutdata_out2010";NA
+"bahamas";"BS";NA;"n-deposition";"kgN/ha";2010;NA;2,88669621129066;"nutdata_out2010";NA
+"bahamas";"BS";NA;"n-removal";"kgN/ha";2010;NA;20,4767039439693;"nutdata_out2010";NA
+"bahrain";"BH";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bahrain";"BH";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bahrain";"BH";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bahrain";"BH";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bahrain";"BH";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bangladesh";"BD";NA;"fertilizer";"kgN/ha";2010;NA;106,835162063017;"nutdata_out2010";NA
+"bangladesh";"BD";NA;"totalmanureapplied";"kgN/ha";2010;NA;77,8856484538114;"nutdata_out2010";NA
+"bangladesh";"BD";NA;"n-fixation";"kgN/ha";2010;NA;10,9283511339937;"nutdata_out2010";NA
+"bangladesh";"BD";NA;"n-deposition";"kgN/ha";2010;NA;11,700888085885;"nutdata_out2010";NA
+"bangladesh";"BD";NA;"n-removal";"kgN/ha";2010;NA;39,6846487216634;"nutdata_out2010";NA
+"armenia";"AM";NA;"fertilizer";"kgN/ha";2010;NA;20,1724609741473;"nutdata_out2010";NA
+"armenia";"AM";NA;"totalmanureapplied";"kgN/ha";2010;NA;30,4755880564068;"nutdata_out2010";NA
+"armenia";"AM";NA;"n-fixation";"kgN/ha";2010;NA;7,42245352673364;"nutdata_out2010";NA
+"armenia";"AM";NA;"n-deposition";"kgN/ha";2010;NA;6,20603036898276;"nutdata_out2010";NA
+"armenia";"AM";NA;"n-removal";"kgN/ha";2010;NA;36,1974764150537;"nutdata_out2010";NA
+"barbados";"BB";NA;"fertilizer";"kgN/ha";2010;NA;30,1025898401469;"nutdata_out2010";NA
+"barbados";"BB";NA;"totalmanureapplied";"kgN/ha";2010;NA;87,2583618252634;"nutdata_out2010";NA
+"barbados";"BB";NA;"n-fixation";"kgN/ha";2010;NA;9,94476406246032;"nutdata_out2010";NA
+"barbados";"BB";NA;"n-deposition";"kgN/ha";2010;NA;1,0309628385761;"nutdata_out2010";NA
+"barbados";"BB";NA;"n-removal";"kgN/ha";2010;NA;18,3727132670011;"nutdata_out2010";NA
+"belgium";"BE";NA;"fertilizer";"kgN/ha";2010;NA;102,640880080329;"nutdata_out2010";NA
+"belgium";"BE";NA;"totalmanureapplied";"kgN/ha";2010;NA;63,0521213749333;"nutdata_out2010";NA
+"belgium";"BE";NA;"n-fixation";"kgN/ha";2010;NA;10,4300734385739;"nutdata_out2010";NA
+"belgium";"BE";NA;"n-deposition";"kgN/ha";2010;NA;31,950762221054;"nutdata_out2010";NA
+"belgium";"BE";NA;"n-removal";"kgN/ha";2010;NA;164,114365424259;"nutdata_out2010";NA
+"bermuda";"BM";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bermuda";"BM";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bermuda";"BM";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bermuda";"BM";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bermuda";"BM";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"bhutan";"BT";NA;"fertilizer";"kgN/ha";2010;NA;0,88248159922955;"nutdata_out2010";NA
+"bhutan";"BT";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,8426218080602;"nutdata_out2010";NA
+"bhutan";"BT";NA;"n-fixation";"kgN/ha";2010;NA;16,0689075078498;"nutdata_out2010";NA
+"bhutan";"BT";NA;"n-deposition";"kgN/ha";2010;NA;7,46546579699451;"nutdata_out2010";NA
+"bhutan";"BT";NA;"n-removal";"kgN/ha";2010;NA;35,6289327998239;"nutdata_out2010";NA
+"bolivia";"BO";NA;"fertilizer";"kgN/ha";2010;NA;6,65768407418814;"nutdata_out2010";NA
+"bolivia";"BO";NA;"totalmanureapplied";"kgN/ha";2010;NA;54,4452151984519;"nutdata_out2010";NA
+"bolivia";"BO";NA;"n-fixation";"kgN/ha";2010;NA;40,769141498686;"nutdata_out2010";NA
+"bolivia";"BO";NA;"n-deposition";"kgN/ha";2010;NA;4,31428625661367;"nutdata_out2010";NA
+"bolivia";"BO";NA;"n-removal";"kgN/ha";2010;NA;55,9821447534342;"nutdata_out2010";NA
+"bosnia and herzegovina";"BA";NA;"fertilizer";"kgN/ha";2010;NA;56,9928681564653;"nutdata_out2010";NA
+"bosnia and herzegovina";"BA";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,9373580279872;"nutdata_out2010";NA
+"bosnia and herzegovina";"BA";NA;"n-fixation";"kgN/ha";2010;NA;8,91625099449786;"nutdata_out2010";NA
+"bosnia and herzegovina";"BA";NA;"n-deposition";"kgN/ha";2010;NA;12,2677431172742;"nutdata_out2010";NA
+"bosnia and herzegovina";"BA";NA;"n-removal";"kgN/ha";2010;NA;30,5232980943293;"nutdata_out2010";NA
+"botswana";"BW";NA;"fertilizer";"kgN/ha";2010;NA;120,519892157703;"nutdata_out2010";NA
+"botswana";"BW";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,4999954666777;"nutdata_out2010";NA
+"botswana";"BW";NA;"n-fixation";"kgN/ha";2010;NA;5,43950317689181;"nutdata_out2010";NA
+"botswana";"BW";NA;"n-deposition";"kgN/ha";2010;NA;3,0544474769855;"nutdata_out2010";NA
+"botswana";"BW";NA;"n-removal";"kgN/ha";2010;NA;7,1444111208319;"nutdata_out2010";NA
+"belize";"BZ";NA;"fertilizer";"kgN/ha";2010;NA;27,8055188541667;"nutdata_out2010";NA
+"belize";"BZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;29,191777205396;"nutdata_out2010";NA
+"belize";"BZ";NA;"n-fixation";"kgN/ha";2010;NA;8,25419197477093;"nutdata_out2010";NA
+"belize";"BZ";NA;"n-deposition";"kgN/ha";2010;NA;3,34512864091565;"nutdata_out2010";NA
+"belize";"BZ";NA;"n-removal";"kgN/ha";2010;NA;26,2683185324227;"nutdata_out2010";NA
+"solomon islands";"SB";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"solomon islands";"SB";NA;"totalmanureapplied";"kgN/ha";2010;NA;31,0110963458636;"nutdata_out2010";NA
+"solomon islands";"SB";NA;"n-fixation";"kgN/ha";2010;NA;5,36350364147663;"nutdata_out2010";NA
+"solomon islands";"SB";NA;"n-deposition";"kgN/ha";2010;NA;0,833327621889492;"nutdata_out2010";NA
+"solomon islands";"SB";NA;"n-removal";"kgN/ha";2010;NA;26,96661080454;"nutdata_out2010";NA
+"virgin isl. br.)";"VG";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"virgin isl. br.)";"VG";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,547909039012;"nutdata_out2010";NA
+"virgin isl. br.)";"VG";NA;"n-fixation";"kgN/ha";2010;NA;5,62045809949716;"nutdata_out2010";NA
+"virgin isl. br.)";"VG";NA;"n-deposition";"kgN/ha";2010;NA;1,17701619364535;"nutdata_out2010";NA
+"virgin isl. br.)";"VG";NA;"n-removal";"kgN/ha";2010;NA;11,312450072825;"nutdata_out2010";NA
+"brunei";"BN";NA;"fertilizer";"kgN/ha";2010;NA;19,8396046847218;"nutdata_out2010";NA
+"brunei";"BN";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000016423513;"nutdata_out2010";NA
+"brunei";"BN";NA;"n-fixation";"kgN/ha";2010;NA;8,60727544885791;"nutdata_out2010";NA
+"brunei";"BN";NA;"n-deposition";"kgN/ha";2010;NA;3,99440737139201;"nutdata_out2010";NA
+"brunei";"BN";NA;"n-removal";"kgN/ha";2010;NA;5,02080169343502;"nutdata_out2010";NA
+"bulgaria";"BG";NA;"fertilizer";"kgN/ha";2010;NA;117,761615737631;"nutdata_out2010";NA
+"bulgaria";"BG";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,68521559954413;"nutdata_out2010";NA
+"bulgaria";"BG";NA;"n-fixation";"kgN/ha";2010;NA;11,4416865192994;"nutdata_out2010";NA
+"bulgaria";"BG";NA;"n-deposition";"kgN/ha";2010;NA;11,8513564618743;"nutdata_out2010";NA
+"bulgaria";"BG";NA;"n-removal";"kgN/ha";2010;NA;49,9220638076822;"nutdata_out2010";NA
+"myanmar";"MM";NA;"fertilizer";"kgN/ha";2010;NA;4,31551134613925;"nutdata_out2010";NA
+"myanmar";"MM";NA;"totalmanureapplied";"kgN/ha";2010;NA;33,5584657841247;"nutdata_out2010";NA
+"myanmar";"MM";NA;"n-fixation";"kgN/ha";2010;NA;17,830049146606;"nutdata_out2010";NA
+"myanmar";"MM";NA;"n-deposition";"kgN/ha";2010;NA;14,08454968205;"nutdata_out2010";NA
+"myanmar";"MM";NA;"n-removal";"kgN/ha";2010;NA;53,2096622797883;"nutdata_out2010";NA
+"burundi";"BI";NA;"fertilizer";"kgN/ha";2010;NA;1,08258010381731;"nutdata_out2010";NA
+"burundi";"BI";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,89548625990161;"nutdata_out2010";NA
+"burundi";"BI";NA;"n-fixation";"kgN/ha";2010;NA;8,33047409369736;"nutdata_out2010";NA
+"burundi";"BI";NA;"n-deposition";"kgN/ha";2010;NA;8,0526577067446;"nutdata_out2010";NA
+"burundi";"BI";NA;"n-removal";"kgN/ha";2010;NA;13,999606157149;"nutdata_out2010";NA
+"belarus";"BY";NA;"fertilizer";"kgN/ha";2010;NA;83,0675528019261;"nutdata_out2010";NA
+"belarus";"BY";NA;"totalmanureapplied";"kgN/ha";2010;NA;17,9824306477753;"nutdata_out2010";NA
+"belarus";"BY";NA;"n-fixation";"kgN/ha";2010;NA;9,45343201964869;"nutdata_out2010";NA
+"belarus";"BY";NA;"n-deposition";"kgN/ha";2010;NA;9,99105602867994;"nutdata_out2010";NA
+"belarus";"BY";NA;"n-removal";"kgN/ha";2010;NA;48,52160341713;"nutdata_out2010";NA
+"cambodia";"KH";NA;"fertilizer";"kgN/ha";2010;NA;4,34300468944098;"nutdata_out2010";NA
+"cambodia";"KH";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,1312321016591;"nutdata_out2010";NA
+"cambodia";"KH";NA;"n-fixation";"kgN/ha";2010;NA;12,9896741562734;"nutdata_out2010";NA
+"cambodia";"KH";NA;"n-deposition";"kgN/ha";2010;NA;10,6900758763456;"nutdata_out2010";NA
+"cambodia";"KH";NA;"n-removal";"kgN/ha";2010;NA;48,4740115010911;"nutdata_out2010";NA
+"cameroon";"CM";NA;"fertilizer";"kgN/ha";2010;NA;4,44123165643301;"nutdata_out2010";NA
+"cameroon";"CM";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,3597573440999;"nutdata_out2010";NA
+"cameroon";"CM";NA;"n-fixation";"kgN/ha";2010;NA;10,4541757259452;"nutdata_out2010";NA
+"cameroon";"CM";NA;"n-deposition";"kgN/ha";2010;NA;6,97235631946282;"nutdata_out2010";NA
+"cameroon";"CM";NA;"n-removal";"kgN/ha";2010;NA;22,2950076872368;"nutdata_out2010";NA
+"canada";"CA";NA;"fertilizer";"kgN/ha";2010;NA;41,9796510441933;"nutdata_out2010";NA
+"canada";"CA";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,89567948382358;"nutdata_out2010";NA
+"canada";"CA";NA;"n-fixation";"kgN/ha";2010;NA;11,4124440772704;"nutdata_out2010";NA
+"canada";"CA";NA;"n-deposition";"kgN/ha";2010;NA;5,69694096926452;"nutdata_out2010";NA
+"canada";"CA";NA;"n-removal";"kgN/ha";2010;NA;33,1068878932608;"nutdata_out2010";NA
+"cape verde";"CV";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"cape verde";"CV";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000001675743;"nutdata_out2010";NA
+"cape verde";"CV";NA;"n-fixation";"kgN/ha";2010;NA;12,4368708949567;"nutdata_out2010";NA
+"cape verde";"CV";NA;"n-deposition";"kgN/ha";2010;NA;0,8955732639468;"nutdata_out2010";NA
+"cape verde";"CV";NA;"n-removal";"kgN/ha";2010;NA;3,84350216518772;"nutdata_out2010";NA
+"cayman islands";"KY";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cayman islands";"KY";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cayman islands";"KY";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cayman islands";"KY";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cayman islands";"KY";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"central african republic";"CF";NA;"fertilizer";"kgN/ha";2010;NA;0,449433580603374;"nutdata_out2010";NA
+"central african republic";"CF";NA;"totalmanureapplied";"kgN/ha";2010;NA;41,5780371768929;"nutdata_out2010";NA
+"central african republic";"CF";NA;"n-fixation";"kgN/ha";2010;NA;11,1449167603661;"nutdata_out2010";NA
+"central african republic";"CF";NA;"n-deposition";"kgN/ha";2010;NA;6,81409526019332;"nutdata_out2010";NA
+"central african republic";"CF";NA;"n-removal";"kgN/ha";2010;NA;15,3443603537844;"nutdata_out2010";NA
+"sri lanka";"LK";NA;"fertilizer";"kgN/ha";2010;NA;44,2903998595366;"nutdata_out2010";NA
+"sri lanka";"LK";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,1992606631803;"nutdata_out2010";NA
+"sri lanka";"LK";NA;"n-fixation";"kgN/ha";2010;NA;15,334312234272;"nutdata_out2010";NA
+"sri lanka";"LK";NA;"n-deposition";"kgN/ha";2010;NA;3,26611399041931;"nutdata_out2010";NA
+"sri lanka";"LK";NA;"n-removal";"kgN/ha";2010;NA;41,0842288077904;"nutdata_out2010";NA
+"chad";"TD";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"chad";"TD";NA;"totalmanureapplied";"kgN/ha";2010;NA;18,8290991152769;"nutdata_out2010";NA
+"chad";"TD";NA;"n-fixation";"kgN/ha";2010;NA;9,54517335136471;"nutdata_out2010";NA
+"chad";"TD";NA;"n-deposition";"kgN/ha";2010;NA;3,78133384982717;"nutdata_out2010";NA
+"chad";"TD";NA;"n-removal";"kgN/ha";2010;NA;10,5501653115223;"nutdata_out2010";NA
+"chile";"CL";NA;"fertilizer";"kgN/ha";2010;NA;73,7814995862793;"nutdata_out2010";NA
+"chile";"CL";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,9403457622566;"nutdata_out2010";NA
+"chile";"CL";NA;"n-fixation";"kgN/ha";2010;NA;24,1626557876708;"nutdata_out2010";NA
+"chile";"CL";NA;"n-deposition";"kgN/ha";2010;NA;1,41772032713521;"nutdata_out2010";NA
+"chile";"CL";NA;"n-removal";"kgN/ha";2010;NA;64,4017467708638;"nutdata_out2010";NA
+"china";"CN";NA;"fertilizer";"kgN/ha";2010;NA;243,814290492263;"nutdata_out2010";NA
+"china";"CN";NA;"totalmanureapplied";"kgN/ha";2010;NA;53,0593176848024;"nutdata_out2010";NA
+"china";"CN";NA;"n-fixation";"kgN/ha";2010;NA;23,0115443601282;"nutdata_out2010";NA
+"china";"CN";NA;"n-deposition";"kgN/ha";2010;NA;13,0413674637234;"nutdata_out2010";NA
+"china";"CN";NA;"n-removal";"kgN/ha";2010;NA;107,034246324647;"nutdata_out2010";NA
+"taiwan";"TW";NA;"fertilizer";"kgN/ha";2010;NA;232,790554632038;"nutdata_out2010";NA
+"taiwan";"TW";NA;"totalmanureapplied";"kgN/ha";2010;NA;112,583020926705;"nutdata_out2010";NA
+"taiwan";"TW";NA;"n-fixation";"kgN/ha";2010;NA;19,8736466972762;"nutdata_out2010";NA
+"taiwan";"TW";NA;"n-deposition";"kgN/ha";2010;NA;12,4317933151245;"nutdata_out2010";NA
+"taiwan";"TW";NA;"n-removal";"kgN/ha";2010;NA;78,0582199274613;"nutdata_out2010";NA
+"cocos (keeling) islands";"CC";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cocos (keeling) islands";"CC";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cocos (keeling) islands";"CC";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cocos (keeling) islands";"CC";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cocos (keeling) islands";"CC";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"colombia";"CO";NA;"fertilizer";"kgN/ha";2010;NA;79,7476850544274;"nutdata_out2010";NA
+"colombia";"CO";NA;"totalmanureapplied";"kgN/ha";2010;NA;48,313272030929;"nutdata_out2010";NA
+"colombia";"CO";NA;"n-fixation";"kgN/ha";2010;NA;32,3914752876089;"nutdata_out2010";NA
+"colombia";"CO";NA;"n-deposition";"kgN/ha";2010;NA;7,33603791319484;"nutdata_out2010";NA
+"colombia";"CO";NA;"n-removal";"kgN/ha";2010;NA;36,7474324896111;"nutdata_out2010";NA
+"comoros";"KM";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"comoros";"KM";NA;"totalmanureapplied";"kgN/ha";2010;NA;5,91149245501405;"nutdata_out2010";NA
+"comoros";"KM";NA;"n-fixation";"kgN/ha";2010;NA;6,58801561429241;"nutdata_out2010";NA
+"comoros";"KM";NA;"n-deposition";"kgN/ha";2010;NA;1,48827957241629;"nutdata_out2010";NA
+"comoros";"KM";NA;"n-removal";"kgN/ha";2010;NA;9,22564347235288;"nutdata_out2010";NA
+"congo rep.";"CG";NA;"fertilizer";"kgN/ha";2010;NA;0,0871443603717889;"nutdata_out2010";NA
+"congo rep.";"CG";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,06902494996963;"nutdata_out2010";NA
+"congo rep.";"CG";NA;"n-fixation";"kgN/ha";2010;NA;7,5343279467977;"nutdata_out2010";NA
+"congo rep.";"CG";NA;"n-deposition";"kgN/ha";2010;NA;6,92460906908571;"nutdata_out2010";NA
+"congo rep.";"CG";NA;"n-removal";"kgN/ha";2010;NA;25,1393852446912;"nutdata_out2010";NA
+"congo  dem. rep.";"CD";NA;"fertilizer";"kgN/ha";2010;NA;0,622520392535049;"nutdata_out2010";NA
+"congo  dem. rep.";"CD";NA;"totalmanureapplied";"kgN/ha";2010;NA;2,88862854685184;"nutdata_out2010";NA
+"congo  dem. rep.";"CD";NA;"n-fixation";"kgN/ha";2010;NA;7,90986004660702;"nutdata_out2010";NA
+"congo  dem. rep.";"CD";NA;"n-deposition";"kgN/ha";2010;NA;7,27576419356643;"nutdata_out2010";NA
+"congo  dem. rep.";"CD";NA;"n-removal";"kgN/ha";2010;NA;13,4153127447363;"nutdata_out2010";NA
+"cook isl.";"CK";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cook isl.";"CK";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cook isl.";"CK";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cook isl.";"CK";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"cook isl.";"CK";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"costa rica";"CR";NA;"fertilizer";"kgN/ha";2010;NA;85,1151529704436;"nutdata_out2010";NA
+"costa rica";"CR";NA;"totalmanureapplied";"kgN/ha";2010;NA;39,4151314912069;"nutdata_out2010";NA
+"costa rica";"CR";NA;"n-fixation";"kgN/ha";2010;NA;7,38364945743175;"nutdata_out2010";NA
+"costa rica";"CR";NA;"n-deposition";"kgN/ha";2010;NA;3,11833726567354;"nutdata_out2010";NA
+"costa rica";"CR";NA;"n-removal";"kgN/ha";2010;NA;43,9932956748336;"nutdata_out2010";NA
+"croatia";"HR";NA;"fertilizer";"kgN/ha";2010;NA;90,2065886029834;"nutdata_out2010";NA
+"croatia";"HR";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,85605847255447;"nutdata_out2010";NA
+"croatia";"HR";NA;"n-fixation";"kgN/ha";2010;NA;11,0915356501806;"nutdata_out2010";NA
+"croatia";"HR";NA;"n-deposition";"kgN/ha";2010;NA;13,9437400550533;"nutdata_out2010";NA
+"croatia";"HR";NA;"n-removal";"kgN/ha";2010;NA;64,2860119520807;"nutdata_out2010";NA
+"cuba";"CU";NA;"fertilizer";"kgN/ha";2010;NA;9,69024646410985;"nutdata_out2010";NA
+"cuba";"CU";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,8753600368627;"nutdata_out2010";NA
+"cuba";"CU";NA;"n-fixation";"kgN/ha";2010;NA;7,56767980509856;"nutdata_out2010";NA
+"cuba";"CU";NA;"n-deposition";"kgN/ha";2010;NA;3,47614360273173;"nutdata_out2010";NA
+"cuba";"CU";NA;"n-removal";"kgN/ha";2010;NA;14,0584349904362;"nutdata_out2010";NA
+"cyprus";"CY";NA;"fertilizer";"kgN/ha";2010;NA;29,9857718455604;"nutdata_out2010";NA
+"cyprus";"CY";NA;"totalmanureapplied";"kgN/ha";2010;NA;21,9440830932493;"nutdata_out2010";NA
+"cyprus";"CY";NA;"n-fixation";"kgN/ha";2010;NA;11,1827291409455;"nutdata_out2010";NA
+"cyprus";"CY";NA;"n-deposition";"kgN/ha";2010;NA;6,2679761601344;"nutdata_out2010";NA
+"cyprus";"CY";NA;"n-removal";"kgN/ha";2010;NA;26,9017941279351;"nutdata_out2010";NA
+"czech republic";"CZ";NA;"fertilizer";"kgN/ha";2010;NA;68,7147788574878;"nutdata_out2010";NA
+"czech republic";"CZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,80357829627164;"nutdata_out2010";NA
+"czech republic";"CZ";NA;"n-fixation";"kgN/ha";2010;NA;12,9057147480917;"nutdata_out2010";NA
+"czech republic";"CZ";NA;"n-deposition";"kgN/ha";2010;NA;22,3659621177261;"nutdata_out2010";NA
+"czech republic";"CZ";NA;"n-removal";"kgN/ha";2010;NA;73,0266227832206;"nutdata_out2010";NA
+"benin";"BJ";NA;"fertilizer";"kgN/ha";2010;NA;4,49506627143032;"nutdata_out2010";NA
+"benin";"BJ";NA;"totalmanureapplied";"kgN/ha";2010;NA;10,7306244472574;"nutdata_out2010";NA
+"benin";"BJ";NA;"n-fixation";"kgN/ha";2010;NA;8,17284777638618;"nutdata_out2010";NA
+"benin";"BJ";NA;"n-deposition";"kgN/ha";2010;NA;6,6659428357118;"nutdata_out2010";NA
+"benin";"BJ";NA;"n-removal";"kgN/ha";2010;NA;19,2937301847651;"nutdata_out2010";NA
+"denmark";"DK";NA;"fertilizer";"kgN/ha";2010;NA;61,6181052166363;"nutdata_out2010";NA
+"denmark";"DK";NA;"totalmanureapplied";"kgN/ha";2010;NA;59,1554408707733;"nutdata_out2010";NA
+"denmark";"DK";NA;"n-fixation";"kgN/ha";2010;NA;33,211839336944;"nutdata_out2010";NA
+"denmark";"DK";NA;"n-deposition";"kgN/ha";2010;NA;21,1992904516511;"nutdata_out2010";NA
+"denmark";"DK";NA;"n-removal";"kgN/ha";2010;NA;111,493117053368;"nutdata_out2010";NA
+"dominica";"DM";NA;"fertilizer";"kgN/ha";2010;NA;10,8409682182755;"nutdata_out2010";NA
+"dominica";"DM";NA;"totalmanureapplied";"kgN/ha";2010;NA;27,7052732561114;"nutdata_out2010";NA
+"dominica";"DM";NA;"n-fixation";"kgN/ha";2010;NA;7,14767528751864;"nutdata_out2010";NA
+"dominica";"DM";NA;"n-deposition";"kgN/ha";2010;NA;0,979414490493683;"nutdata_out2010";NA
+"dominica";"DM";NA;"n-removal";"kgN/ha";2010;NA;12,2483358638435;"nutdata_out2010";NA
+"dominican republic";"DO";NA;"fertilizer";"kgN/ha";2010;NA;35,0038643193645;"nutdata_out2010";NA
+"dominican republic";"DO";NA;"totalmanureapplied";"kgN/ha";2010;NA;47,7699713939735;"nutdata_out2010";NA
+"dominican republic";"DO";NA;"n-fixation";"kgN/ha";2010;NA;8,50013063555031;"nutdata_out2010";NA
+"dominican republic";"DO";NA;"n-deposition";"kgN/ha";2010;NA;3,06299099745982;"nutdata_out2010";NA
+"dominican republic";"DO";NA;"n-removal";"kgN/ha";2010;NA;17,0870647276781;"nutdata_out2010";NA
+"ecuador";"EC";NA;"fertilizer";"kgN/ha";2010;NA;74,2511213087492;"nutdata_out2010";NA
+"ecuador";"EC";NA;"totalmanureapplied";"kgN/ha";2010;NA;57,1334408749289;"nutdata_out2010";NA
+"ecuador";"EC";NA;"n-fixation";"kgN/ha";2010;NA;22,5662198015303;"nutdata_out2010";NA
+"ecuador";"EC";NA;"n-deposition";"kgN/ha";2010;NA;4,57118644912864;"nutdata_out2010";NA
+"ecuador";"EC";NA;"n-removal";"kgN/ha";2010;NA;31,0678458999004;"nutdata_out2010";NA
+"el salvador";"SV";NA;"fertilizer";"kgN/ha";2010;NA;126,219018527439;"nutdata_out2010";NA
+"el salvador";"SV";NA;"totalmanureapplied";"kgN/ha";2010;NA;40,4859738996593;"nutdata_out2010";NA
+"el salvador";"SV";NA;"n-fixation";"kgN/ha";2010;NA;8,04526320950744;"nutdata_out2010";NA
+"el salvador";"SV";NA;"n-deposition";"kgN/ha";2010;NA;4,54443170282105;"nutdata_out2010";NA
+"el salvador";"SV";NA;"n-removal";"kgN/ha";2010;NA;26,1202658572732;"nutdata_out2010";NA
+"equatorial guinea";"GQ";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"equatorial guinea";"GQ";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,23193688455577;"nutdata_out2010";NA
+"equatorial guinea";"GQ";NA;"n-fixation";"kgN/ha";2010;NA;5,26276187075758;"nutdata_out2010";NA
+"equatorial guinea";"GQ";NA;"n-deposition";"kgN/ha";2010;NA;6,90876010828223;"nutdata_out2010";NA
+"equatorial guinea";"GQ";NA;"n-removal";"kgN/ha";2010;NA;8,81273793200308;"nutdata_out2010";NA
+"ethiopia";"ET";NA;"fertilizer";"kgN/ha";2010;NA;9,83412418569197;"nutdata_out2010";NA
+"ethiopia";"ET";NA;"totalmanureapplied";"kgN/ha";2010;NA;64,0422140597679;"nutdata_out2010";NA
+"ethiopia";"ET";NA;"n-fixation";"kgN/ha";2010;NA;9,71637849394177;"nutdata_out2010";NA
+"ethiopia";"ET";NA;"n-deposition";"kgN/ha";2010;NA;7,03769015254697;"nutdata_out2010";NA
+"ethiopia";"ET";NA;"n-removal";"kgN/ha";2010;NA;22,3126855664219;"nutdata_out2010";NA
+"eritrea";"ER";NA;"fertilizer";"kgN/ha";2010;NA;0,888781764940906;"nutdata_out2010";NA
+"eritrea";"ER";NA;"totalmanureapplied";"kgN/ha";2010;NA;45,0808850120511;"nutdata_out2010";NA
+"eritrea";"ER";NA;"n-fixation";"kgN/ha";2010;NA;7,95615890363948;"nutdata_out2010";NA
+"eritrea";"ER";NA;"n-deposition";"kgN/ha";2010;NA;3,85406701327213;"nutdata_out2010";NA
+"eritrea";"ER";NA;"n-removal";"kgN/ha";2010;NA;7,00165376890919;"nutdata_out2010";NA
+"estonia";"EE";NA;"fertilizer";"kgN/ha";2010;NA;222,28820502818;"nutdata_out2010";NA
+"estonia";"EE";NA;"totalmanureapplied";"kgN/ha";2010;NA;53,7664526504693;"nutdata_out2010";NA
+"estonia";"EE";NA;"n-fixation";"kgN/ha";2010;NA;31,9663549548497;"nutdata_out2010";NA
+"estonia";"EE";NA;"n-deposition";"kgN/ha";2010;NA;8,77754649012904;"nutdata_out2010";NA
+"estonia";"EE";NA;"n-removal";"kgN/ha";2010;NA;127,830968090446;"nutdata_out2010";NA
+"faeroe islands";"FO";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"faeroe islands";"FO";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"faeroe islands";"FO";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"faeroe islands";"FO";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"faeroe islands";"FO";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"falklands isl.";"FK";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"falklands isl.";"FK";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"falklands isl.";"FK";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"falklands isl.";"FK";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"falklands isl.";"FK";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"fiji";"FJ";NA;"fertilizer";"kgN/ha";2010;NA;17,3691927343476;"nutdata_out2010";NA
+"fiji";"FJ";NA;"totalmanureapplied";"kgN/ha";2010;NA;29,9479352206292;"nutdata_out2010";NA
+"fiji";"FJ";NA;"n-fixation";"kgN/ha";2010;NA;5,09041288967864;"nutdata_out2010";NA
+"fiji";"FJ";NA;"n-deposition";"kgN/ha";2010;NA;0,856780756014438;"nutdata_out2010";NA
+"fiji";"FJ";NA;"n-removal";"kgN/ha";2010;NA;7,85389629975635;"nutdata_out2010";NA
+"finland";"FI";NA;"fertilizer";"kgN/ha";2010;NA;79,729466761326;"nutdata_out2010";NA
+"finland";"FI";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,9139125696709;"nutdata_out2010";NA
+"finland";"FI";NA;"n-fixation";"kgN/ha";2010;NA;6,15398758793414;"nutdata_out2010";NA
+"finland";"FI";NA;"n-deposition";"kgN/ha";2010;NA;9,23721815940468;"nutdata_out2010";NA
+"finland";"FI";NA;"n-removal";"kgN/ha";2010;NA;50,0187869260048;"nutdata_out2010";NA
+"france";"FR";NA;"fertilizer";"kgN/ha";2010;NA;73,2225924392986;"nutdata_out2010";NA
+"france";"FR";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,3839075189077;"nutdata_out2010";NA
+"france";"FR";NA;"n-fixation";"kgN/ha";2010;NA;11,2300165228691;"nutdata_out2010";NA
+"france";"FR";NA;"n-deposition";"kgN/ha";2010;NA;20,7810754466803;"nutdata_out2010";NA
+"france";"FR";NA;"n-removal";"kgN/ha";2010;NA;83,8071183306567;"nutdata_out2010";NA
+"french guyana";"GF";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"french guyana";"GF";NA;"totalmanureapplied";"kgN/ha";2010;NA;53,5290026401466;"nutdata_out2010";NA
+"french guyana";"GF";NA;"n-fixation";"kgN/ha";2010;NA;243,739069458954;"nutdata_out2010";NA
+"french guyana";"GF";NA;"n-deposition";"kgN/ha";2010;NA;1,6303287382103;"nutdata_out2010";NA
+"french guyana";"GF";NA;"n-removal";"kgN/ha";2010;NA;31,4867014784193;"nutdata_out2010";NA
+"french polynesia";"PF";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"french polynesia";"PF";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"french polynesia";"PF";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"french polynesia";"PF";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"french polynesia";"PF";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"djibouti";"DJ";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"djibouti";"DJ";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"djibouti";"DJ";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"djibouti";"DJ";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"djibouti";"DJ";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"gabon";"GA";NA;"fertilizer";"kgN/ha";2010;NA;0,668257296321601;"nutdata_out2010";NA
+"gabon";"GA";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,27158262574315;"nutdata_out2010";NA
+"gabon";"GA";NA;"n-fixation";"kgN/ha";2010;NA;8,28473684794147;"nutdata_out2010";NA
+"gabon";"GA";NA;"n-deposition";"kgN/ha";2010;NA;5,96627251456678;"nutdata_out2010";NA
+"gabon";"GA";NA;"n-removal";"kgN/ha";2010;NA;15,0590567028821;"nutdata_out2010";NA
+"georgia";"GE";NA;"fertilizer";"kgN/ha";2010;NA;11,0169381264508;"nutdata_out2010";NA
+"georgia";"GE";NA;"totalmanureapplied";"kgN/ha";2010;NA;19,5151190689736;"nutdata_out2010";NA
+"georgia";"GE";NA;"n-fixation";"kgN/ha";2010;NA;6,17524388295666;"nutdata_out2010";NA
+"georgia";"GE";NA;"n-deposition";"kgN/ha";2010;NA;6,38964918686729;"nutdata_out2010";NA
+"georgia";"GE";NA;"n-removal";"kgN/ha";2010;NA;9,89120839720528;"nutdata_out2010";NA
+"gambia";"GM";NA;"fertilizer";"kgN/ha";2010;NA;15,4477469352665;"nutdata_out2010";NA
+"gambia";"GM";NA;"totalmanureapplied";"kgN/ha";2010;NA;105,451081571634;"nutdata_out2010";NA
+"gambia";"GM";NA;"n-fixation";"kgN/ha";2010;NA;10,1083211604798;"nutdata_out2010";NA
+"gambia";"GM";NA;"n-deposition";"kgN/ha";2010;NA;2,80964456989243;"nutdata_out2010";NA
+"gambia";"GM";NA;"n-removal";"kgN/ha";2010;NA;15,2129479987292;"nutdata_out2010";NA
+"germany";"DE";NA;"fertilizer";"kgN/ha";2010;NA;120,73617679437;"nutdata_out2010";NA
+"germany";"DE";NA;"totalmanureapplied";"kgN/ha";2010;NA;33,8946664486877;"nutdata_out2010";NA
+"germany";"DE";NA;"n-fixation";"kgN/ha";2010;NA;11,9348662490029;"nutdata_out2010";NA
+"germany";"DE";NA;"n-deposition";"kgN/ha";2010;NA;29,4760422594749;"nutdata_out2010";NA
+"germany";"DE";NA;"n-removal";"kgN/ha";2010;NA;160,560889880983;"nutdata_out2010";NA
+"ghana";"GH";NA;"fertilizer";"kgN/ha";2010;NA;2,40255560018162;"nutdata_out2010";NA
+"ghana";"GH";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,72242965871043;"nutdata_out2010";NA
+"ghana";"GH";NA;"n-fixation";"kgN/ha";2010;NA;8,14575641281753;"nutdata_out2010";NA
+"ghana";"GH";NA;"n-deposition";"kgN/ha";2010;NA;6,38045798283902;"nutdata_out2010";NA
+"ghana";"GH";NA;"n-removal";"kgN/ha";2010;NA;20,6172910143614;"nutdata_out2010";NA
+"gibraltar";"GI";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"gibraltar";"GI";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"gibraltar";"GI";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"gibraltar";"GI";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"gibraltar";"GI";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"kiribati";"KI";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"kiribati";"KI";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"kiribati";"KI";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"kiribati";"KI";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"kiribati";"KI";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"greece";"GR";NA;"fertilizer";"kgN/ha";2010;NA;29,9539855361247;"nutdata_out2010";NA
+"greece";"GR";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,9739197186555;"nutdata_out2010";NA
+"greece";"GR";NA;"n-fixation";"kgN/ha";2010;NA;15,5537763035361;"nutdata_out2010";NA
+"greece";"GR";NA;"n-deposition";"kgN/ha";2010;NA;9,63638254167508;"nutdata_out2010";NA
+"greece";"GR";NA;"n-removal";"kgN/ha";2010;NA;67,9237373357563;"nutdata_out2010";NA
+"grenada";"GD";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"grenada";"GD";NA;"totalmanureapplied";"kgN/ha";2010;NA;10,3863011774974;"nutdata_out2010";NA
+"grenada";"GD";NA;"n-fixation";"kgN/ha";2010;NA;7,97549743073473;"nutdata_out2010";NA
+"grenada";"GD";NA;"n-deposition";"kgN/ha";2010;NA;1,23715553819392;"nutdata_out2010";NA
+"grenada";"GD";NA;"n-removal";"kgN/ha";2010;NA;9,96555301651573;"nutdata_out2010";NA
+"guadeloupe";"GP";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"guadeloupe";"GP";NA;"totalmanureapplied";"kgN/ha";2010;NA;37,1557768035144;"nutdata_out2010";NA
+"guadeloupe";"GP";NA;"n-fixation";"kgN/ha";2010;NA;21,3704073127978;"nutdata_out2010";NA
+"guadeloupe";"GP";NA;"n-deposition";"kgN/ha";2010;NA;0,945049281787655;"nutdata_out2010";NA
+"guadeloupe";"GP";NA;"n-removal";"kgN/ha";2010;NA;18,2364705870057;"nutdata_out2010";NA
+"guatemala";"GT";NA;"fertilizer";"kgN/ha";2010;NA;70,3649547901044;"nutdata_out2010";NA
+"guatemala";"GT";NA;"totalmanureapplied";"kgN/ha";2010;NA;26,88699686977;"nutdata_out2010";NA
+"guatemala";"GT";NA;"n-fixation";"kgN/ha";2010;NA;9,58509539030796;"nutdata_out2010";NA
+"guatemala";"GT";NA;"n-deposition";"kgN/ha";2010;NA;4,82952558266061;"nutdata_out2010";NA
+"guatemala";"GT";NA;"n-removal";"kgN/ha";2010;NA;28,2513733957825;"nutdata_out2010";NA
+"guinea";"GN";NA;"fertilizer";"kgN/ha";2010;NA;0,562096433179453;"nutdata_out2010";NA
+"guinea";"GN";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,1162755694887;"nutdata_out2010";NA
+"guinea";"GN";NA;"n-fixation";"kgN/ha";2010;NA;11,6802582674676;"nutdata_out2010";NA
+"guinea";"GN";NA;"n-deposition";"kgN/ha";2010;NA;5,35800219581782;"nutdata_out2010";NA
+"guinea";"GN";NA;"n-removal";"kgN/ha";2010;NA;17,7019200710739;"nutdata_out2010";NA
+"guyana";"GY";NA;"fertilizer";"kgN/ha";2010;NA;42,5085865184503;"nutdata_out2010";NA
+"guyana";"GY";NA;"totalmanureapplied";"kgN/ha";2010;NA;26,4506657393523;"nutdata_out2010";NA
+"guyana";"GY";NA;"n-fixation";"kgN/ha";2010;NA;60,6112643971683;"nutdata_out2010";NA
+"guyana";"GY";NA;"n-deposition";"kgN/ha";2010;NA;2,50869626095394;"nutdata_out2010";NA
+"guyana";"GY";NA;"n-removal";"kgN/ha";2010;NA;20,6646772390443;"nutdata_out2010";NA
+"haiti";"HT";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"haiti";"HT";NA;"totalmanureapplied";"kgN/ha";2010;NA;44,3396973444048;"nutdata_out2010";NA
+"haiti";"HT";NA;"n-fixation";"kgN/ha";2010;NA;7,35332366146926;"nutdata_out2010";NA
+"haiti";"HT";NA;"n-deposition";"kgN/ha";2010;NA;2,9114561157051;"nutdata_out2010";NA
+"haiti";"HT";NA;"n-removal";"kgN/ha";2010;NA;10,8441775688028;"nutdata_out2010";NA
+"vatican city state";"VA";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"vatican city state";"VA";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"vatican city state";"VA";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"vatican city state";"VA";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"vatican city state";"VA";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"honduras";"HN";NA;"fertilizer";"kgN/ha";2010;NA;39,8226883415807;"nutdata_out2010";NA
+"honduras";"HN";NA;"totalmanureapplied";"kgN/ha";2010;NA;27,783261379842;"nutdata_out2010";NA
+"honduras";"HN";NA;"n-fixation";"kgN/ha";2010;NA;8,3058249007923;"nutdata_out2010";NA
+"honduras";"HN";NA;"n-deposition";"kgN/ha";2010;NA;3,85000890478935;"nutdata_out2010";NA
+"honduras";"HN";NA;"n-removal";"kgN/ha";2010;NA;37,7833630207977;"nutdata_out2010";NA
+"hong kong china";"HK";NA;"fertilizer";"kgN/ha";2010;NA;299,773564347716;"nutdata_out2010";NA
+"hong kong china";"HK";NA;"totalmanureapplied";"kgN/ha";2010;NA;125,000006836756;"nutdata_out2010";NA
+"hong kong china";"HK";NA;"n-fixation";"kgN/ha";2010;NA;5,38787448508153;"nutdata_out2010";NA
+"hong kong china";"HK";NA;"n-deposition";"kgN/ha";2010;NA;19,2162191286258;"nutdata_out2010";NA
+"hong kong china";"HK";NA;"n-removal";"kgN/ha";2010;NA;73,9305493950308;"nutdata_out2010";NA
+"hungary";"HU";NA;"fertilizer";"kgN/ha";2010;NA;46,9449072167533;"nutdata_out2010";NA
+"hungary";"HU";NA;"totalmanureapplied";"kgN/ha";2010;NA;5,1685985512307;"nutdata_out2010";NA
+"hungary";"HU";NA;"n-fixation";"kgN/ha";2010;NA;13,2558101107124;"nutdata_out2010";NA
+"hungary";"HU";NA;"n-deposition";"kgN/ha";2010;NA;16,9597042835769;"nutdata_out2010";NA
+"hungary";"HU";NA;"n-removal";"kgN/ha";2010;NA;57,5347877135925;"nutdata_out2010";NA
+"iceland";"IS";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"iceland";"IS";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"iceland";"IS";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"iceland";"IS";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"iceland";"IS";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"indonesia";"ID";NA;"fertilizer";"kgN/ha";2010;NA;61,5660133301018;"nutdata_out2010";NA
+"indonesia";"ID";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,265802063284;"nutdata_out2010";NA
+"indonesia";"ID";NA;"n-fixation";"kgN/ha";2010;NA;11,2122315625294;"nutdata_out2010";NA
+"indonesia";"ID";NA;"n-deposition";"kgN/ha";2010;NA;5,79517647040331;"nutdata_out2010";NA
+"indonesia";"ID";NA;"n-removal";"kgN/ha";2010;NA;65,1726630987837;"nutdata_out2010";NA
+"iran islamic rep.";"IR";NA;"fertilizer";"kgN/ha";2010;NA;22,6261929090941;"nutdata_out2010";NA
+"iran islamic rep.";"IR";NA;"totalmanureapplied";"kgN/ha";2010;NA;38,9079333113186;"nutdata_out2010";NA
+"iran islamic rep.";"IR";NA;"n-fixation";"kgN/ha";2010;NA;13,643281935991;"nutdata_out2010";NA
+"iran islamic rep.";"IR";NA;"n-deposition";"kgN/ha";2010;NA;6,75187529250549;"nutdata_out2010";NA
+"iran islamic rep.";"IR";NA;"n-removal";"kgN/ha";2010;NA;34,3356955326764;"nutdata_out2010";NA
+"iraq";"IQ";NA;"fertilizer";"kgN/ha";2010;NA;16,1301400555655;"nutdata_out2010";NA
+"iraq";"IQ";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,466426259163;"nutdata_out2010";NA
+"iraq";"IQ";NA;"n-fixation";"kgN/ha";2010;NA;9,24146439533739;"nutdata_out2010";NA
+"iraq";"IQ";NA;"n-deposition";"kgN/ha";2010;NA;7,32028927234727;"nutdata_out2010";NA
+"iraq";"IQ";NA;"n-removal";"kgN/ha";2010;NA;21,5061893997523;"nutdata_out2010";NA
+"ireland";"IE";NA;"fertilizer";"kgN/ha";2010;NA;63,4146459106479;"nutdata_out2010";NA
+"ireland";"IE";NA;"totalmanureapplied";"kgN/ha";2010;NA;87,6795513582115;"nutdata_out2010";NA
+"ireland";"IE";NA;"n-fixation";"kgN/ha";2010;NA;6,82832599475729;"nutdata_out2010";NA
+"ireland";"IE";NA;"n-deposition";"kgN/ha";2010;NA;13,2203485992794;"nutdata_out2010";NA
+"ireland";"IE";NA;"n-removal";"kgN/ha";2010;NA;101,619454655183;"nutdata_out2010";NA
+"israel";"IL";NA;"fertilizer";"kgN/ha";2010;NA;47,3422261892152;"nutdata_out2010";NA
+"israel";"IL";NA;"totalmanureapplied";"kgN/ha";2010;NA;56,6549380740941;"nutdata_out2010";NA
+"israel";"IL";NA;"n-fixation";"kgN/ha";2010;NA;13,7721635104581;"nutdata_out2010";NA
+"israel";"IL";NA;"n-deposition";"kgN/ha";2010;NA;7,01488835153157;"nutdata_out2010";NA
+"israel";"IL";NA;"n-removal";"kgN/ha";2010;NA;34,6022244168602;"nutdata_out2010";NA
+"italy";"IT";NA;"fertilizer";"kgN/ha";2010;NA;35,1786414195265;"nutdata_out2010";NA
+"italy";"IT";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,7119674446751;"nutdata_out2010";NA
+"italy";"IT";NA;"n-fixation";"kgN/ha";2010;NA;17,8973011245296;"nutdata_out2010";NA
+"italy";"IT";NA;"n-deposition";"kgN/ha";2010;NA;14,238445620989;"nutdata_out2010";NA
+"italy";"IT";NA;"n-removal";"kgN/ha";2010;NA;51,3682574241408;"nutdata_out2010";NA
+"cote d'ivoire";"CI";NA;"fertilizer";"kgN/ha";2010;NA;2,55272219566846;"nutdata_out2010";NA
+"cote d'ivoire";"CI";NA;"totalmanureapplied";"kgN/ha";2010;NA;2,94501218983117;"nutdata_out2010";NA
+"cote d'ivoire";"CI";NA;"n-fixation";"kgN/ha";2010;NA;7,88638672378743;"nutdata_out2010";NA
+"cote d'ivoire";"CI";NA;"n-deposition";"kgN/ha";2010;NA;6,3115261743639;"nutdata_out2010";NA
+"cote d'ivoire";"CI";NA;"n-removal";"kgN/ha";2010;NA;12,6526369115927;"nutdata_out2010";NA
+"jamaica";"JM";NA;"fertilizer";"kgN/ha";2010;NA;25,6405658780349;"nutdata_out2010";NA
+"jamaica";"JM";NA;"totalmanureapplied";"kgN/ha";2010;NA;31,790914439367;"nutdata_out2010";NA
+"jamaica";"JM";NA;"n-fixation";"kgN/ha";2010;NA;11,2639440232772;"nutdata_out2010";NA
+"jamaica";"JM";NA;"n-deposition";"kgN/ha";2010;NA;2,42524465079513;"nutdata_out2010";NA
+"jamaica";"JM";NA;"n-removal";"kgN/ha";2010;NA;20,3690746876731;"nutdata_out2010";NA
+"kazakhstan";"KZ";NA;"fertilizer";"kgN/ha";2010;NA;1,81537675898661;"nutdata_out2010";NA
+"kazakhstan";"KZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,27425310745392;"nutdata_out2010";NA
+"kazakhstan";"KZ";NA;"n-fixation";"kgN/ha";2010;NA;5,58435711599545;"nutdata_out2010";NA
+"kazakhstan";"KZ";NA;"n-deposition";"kgN/ha";2010;NA;3,98029066161006;"nutdata_out2010";NA
+"kazakhstan";"KZ";NA;"n-removal";"kgN/ha";2010;NA;10,1672817431278;"nutdata_out2010";NA
+"jordan";"JO";NA;"fertilizer";"kgN/ha";2010;NA;49,1727354566015;"nutdata_out2010";NA
+"jordan";"JO";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,0240862746817;"nutdata_out2010";NA
+"jordan";"JO";NA;"n-fixation";"kgN/ha";2010;NA;10,5614758660699;"nutdata_out2010";NA
+"jordan";"JO";NA;"n-deposition";"kgN/ha";2010;NA;6,42545045173909;"nutdata_out2010";NA
+"jordan";"JO";NA;"n-removal";"kgN/ha";2010;NA;28,1920474006379;"nutdata_out2010";NA
+"kenya";"KE";NA;"fertilizer";"kgN/ha";2010;NA;12,7334390901205;"nutdata_out2010";NA
+"kenya";"KE";NA;"totalmanureapplied";"kgN/ha";2010;NA;27,9843447557098;"nutdata_out2010";NA
+"kenya";"KE";NA;"n-fixation";"kgN/ha";2010;NA;6,60907098128187;"nutdata_out2010";NA
+"kenya";"KE";NA;"n-deposition";"kgN/ha";2010;NA;5,12428589485168;"nutdata_out2010";NA
+"kenya";"KE";NA;"n-removal";"kgN/ha";2010;NA;20,5314990527755;"nutdata_out2010";NA
+"korea dem. rep.";"KP";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"korea dem. rep.";"KP";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,6197716174248;"nutdata_out2010";NA
+"korea dem. rep.";"KP";NA;"n-fixation";"kgN/ha";2010;NA;16,0396634050291;"nutdata_out2010";NA
+"korea dem. rep.";"KP";NA;"n-deposition";"kgN/ha";2010;NA;14,8129811133188;"nutdata_out2010";NA
+"korea dem. rep.";"KP";NA;"n-removal";"kgN/ha";2010;NA;44,6935406544242;"nutdata_out2010";NA
+"korea rep.";"KR";NA;"fertilizer";"kgN/ha";2010;NA;99,2973465585061;"nutdata_out2010";NA
+"korea rep.";"KR";NA;"totalmanureapplied";"kgN/ha";2010;NA;65,7107495446387;"nutdata_out2010";NA
+"korea rep.";"KR";NA;"n-fixation";"kgN/ha";2010;NA;17,9345347841648;"nutdata_out2010";NA
+"korea rep.";"KR";NA;"n-deposition";"kgN/ha";2010;NA;16,3604616885361;"nutdata_out2010";NA
+"korea rep.";"KR";NA;"n-removal";"kgN/ha";2010;NA;66,3734054092521;"nutdata_out2010";NA
+"kuwait";"KW";NA;"fertilizer";"kgN/ha";2010;NA;280,973411421169;"nutdata_out2010";NA
+"kuwait";"KW";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,4999933390004;"nutdata_out2010";NA
+"kuwait";"KW";NA;"n-fixation";"kgN/ha";2010;NA;14,2842027674589;"nutdata_out2010";NA
+"kuwait";"KW";NA;"n-deposition";"kgN/ha";2010;NA;4,90038939431521;"nutdata_out2010";NA
+"kuwait";"KW";NA;"n-removal";"kgN/ha";2010;NA;115,797519585855;"nutdata_out2010";NA
+"kyrgyz republic";"KG";NA;"fertilizer";"kgN/ha";2010;NA;8,73811550112024;"nutdata_out2010";NA
+"kyrgyz republic";"KG";NA;"totalmanureapplied";"kgN/ha";2010;NA;17,7278439540714;"nutdata_out2010";NA
+"kyrgyz republic";"KG";NA;"n-fixation";"kgN/ha";2010;NA;5,51524557674361;"nutdata_out2010";NA
+"kyrgyz republic";"KG";NA;"n-deposition";"kgN/ha";2010;NA;3,37484706592141;"nutdata_out2010";NA
+"kyrgyz republic";"KG";NA;"n-removal";"kgN/ha";2010;NA;26,8273923657205;"nutdata_out2010";NA
+"lao pdr";"LA";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"lao pdr";"LA";NA;"totalmanureapplied";"kgN/ha";2010;NA;37,2843328112499;"nutdata_out2010";NA
+"lao pdr";"LA";NA;"n-fixation";"kgN/ha";2010;NA;19,1161621254635;"nutdata_out2010";NA
+"lao pdr";"LA";NA;"n-deposition";"kgN/ha";2010;NA;15,6037073137047;"nutdata_out2010";NA
+"lao pdr";"LA";NA;"n-removal";"kgN/ha";2010;NA;59,4611439976912;"nutdata_out2010";NA
+"lebanon";"LB";NA;"fertilizer";"kgN/ha";2010;NA;52,4445812906731;"nutdata_out2010";NA
+"lebanon";"LB";NA;"totalmanureapplied";"kgN/ha";2010;NA;41,8993322128818;"nutdata_out2010";NA
+"lebanon";"LB";NA;"n-fixation";"kgN/ha";2010;NA;9,1966077970395;"nutdata_out2010";NA
+"lebanon";"LB";NA;"n-deposition";"kgN/ha";2010;NA;7,53708776473769;"nutdata_out2010";NA
+"lebanon";"LB";NA;"n-removal";"kgN/ha";2010;NA;25,9312626995938;"nutdata_out2010";NA
+"lesotho";"LS";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"lesotho";"LS";NA;"totalmanureapplied";"kgN/ha";2010;NA;10,405031026881;"nutdata_out2010";NA
+"lesotho";"LS";NA;"n-fixation";"kgN/ha";2010;NA;6,58453089601955;"nutdata_out2010";NA
+"lesotho";"LS";NA;"n-deposition";"kgN/ha";2010;NA;5,287178286141;"nutdata_out2010";NA
+"lesotho";"LS";NA;"n-removal";"kgN/ha";2010;NA;11,4564939742918;"nutdata_out2010";NA
+"latvia";"LV";NA;"fertilizer";"kgN/ha";2010;NA;296,527494626928;"nutdata_out2010";NA
+"latvia";"LV";NA;"totalmanureapplied";"kgN/ha";2010;NA;79,6043382413033;"nutdata_out2010";NA
+"latvia";"LV";NA;"n-fixation";"kgN/ha";2010;NA;5,63254725813343;"nutdata_out2010";NA
+"latvia";"LV";NA;"n-deposition";"kgN/ha";2010;NA;10,5796610607443;"nutdata_out2010";NA
+"latvia";"LV";NA;"n-removal";"kgN/ha";2010;NA;307,743186739067;"nutdata_out2010";NA
+"liberia";"LR";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"liberia";"LR";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,56783381266357;"nutdata_out2010";NA
+"liberia";"LR";NA;"n-fixation";"kgN/ha";2010;NA;7,39127749983817;"nutdata_out2010";NA
+"liberia";"LR";NA;"n-deposition";"kgN/ha";2010;NA;6,38251880228989;"nutdata_out2010";NA
+"liberia";"LR";NA;"n-removal";"kgN/ha";2010;NA;14,1579044869009;"nutdata_out2010";NA
+"libya";"LY";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"libya";"LY";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,1740096928593;"nutdata_out2010";NA
+"libya";"LY";NA;"n-fixation";"kgN/ha";2010;NA;11,3117829287244;"nutdata_out2010";NA
+"libya";"LY";NA;"n-deposition";"kgN/ha";2010;NA;3,15226773225258;"nutdata_out2010";NA
+"libya";"LY";NA;"n-removal";"kgN/ha";2010;NA;16,7609434276312;"nutdata_out2010";NA
+"liechtenstein";"LI";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"liechtenstein";"LI";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"liechtenstein";"LI";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"liechtenstein";"LI";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"liechtenstein";"LI";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"lithuania";"LT";NA;"fertilizer";"kgN/ha";2010;NA;26,9535778363838;"nutdata_out2010";NA
+"lithuania";"LT";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,80816338370738;"nutdata_out2010";NA
+"lithuania";"LT";NA;"n-fixation";"kgN/ha";2010;NA;7,43120375354661;"nutdata_out2010";NA
+"lithuania";"LT";NA;"n-deposition";"kgN/ha";2010;NA;11,7565314965249;"nutdata_out2010";NA
+"lithuania";"LT";NA;"n-removal";"kgN/ha";2010;NA;42,2602135277184;"nutdata_out2010";NA
+"luxembourg";"LU";NA;"fertilizer";"kgN/ha";2010;NA;295,821816829342;"nutdata_out2010";NA
+"luxembourg";"LU";NA;"totalmanureapplied";"kgN/ha";2010;NA;81,7149106709983;"nutdata_out2010";NA
+"luxembourg";"LU";NA;"n-fixation";"kgN/ha";2010;NA;8,3158679020127;"nutdata_out2010";NA
+"luxembourg";"LU";NA;"n-deposition";"kgN/ha";2010;NA;33,3651619487165;"nutdata_out2010";NA
+"luxembourg";"LU";NA;"n-removal";"kgN/ha";2010;NA;184,877215190402;"nutdata_out2010";NA
+"macao china";"MO";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"macao china";"MO";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"macao china";"MO";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"macao china";"MO";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"macao china";"MO";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"madagascar";"MG";NA;"fertilizer";"kgN/ha";2010;NA;0,90261621807529;"nutdata_out2010";NA
+"madagascar";"MG";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,7599686625842;"nutdata_out2010";NA
+"madagascar";"MG";NA;"n-fixation";"kgN/ha";2010;NA;8,31101190925715;"nutdata_out2010";NA
+"madagascar";"MG";NA;"n-deposition";"kgN/ha";2010;NA;2,48737114252343;"nutdata_out2010";NA
+"madagascar";"MG";NA;"n-removal";"kgN/ha";2010;NA;14,9297457703612;"nutdata_out2010";NA
+"malawi";"MW";NA;"fertilizer";"kgN/ha";2010;NA;30,4587863809478;"nutdata_out2010";NA
+"malawi";"MW";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,33601952149064;"nutdata_out2010";NA
+"malawi";"MW";NA;"n-fixation";"kgN/ha";2010;NA;9,67020085097936;"nutdata_out2010";NA
+"malawi";"MW";NA;"n-deposition";"kgN/ha";2010;NA;2,68032961334257;"nutdata_out2010";NA
+"malawi";"MW";NA;"n-removal";"kgN/ha";2010;NA;24,4049355949683;"nutdata_out2010";NA
+"malaysia";"MY";NA;"fertilizer";"kgN/ha";2010;NA;95,5838235739092;"nutdata_out2010";NA
+"malaysia";"MY";NA;"totalmanureapplied";"kgN/ha";2010;NA;14,4238482815367;"nutdata_out2010";NA
+"malaysia";"MY";NA;"n-fixation";"kgN/ha";2010;NA;21,2236094018927;"nutdata_out2010";NA
+"malaysia";"MY";NA;"n-deposition";"kgN/ha";2010;NA;6,42900121636562;"nutdata_out2010";NA
+"malaysia";"MY";NA;"n-removal";"kgN/ha";2010;NA;187,529020296229;"nutdata_out2010";NA
+"maldives";"MV";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"maldives";"MV";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"maldives";"MV";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"maldives";"MV";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"maldives";"MV";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"mali";"ML";NA;"fertilizer";"kgN/ha";2010;NA;11,880429312193;"nutdata_out2010";NA
+"mali";"ML";NA;"totalmanureapplied";"kgN/ha";2010;NA;20,9470050307539;"nutdata_out2010";NA
+"mali";"ML";NA;"n-fixation";"kgN/ha";2010;NA;9,34611310096104;"nutdata_out2010";NA
+"mali";"ML";NA;"n-deposition";"kgN/ha";2010;NA;3,44346418931299;"nutdata_out2010";NA
+"mali";"ML";NA;"n-removal";"kgN/ha";2010;NA;19,0968929061805;"nutdata_out2010";NA
+"malta";"MT";NA;"fertilizer";"kgN/ha";2010;NA;62,1135166901059;"nutdata_out2010";NA
+"malta";"MT";NA;"totalmanureapplied";"kgN/ha";2010;NA;113,249118719061;"nutdata_out2010";NA
+"malta";"MT";NA;"n-fixation";"kgN/ha";2010;NA;20,2820744380783;"nutdata_out2010";NA
+"malta";"MT";NA;"n-deposition";"kgN/ha";2010;NA;5,00386237318256;"nutdata_out2010";NA
+"malta";"MT";NA;"n-removal";"kgN/ha";2010;NA;75,6665567156458;"nutdata_out2010";NA
+"martinique";"MQ";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"martinique";"MQ";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,355421008872;"nutdata_out2010";NA
+"martinique";"MQ";NA;"n-fixation";"kgN/ha";2010;NA;7,16425469074294;"nutdata_out2010";NA
+"martinique";"MQ";NA;"n-deposition";"kgN/ha";2010;NA;0,986288866429661;"nutdata_out2010";NA
+"martinique";"MQ";NA;"n-removal";"kgN/ha";2010;NA;28,3457703334084;"nutdata_out2010";NA
+"mauritania";"MR";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"mauritania";"MR";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,4999963485491;"nutdata_out2010";NA
+"mauritania";"MR";NA;"n-fixation";"kgN/ha";2010;NA;9,7120804660599;"nutdata_out2010";NA
+"mauritania";"MR";NA;"n-deposition";"kgN/ha";2010;NA;1,49449949991056;"nutdata_out2010";NA
+"mauritania";"MR";NA;"n-removal";"kgN/ha";2010;NA;17,8678935087349;"nutdata_out2010";NA
+"mauritius";"MU";NA;"fertilizer";"kgN/ha";2010;NA;260,632817444626;"nutdata_out2010";NA
+"mauritius";"MU";NA;"totalmanureapplied";"kgN/ha";2010;NA;124,999996184519;"nutdata_out2010";NA
+"mauritius";"MU";NA;"n-fixation";"kgN/ha";2010;NA;11,6563447717907;"nutdata_out2010";NA
+"mauritius";"MU";NA;"n-deposition";"kgN/ha";2010;NA;0,509999983377746;"nutdata_out2010";NA
+"mauritius";"MU";NA;"n-removal";"kgN/ha";2010;NA;20,9517596466437;"nutdata_out2010";NA
+"monaco";"MC";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"monaco";"MC";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"monaco";"MC";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"monaco";"MC";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"monaco";"MC";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"mongolia";"MN";NA;"fertilizer";"kgN/ha";2010;NA;51,3353160300131;"nutdata_out2010";NA
+"mongolia";"MN";NA;"totalmanureapplied";"kgN/ha";2010;NA;71,772781446416;"nutdata_out2010";NA
+"mongolia";"MN";NA;"n-fixation";"kgN/ha";2010;NA;9,5261793919157;"nutdata_out2010";NA
+"mongolia";"MN";NA;"n-deposition";"kgN/ha";2010;NA;2,097482267707;"nutdata_out2010";NA
+"mongolia";"MN";NA;"n-removal";"kgN/ha";2010;NA;37,8219733821395;"nutdata_out2010";NA
+"moldova";"MD";NA;"fertilizer";"kgN/ha";2010;NA;7,1546744323572;"nutdata_out2010";NA
+"moldova";"MD";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,8397005632135;"nutdata_out2010";NA
+"moldova";"MD";NA;"n-fixation";"kgN/ha";2010;NA;7,07724852096632;"nutdata_out2010";NA
+"moldova";"MD";NA;"n-deposition";"kgN/ha";2010;NA;10,4010353270794;"nutdata_out2010";NA
+"moldova";"MD";NA;"n-removal";"kgN/ha";2010;NA;31,4000936253974;"nutdata_out2010";NA
+"montserrat";"MS";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"montserrat";"MS";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"montserrat";"MS";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"montserrat";"MS";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"montserrat";"MS";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"morocco";"MA";NA;"fertilizer";"kgN/ha";2010;NA;15,8398654118742;"nutdata_out2010";NA
+"morocco";"MA";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,6895330586441;"nutdata_out2010";NA
+"morocco";"MA";NA;"n-fixation";"kgN/ha";2010;NA;8,23421208406485;"nutdata_out2010";NA
+"morocco";"MA";NA;"n-deposition";"kgN/ha";2010;NA;4,5105885457502;"nutdata_out2010";NA
+"morocco";"MA";NA;"n-removal";"kgN/ha";2010;NA;33,887778590532;"nutdata_out2010";NA
+"mozambique";"MZ";NA;"fertilizer";"kgN/ha";2010;NA;5,37408225122299;"nutdata_out2010";NA
+"mozambique";"MZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;4,24435534270546;"nutdata_out2010";NA
+"mozambique";"MZ";NA;"n-fixation";"kgN/ha";2010;NA;6,48007541000085;"nutdata_out2010";NA
+"mozambique";"MZ";NA;"n-deposition";"kgN/ha";2010;NA;2,50944172726089;"nutdata_out2010";NA
+"mozambique";"MZ";NA;"n-removal";"kgN/ha";2010;NA;12,7582832127752;"nutdata_out2010";NA
+"oman";"OM";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"oman";"OM";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,4999931490219;"nutdata_out2010";NA
+"oman";"OM";NA;"n-fixation";"kgN/ha";2010;NA;51,2773540443833;"nutdata_out2010";NA
+"oman";"OM";NA;"n-deposition";"kgN/ha";2010;NA;2,98570548580396;"nutdata_out2010";NA
+"oman";"OM";NA;"n-removal";"kgN/ha";2010;NA;67,4290223527366;"nutdata_out2010";NA
+"namibia";NA;NA;"fertilizer";"kgN/ha";2010;NA;5,37775768684768;"nutdata_out2010";NA
+"namibia";NA;NA;"totalmanureapplied";"kgN/ha";2010;NA;28,2939025156561;"nutdata_out2010";NA
+"namibia";NA;NA;"n-fixation";"kgN/ha";2010;NA;9,18537617622404;"nutdata_out2010";NA
+"namibia";NA;NA;"n-deposition";"kgN/ha";2010;NA;2,1707109138245;"nutdata_out2010";NA
+"namibia";NA;NA;"n-removal";"kgN/ha";2010;NA;10,401984836158;"nutdata_out2010";NA
+"nauru";"NR";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"nauru";"NR";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"nauru";"NR";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"nauru";"NR";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"nauru";"NR";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"nepal";"NP";NA;"fertilizer";"kgN/ha";2010;NA;6,25170533133358;"nutdata_out2010";NA
+"nepal";"NP";NA;"totalmanureapplied";"kgN/ha";2010;NA;30,085691311158;"nutdata_out2010";NA
+"nepal";"NP";NA;"n-fixation";"kgN/ha";2010;NA;16,4833158151893;"nutdata_out2010";NA
+"nepal";"NP";NA;"n-deposition";"kgN/ha";2010;NA;8,722511712033;"nutdata_out2010";NA
+"nepal";"NP";NA;"n-removal";"kgN/ha";2010;NA;38,8912807137782;"nutdata_out2010";NA
+"netherlands";"NL";NA;"fertilizer";"kgN/ha";2010;NA;85,1031022366829;"nutdata_out2010";NA
+"netherlands";"NL";NA;"totalmanureapplied";"kgN/ha";2010;NA;214,10789949981;"nutdata_out2010";NA
+"netherlands";"NL";NA;"n-fixation";"kgN/ha";2010;NA;12,2965135024917;"nutdata_out2010";NA
+"netherlands";"NL";NA;"n-deposition";"kgN/ha";2010;NA;32,4679121418649;"nutdata_out2010";NA
+"netherlands";"NL";NA;"n-removal";"kgN/ha";2010;NA;193,364094891715;"nutdata_out2010";NA
+"aruba";"AW";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"aruba";"AW";NA;"totalmanureapplied";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"aruba";"AW";NA;"n-fixation";"kgN/ha";2010;NA;2,60790740849069e-15;"nutdata_out2010";NA
+"aruba";"AW";NA;"n-deposition";"kgN/ha";2010;NA;2,85898570049133;"nutdata_out2010";NA
+"aruba";"AW";NA;"n-removal";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"new caledonia";"NC";NA;"fertilizer";"kgN/ha";2010;NA;55,071281843688;"nutdata_out2010";NA
+"new caledonia";"NC";NA;"totalmanureapplied";"kgN/ha";2010;NA;54,6112484718704;"nutdata_out2010";NA
+"new caledonia";"NC";NA;"n-fixation";"kgN/ha";2010;NA;4,55462159872028;"nutdata_out2010";NA
+"new caledonia";"NC";NA;"n-deposition";"kgN/ha";2010;NA;0,545641912212846;"nutdata_out2010";NA
+"new caledonia";"NC";NA;"n-removal";"kgN/ha";2010;NA;5,86982562599743;"nutdata_out2010";NA
+"vanuatu";"VU";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"vanuatu";"VU";NA;"totalmanureapplied";"kgN/ha";2010;NA;22,6733812079044;"nutdata_out2010";NA
+"vanuatu";"VU";NA;"n-fixation";"kgN/ha";2010;NA;6,09992356325647;"nutdata_out2010";NA
+"vanuatu";"VU";NA;"n-deposition";"kgN/ha";2010;NA;0,632992554501055;"nutdata_out2010";NA
+"vanuatu";"VU";NA;"n-removal";"kgN/ha";2010;NA;6,27068899837547;"nutdata_out2010";NA
+"new zealand";"NZ";NA;"fertilizer";"kgN/ha";2010;NA;32,0513211715379;"nutdata_out2010";NA
+"new zealand";"NZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;38,5892959086688;"nutdata_out2010";NA
+"new zealand";"NZ";NA;"n-fixation";"kgN/ha";2010;NA;15,3476008422581;"nutdata_out2010";NA
+"new zealand";"NZ";NA;"n-deposition";"kgN/ha";2010;NA;2,49045765111009;"nutdata_out2010";NA
+"new zealand";"NZ";NA;"n-removal";"kgN/ha";2010;NA;61,1812193328777;"nutdata_out2010";NA
+"nicaragua";"NI";NA;"fertilizer";"kgN/ha";2010;NA;23,8951538144886;"nutdata_out2010";NA
+"nicaragua";"NI";NA;"totalmanureapplied";"kgN/ha";2010;NA;24,9464506826507;"nutdata_out2010";NA
+"nicaragua";"NI";NA;"n-fixation";"kgN/ha";2010;NA;10,1404236301344;"nutdata_out2010";NA
+"nicaragua";"NI";NA;"n-deposition";"kgN/ha";2010;NA;3,44830780267118;"nutdata_out2010";NA
+"nicaragua";"NI";NA;"n-removal";"kgN/ha";2010;NA;21,5033388745016;"nutdata_out2010";NA
+"niger";"NE";NA;"fertilizer";"kgN/ha";2010;NA;1,6781341448798;"nutdata_out2010";NA
+"niger";"NE";NA;"totalmanureapplied";"kgN/ha";2010;NA;43,1453015701588;"nutdata_out2010";NA
+"niger";"NE";NA;"n-fixation";"kgN/ha";2010;NA;5,78024061851249;"nutdata_out2010";NA
+"niger";"NE";NA;"n-deposition";"kgN/ha";2010;NA;2,88638317656789;"nutdata_out2010";NA
+"niger";"NE";NA;"n-removal";"kgN/ha";2010;NA;7,83015767267502;"nutdata_out2010";NA
+"nigeria";"NG";NA;"fertilizer";"kgN/ha";2010;NA;5,28859844522594;"nutdata_out2010";NA
+"nigeria";"NG";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,63068626761055;"nutdata_out2010";NA
+"nigeria";"NG";NA;"n-fixation";"kgN/ha";2010;NA;10,2469482240981;"nutdata_out2010";NA
+"nigeria";"NG";NA;"n-deposition";"kgN/ha";2010;NA;6,68689792407319;"nutdata_out2010";NA
+"nigeria";"NG";NA;"n-removal";"kgN/ha";2010;NA;20,5214890999459;"nutdata_out2010";NA
+"niue";"NU";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"niue";"NU";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"niue";"NU";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"niue";"NU";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"niue";"NU";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"norway";"NO";NA;"fertilizer";"kgN/ha";2010;NA;207,689958923409;"nutdata_out2010";NA
+"norway";"NO";NA;"totalmanureapplied";"kgN/ha";2010;NA;171,750839684881;"nutdata_out2010";NA
+"norway";"NO";NA;"n-fixation";"kgN/ha";2010;NA;7,85340917276154;"nutdata_out2010";NA
+"norway";"NO";NA;"n-deposition";"kgN/ha";2010;NA;8,11751733261681;"nutdata_out2010";NA
+"norway";"NO";NA;"n-removal";"kgN/ha";2010;NA;62,7016935332684;"nutdata_out2010";NA
+"northern mariana islands";"MP";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"northern mariana islands";"MP";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"northern mariana islands";"MP";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"northern mariana islands";"MP";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"northern mariana islands";"MP";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"micronesia fed. sts.";"FM";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"micronesia fed. sts.";"FM";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"micronesia fed. sts.";"FM";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"micronesia fed. sts.";"FM";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"micronesia fed. sts.";"FM";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"marshall islands";"MH";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"marshall islands";"MH";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"marshall islands";"MH";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"marshall islands";"MH";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"marshall islands";"MH";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"palau";"PW";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"palau";"PW";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"palau";"PW";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"palau";"PW";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"palau";"PW";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"pakistan";"PK";NA;"fertilizer";"kgN/ha";2010;NA;168,024345620364;"nutdata_out2010";NA
+"pakistan";"PK";NA;"totalmanureapplied";"kgN/ha";2010;NA;60,3925992681021;"nutdata_out2010";NA
+"pakistan";"PK";NA;"n-fixation";"kgN/ha";2010;NA;10,5746495660934;"nutdata_out2010";NA
+"pakistan";"PK";NA;"n-deposition";"kgN/ha";2010;NA;5,96786447018553;"nutdata_out2010";NA
+"pakistan";"PK";NA;"n-removal";"kgN/ha";2010;NA;52,0375868302059;"nutdata_out2010";NA
+"panama";"PA";NA;"fertilizer";"kgN/ha";2010;NA;33,2045028018;"nutdata_out2010";NA
+"panama";"PA";NA;"totalmanureapplied";"kgN/ha";2010;NA;25,5546897506394;"nutdata_out2010";NA
+"panama";"PA";NA;"n-fixation";"kgN/ha";2010;NA;6,56050274455564;"nutdata_out2010";NA
+"panama";"PA";NA;"n-deposition";"kgN/ha";2010;NA;3,51163292957003;"nutdata_out2010";NA
+"panama";"PA";NA;"n-removal";"kgN/ha";2010;NA;20,1292640966843;"nutdata_out2010";NA
+"papua new guinea";"PG";NA;"fertilizer";"kgN/ha";2010;NA;43,8258667916889;"nutdata_out2010";NA
+"papua new guinea";"PG";NA;"totalmanureapplied";"kgN/ha";2010;NA;21,3952469446478;"nutdata_out2010";NA
+"papua new guinea";"PG";NA;"n-fixation";"kgN/ha";2010;NA;6,73194440392324;"nutdata_out2010";NA
+"papua new guinea";"PG";NA;"n-deposition";"kgN/ha";2010;NA;1,94500640317934;"nutdata_out2010";NA
+"papua new guinea";"PG";NA;"n-removal";"kgN/ha";2010;NA;32,8470489285006;"nutdata_out2010";NA
+"paraguay";"PY";NA;"fertilizer";"kgN/ha";2010;NA;18,6586794003283;"nutdata_out2010";NA
+"paraguay";"PY";NA;"totalmanureapplied";"kgN/ha";2010;NA;20,1674853774923;"nutdata_out2010";NA
+"paraguay";"PY";NA;"n-fixation";"kgN/ha";2010;NA;63,680541713842;"nutdata_out2010";NA
+"paraguay";"PY";NA;"n-deposition";"kgN/ha";2010;NA;7,79290793687993;"nutdata_out2010";NA
+"paraguay";"PY";NA;"n-removal";"kgN/ha";2010;NA;121,785165809466;"nutdata_out2010";NA
+"peru";"PE";NA;"fertilizer";"kgN/ha";2010;NA;91,5361672544524;"nutdata_out2010";NA
+"peru";"PE";NA;"totalmanureapplied";"kgN/ha";2010;NA;50,8401764118297;"nutdata_out2010";NA
+"peru";"PE";NA;"n-fixation";"kgN/ha";2010;NA;29,8937443458469;"nutdata_out2010";NA
+"peru";"PE";NA;"n-deposition";"kgN/ha";2010;NA;3,16362062837919;"nutdata_out2010";NA
+"peru";"PE";NA;"n-removal";"kgN/ha";2010;NA;45,4730615573931;"nutdata_out2010";NA
+"philippines";"PH";NA;"fertilizer";"kgN/ha";2010;NA;54,4669479640538;"nutdata_out2010";NA
+"philippines";"PH";NA;"totalmanureapplied";"kgN/ha";2010;NA;24,7453952657922;"nutdata_out2010";NA
+"philippines";"PH";NA;"n-fixation";"kgN/ha";2010;NA;18,5358593524939;"nutdata_out2010";NA
+"philippines";"PH";NA;"n-deposition";"kgN/ha";2010;NA;5,88304894882002;"nutdata_out2010";NA
+"philippines";"PH";NA;"n-removal";"kgN/ha";2010;NA;45,0271641527276;"nutdata_out2010";NA
+"pitcairn";"PN";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"pitcairn";"PN";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"pitcairn";"PN";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"pitcairn";"PN";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"pitcairn";"PN";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"poland";"PL";NA;"fertilizer";"kgN/ha";2010;NA;83,4576891932164;"nutdata_out2010";NA
+"poland";"PL";NA;"totalmanureapplied";"kgN/ha";2010;NA;14,7047681053054;"nutdata_out2010";NA
+"poland";"PL";NA;"n-fixation";"kgN/ha";2010;NA;14,2728420893014;"nutdata_out2010";NA
+"poland";"PL";NA;"n-deposition";"kgN/ha";2010;NA;18,4488664276767;"nutdata_out2010";NA
+"poland";"PL";NA;"n-removal";"kgN/ha";2010;NA;62,0450633762699;"nutdata_out2010";NA
+"portugal";"PT";NA;"fertilizer";"kgN/ha";2010;NA;37,4904880959297;"nutdata_out2010";NA
+"portugal";"PT";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,1801596980858;"nutdata_out2010";NA
+"portugal";"PT";NA;"n-fixation";"kgN/ha";2010;NA;6,92659064273583;"nutdata_out2010";NA
+"portugal";"PT";NA;"n-deposition";"kgN/ha";2010;NA;10,0047072421421;"nutdata_out2010";NA
+"portugal";"PT";NA;"n-removal";"kgN/ha";2010;NA;51,9658762969029;"nutdata_out2010";NA
+"guinea-bissau";"GW";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"guinea-bissau";"GW";NA;"totalmanureapplied";"kgN/ha";2010;NA;13,7897032777307;"nutdata_out2010";NA
+"guinea-bissau";"GW";NA;"n-fixation";"kgN/ha";2010;NA;9,83168517350506;"nutdata_out2010";NA
+"guinea-bissau";"GW";NA;"n-deposition";"kgN/ha";2010;NA;3,90619908034452;"nutdata_out2010";NA
+"guinea-bissau";"GW";NA;"n-removal";"kgN/ha";2010;NA;12,8139790925958;"nutdata_out2010";NA
+"east timor";"TL";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"east timor";"TL";NA;"totalmanureapplied";"kgN/ha";2010;NA;19,9142837993216;"nutdata_out2010";NA
+"east timor";"TL";NA;"n-fixation";"kgN/ha";2010;NA;9,23561882173479;"nutdata_out2010";NA
+"east timor";"TL";NA;"n-deposition";"kgN/ha";2010;NA;2,43532601828994;"nutdata_out2010";NA
+"east timor";"TL";NA;"n-removal";"kgN/ha";2010;NA;24,7449938792204;"nutdata_out2010";NA
+"puerto rico";"PR";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"puerto rico";"PR";NA;"totalmanureapplied";"kgN/ha";2010;NA;83,4314571267538;"nutdata_out2010";NA
+"puerto rico";"PR";NA;"n-fixation";"kgN/ha";2010;NA;9,55232839106357;"nutdata_out2010";NA
+"puerto rico";"PR";NA;"n-deposition";"kgN/ha";2010;NA;1,52747005706295;"nutdata_out2010";NA
+"puerto rico";"PR";NA;"n-removal";"kgN/ha";2010;NA;14,5128013536741;"nutdata_out2010";NA
+"qatar";"QA";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"qatar";"QA";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"qatar";"QA";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"qatar";"QA";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"qatar";"QA";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"reunion";"RE";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"reunion";"RE";NA;"totalmanureapplied";"kgN/ha";2010;NA;81,6579201787813;"nutdata_out2010";NA
+"reunion";"RE";NA;"n-fixation";"kgN/ha";2010;NA;9,78640647050868;"nutdata_out2010";NA
+"reunion";"RE";NA;"n-deposition";"kgN/ha";2010;NA;0,542225320413623;"nutdata_out2010";NA
+"reunion";"RE";NA;"n-removal";"kgN/ha";2010;NA;22,3596025494213;"nutdata_out2010";NA
+"romania";"RO";NA;"fertilizer";"kgN/ha";2010;NA;30,5470045493963;"nutdata_out2010";NA
+"romania";"RO";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,24645416342342;"nutdata_out2010";NA
+"romania";"RO";NA;"n-fixation";"kgN/ha";2010;NA;13,4610061154652;"nutdata_out2010";NA
+"romania";"RO";NA;"n-deposition";"kgN/ha";2010;NA;13,9348001047861;"nutdata_out2010";NA
+"romania";"RO";NA;"n-removal";"kgN/ha";2010;NA;46,4954392593142;"nutdata_out2010";NA
+"russian federation";"RU";NA;"fertilizer";"kgN/ha";2010;NA;9,90539669250902;"nutdata_out2010";NA
+"russian federation";"RU";NA;"totalmanureapplied";"kgN/ha";2010;NA;5,26101222219444;"nutdata_out2010";NA
+"russian federation";"RU";NA;"n-fixation";"kgN/ha";2010;NA;5,75511825502717;"nutdata_out2010";NA
+"russian federation";"RU";NA;"n-deposition";"kgN/ha";2010;NA;6,31407389906969;"nutdata_out2010";NA
+"russian federation";"RU";NA;"n-removal";"kgN/ha";2010;NA;16,9100194182069;"nutdata_out2010";NA
+"rwanda";"RW";NA;"fertilizer";"kgN/ha";2010;NA;0,0624645634265818;"nutdata_out2010";NA
+"rwanda";"RW";NA;"totalmanureapplied";"kgN/ha";2010;NA;21,4764433723901;"nutdata_out2010";NA
+"rwanda";"RW";NA;"n-fixation";"kgN/ha";2010;NA;8,09091712129045;"nutdata_out2010";NA
+"rwanda";"RW";NA;"n-deposition";"kgN/ha";2010;NA;9,05985725106136;"nutdata_out2010";NA
+"rwanda";"RW";NA;"n-removal";"kgN/ha";2010;NA;18,0874154276751;"nutdata_out2010";NA
+"st. helena";"SH";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. helena";"SH";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. helena";"SH";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. helena";"SH";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. helena";"SH";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. kitts and nevis";"KN";NA;"fertilizer";"kgN/ha";2010;NA;5,55192276358296;"nutdata_out2010";NA
+"st. kitts and nevis";"KN";NA;"totalmanureapplied";"kgN/ha";2010;NA;25,0636238268244;"nutdata_out2010";NA
+"st. kitts and nevis";"KN";NA;"n-fixation";"kgN/ha";2010;NA;8,24483134103795;"nutdata_out2010";NA
+"st. kitts and nevis";"KN";NA;"n-deposition";"kgN/ha";2010;NA;0,97941472574394;"nutdata_out2010";NA
+"st. kitts and nevis";"KN";NA;"n-removal";"kgN/ha";2010;NA;11,0228338509898;"nutdata_out2010";NA
+"anguilla";"AI";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"anguilla";"AI";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"anguilla";"AI";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"anguilla";"AI";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"anguilla";"AI";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. lucia";"LC";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. lucia";"LC";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. lucia";"LC";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. lucia";"LC";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. lucia";"LC";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"st. pierre and miquelon";"PM";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"st. pierre and miquelon";"PM";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,89728095641;"nutdata_out2010";NA
+"st. pierre and miquelon";"PM";NA;"n-fixation";"kgN/ha";2010;NA;3,84163718254422;"nutdata_out2010";NA
+"st. pierre and miquelon";"PM";NA;"n-deposition";"kgN/ha";2010;NA;2,52850085912377;"nutdata_out2010";NA
+"st. pierre and miquelon";"PM";NA;"n-removal";"kgN/ha";2010;NA;9,16502965585172;"nutdata_out2010";NA
+"st. vincent and the grenadines";"VC";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"st. vincent and the grenadines";"VC";NA;"totalmanureapplied";"kgN/ha";2010;NA;86,3674571378804;"nutdata_out2010";NA
+"st. vincent and the grenadines";"VC";NA;"n-fixation";"kgN/ha";2010;NA;8,7558220320004;"nutdata_out2010";NA
+"st. vincent and the grenadines";"VC";NA;"n-deposition";"kgN/ha";2010;NA;1,09969341241007;"nutdata_out2010";NA
+"st. vincent and the grenadines";"VC";NA;"n-removal";"kgN/ha";2010;NA;42,6670410331699;"nutdata_out2010";NA
+"san marino";"SM";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"san marino";"SM";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"san marino";"SM";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"san marino";"SM";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"san marino";"SM";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"sao tome and principe";"ST";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"sao tome and principe";"ST";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,17206815389049;"nutdata_out2010";NA
+"sao tome and principe";"ST";NA;"n-fixation";"kgN/ha";2010;NA;7,16450417247407;"nutdata_out2010";NA
+"sao tome and principe";"ST";NA;"n-deposition";"kgN/ha";2010;NA;5,0547314148166;"nutdata_out2010";NA
+"sao tome and principe";"ST";NA;"n-removal";"kgN/ha";2010;NA;8,4555737857134;"nutdata_out2010";NA
+"saudi arabia";"SA";NA;"fertilizer";"kgN/ha";2010;NA;136,667793537521;"nutdata_out2010";NA
+"saudi arabia";"SA";NA;"totalmanureapplied";"kgN/ha";2010;NA;70,237019271963;"nutdata_out2010";NA
+"saudi arabia";"SA";NA;"n-fixation";"kgN/ha";2010;NA;15,8106963810623;"nutdata_out2010";NA
+"saudi arabia";"SA";NA;"n-deposition";"kgN/ha";2010;NA;3,14152620009622;"nutdata_out2010";NA
+"saudi arabia";"SA";NA;"n-removal";"kgN/ha";2010;NA;51,97483808347;"nutdata_out2010";NA
+"senegal";"SN";NA;"fertilizer";"kgN/ha";2010;NA;8,14640828214304;"nutdata_out2010";NA
+"senegal";"SN";NA;"totalmanureapplied";"kgN/ha";2010;NA;17,5546560585498;"nutdata_out2010";NA
+"senegal";"SN";NA;"n-fixation";"kgN/ha";2010;NA;9,648924161088;"nutdata_out2010";NA
+"senegal";"SN";NA;"n-deposition";"kgN/ha";2010;NA;3,05492715896815;"nutdata_out2010";NA
+"senegal";"SN";NA;"n-removal";"kgN/ha";2010;NA;15,928196699356;"nutdata_out2010";NA
+"seychelles";"SC";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"seychelles";"SC";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"seychelles";"SC";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"seychelles";"SC";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"seychelles";"SC";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"sierra leone";"SL";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"sierra leone";"SL";NA;"totalmanureapplied";"kgN/ha";2010;NA;4,2693828098867;"nutdata_out2010";NA
+"sierra leone";"SL";NA;"n-fixation";"kgN/ha";2010;NA;7,6597814943287;"nutdata_out2010";NA
+"sierra leone";"SL";NA;"n-deposition";"kgN/ha";2010;NA;6,16319477229973;"nutdata_out2010";NA
+"sierra leone";"SL";NA;"n-removal";"kgN/ha";2010;NA;14,7986826044201;"nutdata_out2010";NA
+"singapore";"SG";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"singapore";"SG";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"singapore";"SG";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"singapore";"SG";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"singapore";"SG";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"slovak republic";"SK";NA;"fertilizer";"kgN/ha";2010;NA;55,7736760264154;"nutdata_out2010";NA
+"slovak republic";"SK";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,092526168096;"nutdata_out2010";NA
+"slovak republic";"SK";NA;"n-fixation";"kgN/ha";2010;NA;12,337260113928;"nutdata_out2010";NA
+"slovak republic";"SK";NA;"n-deposition";"kgN/ha";2010;NA;19,1572350082607;"nutdata_out2010";NA
+"slovak republic";"SK";NA;"n-removal";"kgN/ha";2010;NA;53,0012683226158;"nutdata_out2010";NA
+"vietnam";"VN";NA;"fertilizer";"kgN/ha";2010;NA;130,679494827167;"nutdata_out2010";NA
+"vietnam";"VN";NA;"totalmanureapplied";"kgN/ha";2010;NA;45,8246171193223;"nutdata_out2010";NA
+"vietnam";"VN";NA;"n-fixation";"kgN/ha";2010;NA;19,1116607560418;"nutdata_out2010";NA
+"vietnam";"VN";NA;"n-deposition";"kgN/ha";2010;NA;14,3565055960146;"nutdata_out2010";NA
+"vietnam";"VN";NA;"n-removal";"kgN/ha";2010;NA;70,3661907093896;"nutdata_out2010";NA
+"slovenia";"SI";NA;"fertilizer";"kgN/ha";2010;NA;121,497077930389;"nutdata_out2010";NA
+"slovenia";"SI";NA;"totalmanureapplied";"kgN/ha";2010;NA;30,7843396563178;"nutdata_out2010";NA
+"slovenia";"SI";NA;"n-fixation";"kgN/ha";2010;NA;7,51658129668271;"nutdata_out2010";NA
+"slovenia";"SI";NA;"n-deposition";"kgN/ha";2010;NA;15,8425278022733;"nutdata_out2010";NA
+"slovenia";"SI";NA;"n-removal";"kgN/ha";2010;NA;75,907964666011;"nutdata_out2010";NA
+"somalia";"SO";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"somalia";"SO";NA;"totalmanureapplied";"kgN/ha";2010;NA;76,9084231464453;"nutdata_out2010";NA
+"somalia";"SO";NA;"n-fixation";"kgN/ha";2010;NA;7,2402558828716;"nutdata_out2010";NA
+"somalia";"SO";NA;"n-deposition";"kgN/ha";2010;NA;2,61125002432442;"nutdata_out2010";NA
+"somalia";"SO";NA;"n-removal";"kgN/ha";2010;NA;12,2239112408909;"nutdata_out2010";NA
+"zimbabwe";"ZW";NA;"fertilizer";"kgN/ha";2010;NA;18,3578697746848;"nutdata_out2010";NA
+"zimbabwe";"ZW";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,94508678964025;"nutdata_out2010";NA
+"zimbabwe";"ZW";NA;"n-fixation";"kgN/ha";2010;NA;8,81580308923198;"nutdata_out2010";NA
+"zimbabwe";"ZW";NA;"n-deposition";"kgN/ha";2010;NA;3,43040391784308;"nutdata_out2010";NA
+"zimbabwe";"ZW";NA;"n-removal";"kgN/ha";2010;NA;15,1868899208468;"nutdata_out2010";NA
+"spain";"ES";NA;"fertilizer";"kgN/ha";2010;NA;49,1560360984483;"nutdata_out2010";NA
+"spain";"ES";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,2380802374019;"nutdata_out2010";NA
+"spain";"ES";NA;"n-fixation";"kgN/ha";2010;NA;10,4336951046635;"nutdata_out2010";NA
+"spain";"ES";NA;"n-deposition";"kgN/ha";2010;NA;11,4537509910472;"nutdata_out2010";NA
+"spain";"ES";NA;"n-removal";"kgN/ha";2010;NA;29,8336486440047;"nutdata_out2010";NA
+"western sahara";"EH";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"western sahara";"EH";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"western sahara";"EH";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"western sahara";"EH";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"western sahara";"EH";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"sudan";"SD";NA;"fertilizer";"kgN/ha";2010;NA;5,9057724085626;"nutdata_out2010";NA
+"sudan";"SD";NA;"totalmanureapplied";"kgN/ha";2010;NA;16,1609639834272;"nutdata_out2010";NA
+"sudan";"SD";NA;"n-fixation";"kgN/ha";2010;NA;6,66495738038939;"nutdata_out2010";NA
+"sudan";"SD";NA;"n-deposition";"kgN/ha";2010;NA;6,54957761191705;"nutdata_out2010";NA
+"sudan";"SD";NA;"n-removal";"kgN/ha";2010;NA;8,77527008070208;"nutdata_out2010";NA
+"suriname";"SR";NA;"fertilizer";"kgN/ha";2010;NA;128,013779469221;"nutdata_out2010";NA
+"suriname";"SR";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000072071972;"nutdata_out2010";NA
+"suriname";"SR";NA;"n-fixation";"kgN/ha";2010;NA;190,533270325132;"nutdata_out2010";NA
+"suriname";"SR";NA;"n-deposition";"kgN/ha";2010;NA;1,73889875472627;"nutdata_out2010";NA
+"suriname";"SR";NA;"n-removal";"kgN/ha";2010;NA;42,5268345862902;"nutdata_out2010";NA
+"swaziland";"SZ";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"swaziland";"SZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;14,9246588971596;"nutdata_out2010";NA
+"swaziland";"SZ";NA;"n-fixation";"kgN/ha";2010;NA;7,97933854255083;"nutdata_out2010";NA
+"swaziland";"SZ";NA;"n-deposition";"kgN/ha";2010;NA;4,99287545025447;"nutdata_out2010";NA
+"swaziland";"SZ";NA;"n-removal";"kgN/ha";2010;NA;18,6273267614664;"nutdata_out2010";NA
+"sweden";"SE";NA;"fertilizer";"kgN/ha";2010;NA;70,8166418208254;"nutdata_out2010";NA
+"sweden";"SE";NA;"totalmanureapplied";"kgN/ha";2010;NA;16,388003961812;"nutdata_out2010";NA
+"sweden";"SE";NA;"n-fixation";"kgN/ha";2010;NA;7,27708160770276;"nutdata_out2010";NA
+"sweden";"SE";NA;"n-deposition";"kgN/ha";2010;NA;13,4319095947471;"nutdata_out2010";NA
+"sweden";"SE";NA;"n-removal";"kgN/ha";2010;NA;61,9005535155858;"nutdata_out2010";NA
+"switzerland";"CH";NA;"fertilizer";"kgN/ha";2010;NA;118,202333518965;"nutdata_out2010";NA
+"switzerland";"CH";NA;"totalmanureapplied";"kgN/ha";2010;NA;179,590038787501;"nutdata_out2010";NA
+"switzerland";"CH";NA;"n-fixation";"kgN/ha";2010;NA;6,7249467295826;"nutdata_out2010";NA
+"switzerland";"CH";NA;"n-deposition";"kgN/ha";2010;NA;24,8649234244925;"nutdata_out2010";NA
+"switzerland";"CH";NA;"n-removal";"kgN/ha";2010;NA;113,709365024433;"nutdata_out2010";NA
+"syrian arab republic";"SY";NA;"fertilizer";"kgN/ha";2010;NA;21,7038396482628;"nutdata_out2010";NA
+"syrian arab republic";"SY";NA;"totalmanureapplied";"kgN/ha";2010;NA;17,2499419637416;"nutdata_out2010";NA
+"syrian arab republic";"SY";NA;"n-fixation";"kgN/ha";2010;NA;5,55673649575442;"nutdata_out2010";NA
+"syrian arab republic";"SY";NA;"n-deposition";"kgN/ha";2010;NA;7,70011691791284;"nutdata_out2010";NA
+"syrian arab republic";"SY";NA;"n-removal";"kgN/ha";2010;NA;20,2511236506217;"nutdata_out2010";NA
+"tajikistan";"TJ";NA;"fertilizer";"kgN/ha";2010;NA;25,2429454540846;"nutdata_out2010";NA
+"tajikistan";"TJ";NA;"totalmanureapplied";"kgN/ha";2010;NA;31,0349601643125;"nutdata_out2010";NA
+"tajikistan";"TJ";NA;"n-fixation";"kgN/ha";2010;NA;5,85795117045473;"nutdata_out2010";NA
+"tajikistan";"TJ";NA;"n-deposition";"kgN/ha";2010;NA;4,12997729018944;"nutdata_out2010";NA
+"tajikistan";"TJ";NA;"n-removal";"kgN/ha";2010;NA;35,2339311699624;"nutdata_out2010";NA
+"thailand";"TH";NA;"fertilizer";"kgN/ha";2010;NA;75,1489550703727;"nutdata_out2010";NA
+"thailand";"TH";NA;"totalmanureapplied";"kgN/ha";2010;NA;10,7038697567534;"nutdata_out2010";NA
+"thailand";"TH";NA;"n-fixation";"kgN/ha";2010;NA;14,0819663956263;"nutdata_out2010";NA
+"thailand";"TH";NA;"n-deposition";"kgN/ha";2010;NA;14,2123245790889;"nutdata_out2010";NA
+"thailand";"TH";NA;"n-removal";"kgN/ha";2010;NA;50,4229759498651;"nutdata_out2010";NA
+"togo";"TG";NA;"fertilizer";"kgN/ha";2010;NA;3,33094873097407;"nutdata_out2010";NA
+"togo";"TG";NA;"totalmanureapplied";"kgN/ha";2010;NA;5,94875060164742;"nutdata_out2010";NA
+"togo";"TG";NA;"n-fixation";"kgN/ha";2010;NA;6,91315552863713;"nutdata_out2010";NA
+"togo";"TG";NA;"n-deposition";"kgN/ha";2010;NA;6,57771012446294;"nutdata_out2010";NA
+"togo";"TG";NA;"n-removal";"kgN/ha";2010;NA;14,1567416374641;"nutdata_out2010";NA
+"tokelau";"TK";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tokelau";"TK";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tokelau";"TK";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tokelau";"TK";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tokelau";"TK";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tonga";"TO";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tonga";"TO";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tonga";"TO";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tonga";"TO";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tonga";"TO";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"trinidad and tobago";"TT";NA;"fertilizer";"kgN/ha";2010;NA;265,09790908944;"nutdata_out2010";NA
+"trinidad and tobago";"TT";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000067776855;"nutdata_out2010";NA
+"trinidad and tobago";"TT";NA;"n-fixation";"kgN/ha";2010;NA;8,12671089115504;"nutdata_out2010";NA
+"trinidad and tobago";"TT";NA;"n-deposition";"kgN/ha";2010;NA;1,71688009516569;"nutdata_out2010";NA
+"trinidad and tobago";"TT";NA;"n-removal";"kgN/ha";2010;NA;12,5600706267364;"nutdata_out2010";NA
+"united arab emirates";"AE";NA;"fertilizer";"kgN/ha";2010;NA;285,232686459488;"nutdata_out2010";NA
+"united arab emirates";"AE";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000048187669;"nutdata_out2010";NA
+"united arab emirates";"AE";NA;"n-fixation";"kgN/ha";2010;NA;93,7495157139219;"nutdata_out2010";NA
+"united arab emirates";"AE";NA;"n-deposition";"kgN/ha";2010;NA;3,64206976999213;"nutdata_out2010";NA
+"united arab emirates";"AE";NA;"n-removal";"kgN/ha";2010;NA;331,017903816332;"nutdata_out2010";NA
+"tunisia";"TN";NA;"fertilizer";"kgN/ha";2010;NA;16,1035900991608;"nutdata_out2010";NA
+"tunisia";"TN";NA;"totalmanureapplied";"kgN/ha";2010;NA;22,9553458751868;"nutdata_out2010";NA
+"tunisia";"TN";NA;"n-fixation";"kgN/ha";2010;NA;6,45184677908409;"nutdata_out2010";NA
+"tunisia";"TN";NA;"n-deposition";"kgN/ha";2010;NA;5,25305370076107;"nutdata_out2010";NA
+"tunisia";"TN";NA;"n-removal";"kgN/ha";2010;NA;14,7763340209749;"nutdata_out2010";NA
+"turkmenistan";"TM";NA;"fertilizer";"kgN/ha";2010;NA;0;"nutdata_out2010";NA
+"turkmenistan";"TM";NA;"totalmanureapplied";"kgN/ha";2010;NA;35,2679543879788;"nutdata_out2010";NA
+"turkmenistan";"TM";NA;"n-fixation";"kgN/ha";2010;NA;5,09961380857771;"nutdata_out2010";NA
+"turkmenistan";"TM";NA;"n-deposition";"kgN/ha";2010;NA;2,50423545970004;"nutdata_out2010";NA
+"turkmenistan";"TM";NA;"n-removal";"kgN/ha";2010;NA;37,7173097384964;"nutdata_out2010";NA
+"turks and caicos isl.";"TC";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"turks and caicos isl.";"TC";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"turks and caicos isl.";"TC";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"turks and caicos isl.";"TC";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"turks and caicos isl.";"TC";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tuvalu";"TV";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tuvalu";"TV";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tuvalu";"TV";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tuvalu";"TV";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"tuvalu";"TV";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"uganda";"UG";NA;"fertilizer";"kgN/ha";2010;NA;0,747901343573647;"nutdata_out2010";NA
+"uganda";"UG";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,8205129472145;"nutdata_out2010";NA
+"uganda";"UG";NA;"n-fixation";"kgN/ha";2010;NA;8,27402552559825;"nutdata_out2010";NA
+"uganda";"UG";NA;"n-deposition";"kgN/ha";2010;NA;10,2160667668227;"nutdata_out2010";NA
+"uganda";"UG";NA;"n-removal";"kgN/ha";2010;NA;15,9176046925084;"nutdata_out2010";NA
+"ukraine";"UA";NA;"fertilizer";"kgN/ha";2010;NA;22,8531878907003;"nutdata_out2010";NA
+"ukraine";"UA";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,19530165556534;"nutdata_out2010";NA
+"ukraine";"UA";NA;"n-fixation";"kgN/ha";2010;NA;7,1024538624299;"nutdata_out2010";NA
+"ukraine";"UA";NA;"n-deposition";"kgN/ha";2010;NA;10,0959854459199;"nutdata_out2010";NA
+"ukraine";"UA";NA;"n-removal";"kgN/ha";2010;NA;36,6099311887431;"nutdata_out2010";NA
+"macedonia fyr";"MK";NA;"fertilizer";"kgN/ha";2010;NA;35,5807730708359;"nutdata_out2010";NA
+"macedonia fyr";"MK";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,96340269175039;"nutdata_out2010";NA
+"macedonia fyr";"MK";NA;"n-fixation";"kgN/ha";2010;NA;11,1691642410139;"nutdata_out2010";NA
+"macedonia fyr";"MK";NA;"n-deposition";"kgN/ha";2010;NA;11,6291117489248;"nutdata_out2010";NA
+"macedonia fyr";"MK";NA;"n-removal";"kgN/ha";2010;NA;41,2537358554572;"nutdata_out2010";NA
+"egypt arab rep.";"EG";NA;"fertilizer";"kgN/ha";2010;NA;705,320957598446;"nutdata_out2010";NA
+"egypt arab rep.";"EG";NA;"totalmanureapplied";"kgN/ha";2010;NA;87,6368763783667;"nutdata_out2010";NA
+"egypt arab rep.";"EG";NA;"n-fixation";"kgN/ha";2010;NA;130,111021895424;"nutdata_out2010";NA
+"egypt arab rep.";"EG";NA;"n-deposition";"kgN/ha";2010;NA;6,07942314217528;"nutdata_out2010";NA
+"egypt arab rep.";"EG";NA;"n-removal";"kgN/ha";2010;NA;239,741191958836;"nutdata_out2010";NA
+"united kingdom";"GB";NA;"fertilizer";"kgN/ha";2010;NA;87,6907232788581;"nutdata_out2010";NA
+"united kingdom";"GB";NA;"totalmanureapplied";"kgN/ha";2010;NA;27,7413911456894;"nutdata_out2010";NA
+"united kingdom";"GB";NA;"n-fixation";"kgN/ha";2010;NA;7,54511006033773;"nutdata_out2010";NA
+"united kingdom";"GB";NA;"n-deposition";"kgN/ha";2010;NA;19,9151392759094;"nutdata_out2010";NA
+"united kingdom";"GB";NA;"n-removal";"kgN/ha";2010;NA;94,6361287440111;"nutdata_out2010";NA
+"tanzania";"TZ";NA;"fertilizer";"kgN/ha";2010;NA;4,96063759147527;"nutdata_out2010";NA
+"tanzania";"TZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,970370971384;"nutdata_out2010";NA
+"tanzania";"TZ";NA;"n-fixation";"kgN/ha";2010;NA;8,36200597399909;"nutdata_out2010";NA
+"tanzania";"TZ";NA;"n-deposition";"kgN/ha";2010;NA;3,59656635807967;"nutdata_out2010";NA
+"tanzania";"TZ";NA;"n-removal";"kgN/ha";2010;NA;16,2168015712843;"nutdata_out2010";NA
+"burkina faso";"BF";NA;"fertilizer";"kgN/ha";2010;NA;7,9651364792337;"nutdata_out2010";NA
+"burkina faso";"BF";NA;"totalmanureapplied";"kgN/ha";2010;NA;22,8460019205273;"nutdata_out2010";NA
+"burkina faso";"BF";NA;"n-fixation";"kgN/ha";2010;NA;7,55168738792792;"nutdata_out2010";NA
+"burkina faso";"BF";NA;"n-deposition";"kgN/ha";2010;NA;4,58226024711247;"nutdata_out2010";NA
+"burkina faso";"BF";NA;"n-removal";"kgN/ha";2010;NA;16,327543962627;"nutdata_out2010";NA
+"uruguay";"UY";NA;"fertilizer";"kgN/ha";2010;NA;61,468359554656;"nutdata_out2010";NA
+"uruguay";"UY";NA;"totalmanureapplied";"kgN/ha";2010;NA;39,8258696806561;"nutdata_out2010";NA
+"uruguay";"UY";NA;"n-fixation";"kgN/ha";2010;NA;24,2383834837884;"nutdata_out2010";NA
+"uruguay";"UY";NA;"n-deposition";"kgN/ha";2010;NA;7,83345697292512;"nutdata_out2010";NA
+"uruguay";"UY";NA;"n-removal";"kgN/ha";2010;NA;62,5383934820332;"nutdata_out2010";NA
+"uzbekistan";"UZ";NA;"fertilizer";"kgN/ha";2010;NA;84,3896002795623;"nutdata_out2010";NA
+"uzbekistan";"UZ";NA;"totalmanureapplied";"kgN/ha";2010;NA;27,432518338757;"nutdata_out2010";NA
+"uzbekistan";"UZ";NA;"n-fixation";"kgN/ha";2010;NA;5,32205250681788;"nutdata_out2010";NA
+"uzbekistan";"UZ";NA;"n-deposition";"kgN/ha";2010;NA;2,90002637492814;"nutdata_out2010";NA
+"uzbekistan";"UZ";NA;"n-removal";"kgN/ha";2010;NA;55,3006368306268;"nutdata_out2010";NA
+"venezuela rb";"VE";NA;"fertilizer";"kgN/ha";2010;NA;56,9441134665147;"nutdata_out2010";NA
+"venezuela rb";"VE";NA;"totalmanureapplied";"kgN/ha";2010;NA;38,9993217128624;"nutdata_out2010";NA
+"venezuela rb";"VE";NA;"n-fixation";"kgN/ha";2010;NA;28,6769401335707;"nutdata_out2010";NA
+"venezuela rb";"VE";NA;"n-deposition";"kgN/ha";2010;NA;5,51675012632823;"nutdata_out2010";NA
+"venezuela rb";"VE";NA;"n-removal";"kgN/ha";2010;NA;36,2481305706746;"nutdata_out2010";NA
+"wallis ans futuna island";"WF";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"wallis ans futuna island";"WF";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"wallis ans futuna island";"WF";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"wallis ans futuna island";"WF";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"wallis ans futuna island";"WF";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"samoa";"WS";NA;"fertilizer";"kgN/ha";2010;NA;0,177685570812231;"nutdata_out2010";NA
+"samoa";"WS";NA;"totalmanureapplied";"kgN/ha";2010;NA;42,3542876150136;"nutdata_out2010";NA
+"samoa";"WS";NA;"n-fixation";"kgN/ha";2010;NA;4,67459153196768;"nutdata_out2010";NA
+"samoa";"WS";NA;"n-deposition";"kgN/ha";2010;NA;0,744144779824254;"nutdata_out2010";NA
+"samoa";"WS";NA;"n-removal";"kgN/ha";2010;NA;8,76361049261725;"nutdata_out2010";NA
+"yemen  rep.";"YE";NA;"fertilizer";"kgN/ha";2010;NA;58,0056151713586;"nutdata_out2010";NA
+"yemen  rep.";"YE";NA;"totalmanureapplied";"kgN/ha";2010;NA;62,5000060624596;"nutdata_out2010";NA
+"yemen  rep.";"YE";NA;"n-fixation";"kgN/ha";2010;NA;23,4147468312009;"nutdata_out2010";NA
+"yemen  rep.";"YE";NA;"n-deposition";"kgN/ha";2010;NA;3,94332489565049;"nutdata_out2010";NA
+"yemen  rep.";"YE";NA;"n-removal";"kgN/ha";2010;NA;42,0233900847454;"nutdata_out2010";NA
+"serbia and montenegro";"RS";NA;"fertilizer";"kgN/ha";2010;NA;45,9076912110028;"nutdata_out2010";NA
+"serbia and montenegro";"RS";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,61445404633529;"nutdata_out2010";NA
+"serbia and montenegro";"RS";NA;"n-fixation";"kgN/ha";2010;NA;6,04072039847962;"nutdata_out2010";NA
+"serbia and montenegro";"RS";NA;"n-deposition";"kgN/ha";2010;NA;13,9177473965446;"nutdata_out2010";NA
+"serbia and montenegro";"RS";NA;"n-removal";"kgN/ha";2010;NA;46,6573961635747;"nutdata_out2010";NA
+"zambia";"ZM";NA;"fertilizer";"kgN/ha";2010;NA;28,6452572552029;"nutdata_out2010";NA
+"zambia";"ZM";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,5289415747765;"nutdata_out2010";NA
+"zambia";"ZM";NA;"n-fixation";"kgN/ha";2010;NA;11,2237356350218;"nutdata_out2010";NA
+"zambia";"ZM";NA;"n-deposition";"kgN/ha";2010;NA;3,59567899013048;"nutdata_out2010";NA
+"zambia";"ZM";NA;"n-removal";"kgN/ha";2010;NA;28,845027006635;"nutdata_out2010";NA
+"anhui";"RG_CN_(anhui)";NA;"fertilizer";"kgN/ha";2010;NA;274,671325517253;"nutdata_out2010";NA
+"anhui";"RG_CN_(anhui)";NA;"totalmanureapplied";"kgN/ha";2010;NA;38,1826572593323;"nutdata_out2010";NA
+"anhui";"RG_CN_(anhui)";NA;"n-fixation";"kgN/ha";2010;NA;14,7130040792652;"nutdata_out2010";NA
+"anhui";"RG_CN_(anhui)";NA;"n-deposition";"kgN/ha";2010;NA;35,0555529377718;"nutdata_out2010";NA
+"anhui";"RG_CN_(anhui)";NA;"n-removal";"kgN/ha";2010;NA;108,866262460571;"nutdata_out2010";NA
+"beijing";"RG_CN_(beijing)";NA;"fertilizer";"kgN/ha";2010;NA;196,703951930232;"nutdata_out2010";NA
+"beijing";"RG_CN_(beijing)";NA;"totalmanureapplied";"kgN/ha";2010;NA;74,4840378564686;"nutdata_out2010";NA
+"beijing";"RG_CN_(beijing)";NA;"n-fixation";"kgN/ha";2010;NA;34,1712865110566;"nutdata_out2010";NA
+"beijing";"RG_CN_(beijing)";NA;"n-deposition";"kgN/ha";2010;NA;14,8022591889197;"nutdata_out2010";NA
+"beijing";"RG_CN_(beijing)";NA;"n-removal";"kgN/ha";2010;NA;114,990296039331;"nutdata_out2010";NA
+"fujian";"RG_CN_(fujian)";NA;"fertilizer";"kgN/ha";2010;NA;236,545734283982;"nutdata_out2010";NA
+"fujian";"RG_CN_(fujian)";NA;"totalmanureapplied";"kgN/ha";2010;NA;78,7944795194255;"nutdata_out2010";NA
+"fujian";"RG_CN_(fujian)";NA;"n-fixation";"kgN/ha";2010;NA;28,2556539508942;"nutdata_out2010";NA
+"fujian";"RG_CN_(fujian)";NA;"n-deposition";"kgN/ha";2010;NA;20,8990934516669;"nutdata_out2010";NA
+"fujian";"RG_CN_(fujian)";NA;"n-removal";"kgN/ha";2010;NA;57,8282313138517;"nutdata_out2010";NA
+"gansu";"RG_CN_(gansu)";NA;"fertilizer";"kgN/ha";2010;NA;240,964945594371;"nutdata_out2010";NA
+"gansu";"RG_CN_(gansu)";NA;"totalmanureapplied";"kgN/ha";2010;NA;26,8383591125652;"nutdata_out2010";NA
+"gansu";"RG_CN_(gansu)";NA;"n-fixation";"kgN/ha";2010;NA;18,8813489320333;"nutdata_out2010";NA
+"gansu";"RG_CN_(gansu)";NA;"n-deposition";"kgN/ha";2010;NA;7,9132728279353;"nutdata_out2010";NA
+"gansu";"RG_CN_(gansu)";NA;"n-removal";"kgN/ha";2010;NA;76,7111281266874;"nutdata_out2010";NA
+"guangdong";"RG_CN_(guangdong)";NA;"fertilizer";"kgN/ha";2010;NA;193,325248467254;"nutdata_out2010";NA
+"guangdong";"RG_CN_(guangdong)";NA;"totalmanureapplied";"kgN/ha";2010;NA;86,9886756319792;"nutdata_out2010";NA
+"guangdong";"RG_CN_(guangdong)";NA;"n-fixation";"kgN/ha";2010;NA;26,0455999710299;"nutdata_out2010";NA
+"guangdong";"RG_CN_(guangdong)";NA;"n-deposition";"kgN/ha";2010;NA;25,2242589634569;"nutdata_out2010";NA
+"guangdong";"RG_CN_(guangdong)";NA;"n-removal";"kgN/ha";2010;NA;63,155881343043;"nutdata_out2010";NA
+"guangxi";"RG_CN_(guangxi)";NA;"fertilizer";"kgN/ha";2010;NA;257,983996845562;"nutdata_out2010";NA
+"guangxi";"RG_CN_(guangxi)";NA;"totalmanureapplied";"kgN/ha";2010;NA;86,9216507427126;"nutdata_out2010";NA
+"guangxi";"RG_CN_(guangxi)";NA;"n-fixation";"kgN/ha";2010;NA;43,6758414590896;"nutdata_out2010";NA
+"guangxi";"RG_CN_(guangxi)";NA;"n-deposition";"kgN/ha";2010;NA;29,4161275019461;"nutdata_out2010";NA
+"guangxi";"RG_CN_(guangxi)";NA;"n-removal";"kgN/ha";2010;NA;97,9776802111699;"nutdata_out2010";NA
+"guizhou";"RG_CN_(guizhou)";NA;"fertilizer";"kgN/ha";2010;NA;174,023224172747;"nutdata_out2010";NA
+"guizhou";"RG_CN_(guizhou)";NA;"totalmanureapplied";"kgN/ha";2010;NA;75,8077347307896;"nutdata_out2010";NA
+"guizhou";"RG_CN_(guizhou)";NA;"n-fixation";"kgN/ha";2010;NA;12,5212216952213;"nutdata_out2010";NA
+"guizhou";"RG_CN_(guizhou)";NA;"n-deposition";"kgN/ha";2010;NA;29,3681167664951;"nutdata_out2010";NA
+"guizhou";"RG_CN_(guizhou)";NA;"n-removal";"kgN/ha";2010;NA;51,4553406834476;"nutdata_out2010";NA
+"hainan";"RG_CN_(hainan)";NA;"fertilizer";"kgN/ha";2010;NA;213,688144270847;"nutdata_out2010";NA
+"hainan";"RG_CN_(hainan)";NA;"totalmanureapplied";"kgN/ha";2010;NA;77,8202037047465;"nutdata_out2010";NA
+"hainan";"RG_CN_(hainan)";NA;"n-fixation";"kgN/ha";2010;NA;33,2219187465942;"nutdata_out2010";NA
+"hainan";"RG_CN_(hainan)";NA;"n-deposition";"kgN/ha";2010;NA;15,2174633306572;"nutdata_out2010";NA
+"hainan";"RG_CN_(hainan)";NA;"n-removal";"kgN/ha";2010;NA;66,229054157684;"nutdata_out2010";NA
+"hebei";"RG_CN_(hebei)";NA;"fertilizer";"kgN/ha";2010;NA;278,135031202015;"nutdata_out2010";NA
+"hebei";"RG_CN_(hebei)";NA;"totalmanureapplied";"kgN/ha";2010;NA;44,3458670140688;"nutdata_out2010";NA
+"hebei";"RG_CN_(hebei)";NA;"n-fixation";"kgN/ha";2010;NA;32,1519707313078;"nutdata_out2010";NA
+"hebei";"RG_CN_(hebei)";NA;"n-deposition";"kgN/ha";2010;NA;15,5059889999718;"nutdata_out2010";NA
+"hebei";"RG_CN_(hebei)";NA;"n-removal";"kgN/ha";2010;NA;126,690832245016;"nutdata_out2010";NA
+"heilongjiang";"RG_CN_(heilongjiang)";NA;"fertilizer";"kgN/ha";2010;NA;265,379227715209;"nutdata_out2010";NA
+"heilongjiang";"RG_CN_(heilongjiang)";NA;"totalmanureapplied";"kgN/ha";2010;NA;30,4727949928796;"nutdata_out2010";NA
+"heilongjiang";"RG_CN_(heilongjiang)";NA;"n-fixation";"kgN/ha";2010;NA;19,2823334297226;"nutdata_out2010";NA
+"heilongjiang";"RG_CN_(heilongjiang)";NA;"n-deposition";"kgN/ha";2010;NA;10,888671607007;"nutdata_out2010";NA
+"heilongjiang";"RG_CN_(heilongjiang)";NA;"n-removal";"kgN/ha";2010;NA;120,582589595536;"nutdata_out2010";NA
+"henan";"RG_CN_(henan)";NA;"fertilizer";"kgN/ha";2010;NA;238,319372052265;"nutdata_out2010";NA
+"henan";"RG_CN_(henan)";NA;"totalmanureapplied";"kgN/ha";2010;NA;79,6369893522583;"nutdata_out2010";NA
+"henan";"RG_CN_(henan)";NA;"n-fixation";"kgN/ha";2010;NA;25,3362738654855;"nutdata_out2010";NA
+"henan";"RG_CN_(henan)";NA;"n-deposition";"kgN/ha";2010;NA;30,6662841403078;"nutdata_out2010";NA
+"henan";"RG_CN_(henan)";NA;"n-removal";"kgN/ha";2010;NA;139,291127580857;"nutdata_out2010";NA
+"hubei";"RG_CN_(hubei)";NA;"fertilizer";"kgN/ha";2010;NA;249,320454721324;"nutdata_out2010";NA
+"hubei";"RG_CN_(hubei)";NA;"totalmanureapplied";"kgN/ha";2010;NA;56,1971797186387;"nutdata_out2010";NA
+"hubei";"RG_CN_(hubei)";NA;"n-fixation";"kgN/ha";2010;NA;24,1219829771923;"nutdata_out2010";NA
+"hubei";"RG_CN_(hubei)";NA;"n-deposition";"kgN/ha";2010;NA;37,6407352478755;"nutdata_out2010";NA
+"hubei";"RG_CN_(hubei)";NA;"n-removal";"kgN/ha";2010;NA;96,4982041424233;"nutdata_out2010";NA
+"hunan";"RG_CN_(hunan)";NA;"fertilizer";"kgN/ha";2010;NA;223,359147686082;"nutdata_out2010";NA
+"hunan";"RG_CN_(hunan)";NA;"totalmanureapplied";"kgN/ha";2010;NA;79,2707346180667;"nutdata_out2010";NA
+"hunan";"RG_CN_(hunan)";NA;"n-fixation";"kgN/ha";2010;NA;22,5109823645968;"nutdata_out2010";NA
+"hunan";"RG_CN_(hunan)";NA;"n-deposition";"kgN/ha";2010;NA;40,2022535126114;"nutdata_out2010";NA
+"hunan";"RG_CN_(hunan)";NA;"n-removal";"kgN/ha";2010;NA;76,9778065772906;"nutdata_out2010";NA
+"inner mongolia";"RG_CN_(innermongolia)";NA;"fertilizer";"kgN/ha";2010;NA;257,849879764289;"nutdata_out2010";NA
+"inner mongolia";"RG_CN_(innermongolia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,4495685521709;"nutdata_out2010";NA
+"inner mongolia";"RG_CN_(innermongolia)";NA;"n-fixation";"kgN/ha";2010;NA;14,9175559335341;"nutdata_out2010";NA
+"inner mongolia";"RG_CN_(innermongolia)";NA;"n-deposition";"kgN/ha";2010;NA;6,06175001627049;"nutdata_out2010";NA
+"inner mongolia";"RG_CN_(innermongolia)";NA;"n-removal";"kgN/ha";2010;NA;101,401320339523;"nutdata_out2010";NA
+"jiangsu";"RG_CN_(jiangsu)";NA;"fertilizer";"kgN/ha";2010;NA;242,542704423243;"nutdata_out2010";NA
+"jiangsu";"RG_CN_(jiangsu)";NA;"totalmanureapplied";"kgN/ha";2010;NA;48,8093159650765;"nutdata_out2010";NA
+"jiangsu";"RG_CN_(jiangsu)";NA;"n-fixation";"kgN/ha";2010;NA;19,3387981874072;"nutdata_out2010";NA
+"jiangsu";"RG_CN_(jiangsu)";NA;"n-deposition";"kgN/ha";2010;NA;29,3649245349684;"nutdata_out2010";NA
+"jiangsu";"RG_CN_(jiangsu)";NA;"n-removal";"kgN/ha";2010;NA;129,624097940438;"nutdata_out2010";NA
+"jiangxi";"RG_CN_(jiangxi)";NA;"fertilizer";"kgN/ha";2010;NA;275,490829935775;"nutdata_out2010";NA
+"jiangxi";"RG_CN_(jiangxi)";NA;"totalmanureapplied";"kgN/ha";2010;NA;60,9717596470031;"nutdata_out2010";NA
+"jiangxi";"RG_CN_(jiangxi)";NA;"n-fixation";"kgN/ha";2010;NA;18,9758003818682;"nutdata_out2010";NA
+"jiangxi";"RG_CN_(jiangxi)";NA;"n-deposition";"kgN/ha";2010;NA;35,3736122829732;"nutdata_out2010";NA
+"jiangxi";"RG_CN_(jiangxi)";NA;"n-removal";"kgN/ha";2010;NA;68,1342877695781;"nutdata_out2010";NA
+"jilin";"RG_CN_(jilin)";NA;"fertilizer";"kgN/ha";2010;NA;252,854159793868;"nutdata_out2010";NA
+"jilin";"RG_CN_(jilin)";NA;"totalmanureapplied";"kgN/ha";2010;NA;45,9108451939751;"nutdata_out2010";NA
+"jilin";"RG_CN_(jilin)";NA;"n-fixation";"kgN/ha";2010;NA;28,3847611856704;"nutdata_out2010";NA
+"jilin";"RG_CN_(jilin)";NA;"n-deposition";"kgN/ha";2010;NA;12,8340830876231;"nutdata_out2010";NA
+"jilin";"RG_CN_(jilin)";NA;"n-removal";"kgN/ha";2010;NA;139,491298136826;"nutdata_out2010";NA
+"liaoning";"RG_CN_(liaoning)";NA;"fertilizer";"kgN/ha";2010;NA;286,327185341093;"nutdata_out2010";NA
+"liaoning";"RG_CN_(liaoning)";NA;"totalmanureapplied";"kgN/ha";2010;NA;75,3627486510787;"nutdata_out2010";NA
+"liaoning";"RG_CN_(liaoning)";NA;"n-fixation";"kgN/ha";2010;NA;31,7823939576938;"nutdata_out2010";NA
+"liaoning";"RG_CN_(liaoning)";NA;"n-deposition";"kgN/ha";2010;NA;14,0627963865424;"nutdata_out2010";NA
+"liaoning";"RG_CN_(liaoning)";NA;"n-removal";"kgN/ha";2010;NA;117,693657951476;"nutdata_out2010";NA
+"ningxia";"RG_CN_(ningxia)";NA;"fertilizer";"kgN/ha";2010;NA;246,46790337825;"nutdata_out2010";NA
+"ningxia";"RG_CN_(ningxia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,5517728371748;"nutdata_out2010";NA
+"ningxia";"RG_CN_(ningxia)";NA;"n-fixation";"kgN/ha";2010;NA;19,3157760209277;"nutdata_out2010";NA
+"ningxia";"RG_CN_(ningxia)";NA;"n-deposition";"kgN/ha";2010;NA;9,52891258293431;"nutdata_out2010";NA
+"ningxia";"RG_CN_(ningxia)";NA;"n-removal";"kgN/ha";2010;NA;93,2214379933259;"nutdata_out2010";NA
+"qinghai";"RG_CN_(qinghai)";NA;"fertilizer";"kgN/ha";2010;NA;312,664702274991;"nutdata_out2010";NA
+"qinghai";"RG_CN_(qinghai)";NA;"totalmanureapplied";"kgN/ha";2010;NA;16,3415497159346;"nutdata_out2010";NA
+"qinghai";"RG_CN_(qinghai)";NA;"n-fixation";"kgN/ha";2010;NA;7,50397328558807;"nutdata_out2010";NA
+"qinghai";"RG_CN_(qinghai)";NA;"n-deposition";"kgN/ha";2010;NA;2,84770879845493;"nutdata_out2010";NA
+"qinghai";"RG_CN_(qinghai)";NA;"n-removal";"kgN/ha";2010;NA;54,9042277679021;"nutdata_out2010";NA
+"shaanxi";"RG_CN_(shaanxi)";NA;"fertilizer";"kgN/ha";2010;NA;238,220628042849;"nutdata_out2010";NA
+"shaanxi";"RG_CN_(shaanxi)";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,9343870459651;"nutdata_out2010";NA
+"shaanxi";"RG_CN_(shaanxi)";NA;"n-fixation";"kgN/ha";2010;NA;22,2456596479241;"nutdata_out2010";NA
+"shaanxi";"RG_CN_(shaanxi)";NA;"n-deposition";"kgN/ha";2010;NA;18,4570559849359;"nutdata_out2010";NA
+"shaanxi";"RG_CN_(shaanxi)";NA;"n-removal";"kgN/ha";2010;NA;88,9106828205049;"nutdata_out2010";NA
+"shandong";"RG_CN_(shandong)";NA;"fertilizer";"kgN/ha";2010;NA;252,71281677839;"nutdata_out2010";NA
+"shandong";"RG_CN_(shandong)";NA;"totalmanureapplied";"kgN/ha";2010;NA;66,8838185618376;"nutdata_out2010";NA
+"shandong";"RG_CN_(shandong)";NA;"n-fixation";"kgN/ha";2010;NA;33,8215065748079;"nutdata_out2010";NA
+"shandong";"RG_CN_(shandong)";NA;"n-deposition";"kgN/ha";2010;NA;21,8626774198025;"nutdata_out2010";NA
+"shandong";"RG_CN_(shandong)";NA;"n-removal";"kgN/ha";2010;NA;155,677458480213;"nutdata_out2010";NA
+"shanghai";"RG_CN_(shanghai)";NA;"fertilizer";"kgN/ha";2010;NA;197,310578096123;"nutdata_out2010";NA
+"shanghai";"RG_CN_(shanghai)";NA;"totalmanureapplied";"kgN/ha";2010;NA;84,3372198937687;"nutdata_out2010";NA
+"shanghai";"RG_CN_(shanghai)";NA;"n-fixation";"kgN/ha";2010;NA;32,3399925446253;"nutdata_out2010";NA
+"shanghai";"RG_CN_(shanghai)";NA;"n-deposition";"kgN/ha";2010;NA;19,6400315412337;"nutdata_out2010";NA
+"shanghai";"RG_CN_(shanghai)";NA;"n-removal";"kgN/ha";2010;NA;108,982665030111;"nutdata_out2010";NA
+"shanxi";"RG_CN_(shanxi)";NA;"fertilizer";"kgN/ha";2010;NA;241,689061933518;"nutdata_out2010";NA
+"shanxi";"RG_CN_(shanxi)";NA;"totalmanureapplied";"kgN/ha";2010;NA;17,5017147792205;"nutdata_out2010";NA
+"shanxi";"RG_CN_(shanxi)";NA;"n-fixation";"kgN/ha";2010;NA;13,2320152719288;"nutdata_out2010";NA
+"shanxi";"RG_CN_(shanxi)";NA;"n-deposition";"kgN/ha";2010;NA;15,4531788343834;"nutdata_out2010";NA
+"shanxi";"RG_CN_(shanxi)";NA;"n-removal";"kgN/ha";2010;NA;79,1710540453314;"nutdata_out2010";NA
+"sichuan";"RG_CN_(sichuan)";NA;"fertilizer";"kgN/ha";2010;NA;210,644591395071;"nutdata_out2010";NA
+"sichuan";"RG_CN_(sichuan)";NA;"totalmanureapplied";"kgN/ha";2010;NA;75,3302968931146;"nutdata_out2010";NA
+"sichuan";"RG_CN_(sichuan)";NA;"n-fixation";"kgN/ha";2010;NA;17,8933178928267;"nutdata_out2010";NA
+"sichuan";"RG_CN_(sichuan)";NA;"n-deposition";"kgN/ha";2010;NA;21,1606323546018;"nutdata_out2010";NA
+"sichuan";"RG_CN_(sichuan)";NA;"n-removal";"kgN/ha";2010;NA;76,6333139889954;"nutdata_out2010";NA
+"tianjin";"RG_CN_(tianjin)";NA;"fertilizer";"kgN/ha";2010;NA;296,288572970644;"nutdata_out2010";NA
+"tianjin";"RG_CN_(tianjin)";NA;"totalmanureapplied";"kgN/ha";2010;NA;72,6827734878357;"nutdata_out2010";NA
+"tianjin";"RG_CN_(tianjin)";NA;"n-fixation";"kgN/ha";2010;NA;40,2840535743075;"nutdata_out2010";NA
+"tianjin";"RG_CN_(tianjin)";NA;"n-deposition";"kgN/ha";2010;NA;16,5712530864866;"nutdata_out2010";NA
+"tianjin";"RG_CN_(tianjin)";NA;"n-removal";"kgN/ha";2010;NA;143,856212911975;"nutdata_out2010";NA
+"xinjiang";"RG_CN_(xinjiang)";NA;"fertilizer";"kgN/ha";2010;NA;240,107373703824;"nutdata_out2010";NA
+"xinjiang";"RG_CN_(xinjiang)";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,18034161495138;"nutdata_out2010";NA
+"xinjiang";"RG_CN_(xinjiang)";NA;"n-fixation";"kgN/ha";2010;NA;23,7397042243599;"nutdata_out2010";NA
+"xinjiang";"RG_CN_(xinjiang)";NA;"n-deposition";"kgN/ha";2010;NA;2,50263190073546;"nutdata_out2010";NA
+"xinjiang";"RG_CN_(xinjiang)";NA;"n-removal";"kgN/ha";2010;NA;201,017710726318;"nutdata_out2010";NA
+"xizang (tibet)";"RG_CN_(xizang_tibet)";NA;"fertilizer";"kgN/ha";2010;NA;183,831179685584;"nutdata_out2010";NA
+"xizang (tibet)";"RG_CN_(xizang_tibet)";NA;"totalmanureapplied";"kgN/ha";2010;NA;10,6100850158158;"nutdata_out2010";NA
+"xizang (tibet)";"RG_CN_(xizang_tibet)";NA;"n-fixation";"kgN/ha";2010;NA;10,4736738449784;"nutdata_out2010";NA
+"xizang (tibet)";"RG_CN_(xizang_tibet)";NA;"n-deposition";"kgN/ha";2010;NA;4,69804368653289;"nutdata_out2010";NA
+"xizang (tibet)";"RG_CN_(xizang_tibet)";NA;"n-removal";"kgN/ha";2010;NA;49,5731240442786;"nutdata_out2010";NA
+"yunnan";"RG_CN_(yunnan)";NA;"fertilizer";"kgN/ha";2010;NA;187,404519645328;"nutdata_out2010";NA
+"yunnan";"RG_CN_(yunnan)";NA;"totalmanureapplied";"kgN/ha";2010;NA;68,8066521509201;"nutdata_out2010";NA
+"yunnan";"RG_CN_(yunnan)";NA;"n-fixation";"kgN/ha";2010;NA;14,2913804961098;"nutdata_out2010";NA
+"yunnan";"RG_CN_(yunnan)";NA;"n-deposition";"kgN/ha";2010;NA;18,0683983823456;"nutdata_out2010";NA
+"yunnan";"RG_CN_(yunnan)";NA;"n-removal";"kgN/ha";2010;NA;69,2804816586009;"nutdata_out2010";NA
+"zhejiang";"RG_CN_(zhejiang)";NA;"fertilizer";"kgN/ha";2010;NA;220,801273935606;"nutdata_out2010";NA
+"zhejiang";"RG_CN_(zhejiang)";NA;"totalmanureapplied";"kgN/ha";2010;NA;76,549203616135;"nutdata_out2010";NA
+"zhejiang";"RG_CN_(zhejiang)";NA;"n-fixation";"kgN/ha";2010;NA;20,5647833437931;"nutdata_out2010";NA
+"zhejiang";"RG_CN_(zhejiang)";NA;"n-deposition";"kgN/ha";2010;NA;24,1147791559925;"nutdata_out2010";NA
+"zhejiang";"RG_CN_(zhejiang)";NA;"n-removal";"kgN/ha";2010;NA;75,9361673801627;"nutdata_out2010";NA
+"brittany";"RG_EU_(brittany)";NA;"fertilizer";"kgN/ha";2010;NA;78,3301865053824;"nutdata_out2010";NA
+"brittany";"RG_EU_(brittany)";NA;"totalmanureapplied";"kgN/ha";2010;NA;60,6406734132459;"nutdata_out2010";NA
+"brittany";"RG_EU_(brittany)";NA;"n-fixation";"kgN/ha";2010;NA;10,8236809636558;"nutdata_out2010";NA
+"brittany";"RG_EU_(brittany)";NA;"n-deposition";"kgN/ha";2010;NA;15,1389803756666;"nutdata_out2010";NA
+"brittany";"RG_EU_(brittany)";NA;"n-removal";"kgN/ha";2010;NA;77,8231037130603;"nutdata_out2010";NA
+"france rest";"RG_EU_(francerest)";NA;"fertilizer";"kgN/ha";2010;NA;72,9100762341962;"nutdata_out2010";NA
+"france rest";"RG_EU_(francerest)";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,6148008613469;"nutdata_out2010";NA
+"france rest";"RG_EU_(francerest)";NA;"n-fixation";"kgN/ha";2010;NA;11,2548788054468;"nutdata_out2010";NA
+"france rest";"RG_EU_(francerest)";NA;"n-deposition";"kgN/ha";2010;NA;21,1748325493888;"nutdata_out2010";NA
+"france rest";"RG_EU_(francerest)";NA;"n-removal";"kgN/ha";2010;NA;84,1732597106045;"nutdata_out2010";NA
+"lombardia-emillia_romagna";"RG_EU_(lombardiaemilliaromagna)";NA;"fertilizer";"kgN/ha";2010;NA;30,0361728738946;"nutdata_out2010";NA
+"lombardia-emillia_romagna";"RG_EU_(lombardiaemilliaromagna)";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,49569122147604;"nutdata_out2010";NA
+"lombardia-emillia_romagna";"RG_EU_(lombardiaemilliaromagna)";NA;"n-fixation";"kgN/ha";2010;NA;7,30957535964055;"nutdata_out2010";NA
+"lombardia-emillia_romagna";"RG_EU_(lombardiaemilliaromagna)";NA;"n-deposition";"kgN/ha";2010;NA;19,0325778915951;"nutdata_out2010";NA
+"lombardia-emillia_romagna";"RG_EU_(lombardiaemilliaromagna)";NA;"n-removal";"kgN/ha";2010;NA;22,5866558533963;"nutdata_out2010";NA
+"italy rest";"RG_EU_(italyrest)";NA;"fertilizer";"kgN/ha";2010;NA;36,3645351809389;"nutdata_out2010";NA
+"italy rest";"RG_EU_(italyrest)";NA;"totalmanureapplied";"kgN/ha";2010;NA;14,1454897164972;"nutdata_out2010";NA
+"italy rest";"RG_EU_(italyrest)";NA;"n-fixation";"kgN/ha";2010;NA;20,3389141010041;"nutdata_out2010";NA
+"italy rest";"RG_EU_(italyrest)";NA;"n-deposition";"kgN/ha";2010;NA;13,3743387562115;"nutdata_out2010";NA
+"italy rest";"RG_EU_(italyrest)";NA;"n-removal";"kgN/ha";2010;NA;58,0055215013699;"nutdata_out2010";NA
+"galicia";"RG_EU_(galicia)";NA;"fertilizer";"kgN/ha";2010;NA;94,2033703310601;"nutdata_out2010";NA
+"galicia";"RG_EU_(galicia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;198,192967254257;"nutdata_out2010";NA
+"galicia";"RG_EU_(galicia)";NA;"n-fixation";"kgN/ha";2010;NA;99,3839498932306;"nutdata_out2010";NA
+"galicia";"RG_EU_(galicia)";NA;"n-deposition";"kgN/ha";2010;NA;8,54573157866318;"nutdata_out2010";NA
+"galicia";"RG_EU_(galicia)";NA;"n-removal";"kgN/ha";2010;NA;282,951099650215;"nutdata_out2010";NA
+"spain rest";"RG_EU_(spainrest)";NA;"fertilizer";"kgN/ha";2010;NA;48,6292196850605;"nutdata_out2010";NA
+"spain rest";"RG_EU_(spainrest)";NA;"totalmanureapplied";"kgN/ha";2010;NA;13,0984722221462;"nutdata_out2010";NA
+"spain rest";"RG_EU_(spainrest)";NA;"n-fixation";"kgN/ha";2010;NA;9,39344588690346;"nutdata_out2010";NA
+"spain rest";"RG_EU_(spainrest)";NA;"n-deposition";"kgN/ha";2010;NA;11,5028692138113;"nutdata_out2010";NA
+"spain rest";"RG_EU_(spainrest)";NA;"n-removal";"kgN/ha";2010;NA;26,8735083831759;"nutdata_out2010";NA
+"alabama";"RG_USA_(alabama)";NA;"fertilizer";"kgN/ha";2010;NA;121,976303379787;"nutdata_out2010";NA
+"alabama";"RG_USA_(alabama)";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,32574461395958;"nutdata_out2010";NA
+"alabama";"RG_USA_(alabama)";NA;"n-fixation";"kgN/ha";2010;NA;20,2925981815877;"nutdata_out2010";NA
+"alabama";"RG_USA_(alabama)";NA;"n-deposition";"kgN/ha";2010;NA;15,0104396172096;"nutdata_out2010";NA
+"alabama";"RG_USA_(alabama)";NA;"n-removal";"kgN/ha";2010;NA;39,2272480603454;"nutdata_out2010";NA
+"alaska";"RG_USA_(alaska)";NA;"fertilizer";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"alaska";"RG_USA_(alaska)";NA;"totalmanureapplied";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"alaska";"RG_USA_(alaska)";NA;"n-fixation";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"alaska";"RG_USA_(alaska)";NA;"n-deposition";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"alaska";"RG_USA_(alaska)";NA;"n-removal";"kgN/ha";2010;NA;NA;"nutdata_out2010";NA
+"arizona";"RG_USA_(arizona)";NA;"fertilizer";"kgN/ha";2010;NA;79,9843038016753;"nutdata_out2010";NA
+"arizona";"RG_USA_(arizona)";NA;"totalmanureapplied";"kgN/ha";2010;NA;101,802636685947;"nutdata_out2010";NA
+"arizona";"RG_USA_(arizona)";NA;"n-fixation";"kgN/ha";2010;NA;85,2345397075598;"nutdata_out2010";NA
+"arizona";"RG_USA_(arizona)";NA;"n-deposition";"kgN/ha";2010;NA;3,81744219938813;"nutdata_out2010";NA
+"arizona";"RG_USA_(arizona)";NA;"n-removal";"kgN/ha";2010;NA;183,888208504007;"nutdata_out2010";NA
+"arkansas";"RG_USA_(arkansas)";NA;"fertilizer";"kgN/ha";2010;NA;87,6204961378245;"nutdata_out2010";NA
+"arkansas";"RG_USA_(arkansas)";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,41756336827727;"nutdata_out2010";NA
+"arkansas";"RG_USA_(arkansas)";NA;"n-fixation";"kgN/ha";2010;NA;22,45162318911;"nutdata_out2010";NA
+"arkansas";"RG_USA_(arkansas)";NA;"n-deposition";"kgN/ha";2010;NA;17,5836021383897;"nutdata_out2010";NA
+"arkansas";"RG_USA_(arkansas)";NA;"n-removal";"kgN/ha";2010;NA;60,9598223496713;"nutdata_out2010";NA
+"california";"RG_USA_(california)";NA;"fertilizer";"kgN/ha";2010;NA;97,6342756053516;"nutdata_out2010";NA
+"california";"RG_USA_(california)";NA;"totalmanureapplied";"kgN/ha";2010;NA;37,7589997572581;"nutdata_out2010";NA
+"california";"RG_USA_(california)";NA;"n-fixation";"kgN/ha";2010;NA;81,2184915576589;"nutdata_out2010";NA
+"california";"RG_USA_(california)";NA;"n-deposition";"kgN/ha";2010;NA;5,68445789123555;"nutdata_out2010";NA
+"california";"RG_USA_(california)";NA;"n-removal";"kgN/ha";2010;NA;190,475151855458;"nutdata_out2010";NA
+"colorado";"RG_USA_(colorado)";NA;"fertilizer";"kgN/ha";2010;NA;79,459655140056;"nutdata_out2010";NA
+"colorado";"RG_USA_(colorado)";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,3267809773471;"nutdata_out2010";NA
+"colorado";"RG_USA_(colorado)";NA;"n-fixation";"kgN/ha";2010;NA;21,5408877945005;"nutdata_out2010";NA
+"colorado";"RG_USA_(colorado)";NA;"n-deposition";"kgN/ha";2010;NA;8,79237251518899;"nutdata_out2010";NA
+"colorado";"RG_USA_(colorado)";NA;"n-removal";"kgN/ha";2010;NA;50,1762530834382;"nutdata_out2010";NA
+"connecticut";"RG_USA_(connecticut)";NA;"fertilizer";"kgN/ha";2010;NA;46,88520225348;"nutdata_out2010";NA
+"connecticut";"RG_USA_(connecticut)";NA;"totalmanureapplied";"kgN/ha";2010;NA;124,999987219578;"nutdata_out2010";NA
+"connecticut";"RG_USA_(connecticut)";NA;"n-fixation";"kgN/ha";2010;NA;59,6458701541039;"nutdata_out2010";NA
+"connecticut";"RG_USA_(connecticut)";NA;"n-deposition";"kgN/ha";2010;NA;18,1753322828179;"nutdata_out2010";NA
+"connecticut";"RG_USA_(connecticut)";NA;"n-removal";"kgN/ha";2010;NA;136,236136963899;"nutdata_out2010";NA
+"delaware";"RG_USA_(delaware)";NA;"fertilizer";"kgN/ha";2010;NA;45,2475142771692;"nutdata_out2010";NA
+"delaware";"RG_USA_(delaware)";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,87753648440532;"nutdata_out2010";NA
+"delaware";"RG_USA_(delaware)";NA;"n-fixation";"kgN/ha";2010;NA;26,7689765228457;"nutdata_out2010";NA
+"delaware";"RG_USA_(delaware)";NA;"n-deposition";"kgN/ha";2010;NA;21,4775650497639;"nutdata_out2010";NA
+"delaware";"RG_USA_(delaware)";NA;"n-removal";"kgN/ha";2010;NA;72,1238823198781;"nutdata_out2010";NA
+"florida";"RG_USA_(florida)";NA;"fertilizer";"kgN/ha";2010;NA;45,4923638138026;"nutdata_out2010";NA
+"florida";"RG_USA_(florida)";NA;"totalmanureapplied";"kgN/ha";2010;NA;23,3602260318743;"nutdata_out2010";NA
+"florida";"RG_USA_(florida)";NA;"n-fixation";"kgN/ha";2010;NA;101,221931309812;"nutdata_out2010";NA
+"florida";"RG_USA_(florida)";NA;"n-deposition";"kgN/ha";2010;NA;8,99679841758284;"nutdata_out2010";NA
+"florida";"RG_USA_(florida)";NA;"n-removal";"kgN/ha";2010;NA;114,942862101659;"nutdata_out2010";NA
+"hawaii";"RG_USA_(hawaii)";NA;"fertilizer";"kgN/ha";2010;NA;38,9672886847282;"nutdata_out2010";NA
+"hawaii";"RG_USA_(hawaii)";NA;"totalmanureapplied";"kgN/ha";2010;NA;50,8642192517817;"nutdata_out2010";NA
+"hawaii";"RG_USA_(hawaii)";NA;"n-fixation";"kgN/ha";2010;NA;8,18833516752737;"nutdata_out2010";NA
+"hawaii";"RG_USA_(hawaii)";NA;"n-deposition";"kgN/ha";2010;NA;1,06444256796357;"nutdata_out2010";NA
+"hawaii";"RG_USA_(hawaii)";NA;"n-removal";"kgN/ha";2010;NA;63,4013175202978;"nutdata_out2010";NA
+"idaho";"RG_USA_(idaho)";NA;"fertilizer";"kgN/ha";2010;NA;69,0898211291409;"nutdata_out2010";NA
+"idaho";"RG_USA_(idaho)";NA;"totalmanureapplied";"kgN/ha";2010;NA;24,6783497736657;"nutdata_out2010";NA
+"idaho";"RG_USA_(idaho)";NA;"n-fixation";"kgN/ha";2010;NA;39,6796757032675;"nutdata_out2010";NA
+"idaho";"RG_USA_(idaho)";NA;"n-deposition";"kgN/ha";2010;NA;3,70036075697637;"nutdata_out2010";NA
+"idaho";"RG_USA_(idaho)";NA;"n-removal";"kgN/ha";2010;NA;109,590030573418;"nutdata_out2010";NA
+"illinois";"RG_USA_(illinois)";NA;"fertilizer";"kgN/ha";2010;NA;57,1650442955359;"nutdata_out2010";NA
+"illinois";"RG_USA_(illinois)";NA;"totalmanureapplied";"kgN/ha";2010;NA;4,19921088483924;"nutdata_out2010";NA
+"illinois";"RG_USA_(illinois)";NA;"n-fixation";"kgN/ha";2010;NA;44,7221104999755;"nutdata_out2010";NA
+"illinois";"RG_USA_(illinois)";NA;"n-deposition";"kgN/ha";2010;NA;20,6198576332891;"nutdata_out2010";NA
+"illinois";"RG_USA_(illinois)";NA;"n-removal";"kgN/ha";2010;NA;107,870139959028;"nutdata_out2010";NA
+"indiana";"RG_USA_(indiana)";NA;"fertilizer";"kgN/ha";2010;NA;56,1253541247814;"nutdata_out2010";NA
+"indiana";"RG_USA_(indiana)";NA;"totalmanureapplied";"kgN/ha";2010;NA;18,0578860685808;"nutdata_out2010";NA
+"indiana";"RG_USA_(indiana)";NA;"n-fixation";"kgN/ha";2010;NA;46,2691538922161;"nutdata_out2010";NA
+"indiana";"RG_USA_(indiana)";NA;"n-deposition";"kgN/ha";2010;NA;21,6374133721803;"nutdata_out2010";NA
+"indiana";"RG_USA_(indiana)";NA;"n-removal";"kgN/ha";2010;NA;109,522035416563;"nutdata_out2010";NA
+"iowa";"RG_USA_(iowa)";NA;"fertilizer";"kgN/ha";2010;NA;59,6129459497458;"nutdata_out2010";NA
+"iowa";"RG_USA_(iowa)";NA;"totalmanureapplied";"kgN/ha";2010;NA;16,4420667192102;"nutdata_out2010";NA
+"iowa";"RG_USA_(iowa)";NA;"n-fixation";"kgN/ha";2010;NA;47,1361390123342;"nutdata_out2010";NA
+"iowa";"RG_USA_(iowa)";NA;"n-deposition";"kgN/ha";2010;NA;18,3943357736339;"nutdata_out2010";NA
+"iowa";"RG_USA_(iowa)";NA;"n-removal";"kgN/ha";2010;NA;112,856480640356;"nutdata_out2010";NA
+"kansas";"RG_USA_(kansas)";NA;"fertilizer";"kgN/ha";2010;NA;73,6747106197439;"nutdata_out2010";NA
+"kansas";"RG_USA_(kansas)";NA;"totalmanureapplied";"kgN/ha";2010;NA;9,55341402422431;"nutdata_out2010";NA
+"kansas";"RG_USA_(kansas)";NA;"n-fixation";"kgN/ha";2010;NA;24,633965060651;"nutdata_out2010";NA
+"kansas";"RG_USA_(kansas)";NA;"n-deposition";"kgN/ha";2010;NA;18,3071665510137;"nutdata_out2010";NA
+"kansas";"RG_USA_(kansas)";NA;"n-removal";"kgN/ha";2010;NA;60,9961330325197;"nutdata_out2010";NA
+"kentucky";"RG_USA_(kentucky)";NA;"fertilizer";"kgN/ha";2010;NA;56,8727881097562;"nutdata_out2010";NA
+"kentucky";"RG_USA_(kentucky)";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,0411343175035;"nutdata_out2010";NA
+"kentucky";"RG_USA_(kentucky)";NA;"n-fixation";"kgN/ha";2010;NA;29,115482997044;"nutdata_out2010";NA
+"kentucky";"RG_USA_(kentucky)";NA;"n-deposition";"kgN/ha";2010;NA;21,2596944146164;"nutdata_out2010";NA
+"kentucky";"RG_USA_(kentucky)";NA;"n-removal";"kgN/ha";2010;NA;79,0434419503014;"nutdata_out2010";NA
+"louisiana";"RG_USA_(louisiana)";NA;"fertilizer";"kgN/ha";2010;NA;82,8409004496236;"nutdata_out2010";NA
+"louisiana";"RG_USA_(louisiana)";NA;"totalmanureapplied";"kgN/ha";2010;NA;2,95985028020812;"nutdata_out2010";NA
+"louisiana";"RG_USA_(louisiana)";NA;"n-fixation";"kgN/ha";2010;NA;31,0025860063015;"nutdata_out2010";NA
+"louisiana";"RG_USA_(louisiana)";NA;"n-deposition";"kgN/ha";2010;NA;13,4920695918764;"nutdata_out2010";NA
+"louisiana";"RG_USA_(louisiana)";NA;"n-removal";"kgN/ha";2010;NA;71,5354496480685;"nutdata_out2010";NA
+"maine";"RG_USA_(maine)";NA;"fertilizer";"kgN/ha";2010;NA;57,4867516039832;"nutdata_out2010";NA
+"maine";"RG_USA_(maine)";NA;"totalmanureapplied";"kgN/ha";2010;NA;125;"nutdata_out2010";NA
+"maine";"RG_USA_(maine)";NA;"n-fixation";"kgN/ha";2010;NA;84,7014171268894;"nutdata_out2010";NA
+"maine";"RG_USA_(maine)";NA;"n-deposition";"kgN/ha";2010;NA;9,59146742794778;"nutdata_out2010";NA
+"maine";"RG_USA_(maine)";NA;"n-removal";"kgN/ha";2010;NA;182,753030285377;"nutdata_out2010";NA
+"maryland";"RG_USA_(maryland)";NA;"fertilizer";"kgN/ha";2010;NA;45,2196537615326;"nutdata_out2010";NA
+"maryland";"RG_USA_(maryland)";NA;"totalmanureapplied";"kgN/ha";2010;NA;21,800440954284;"nutdata_out2010";NA
+"maryland";"RG_USA_(maryland)";NA;"n-fixation";"kgN/ha";2010;NA;38,8166273387808;"nutdata_out2010";NA
+"maryland";"RG_USA_(maryland)";NA;"n-deposition";"kgN/ha";2010;NA;20,2304306149245;"nutdata_out2010";NA
+"maryland";"RG_USA_(maryland)";NA;"n-removal";"kgN/ha";2010;NA;91,3271114898168;"nutdata_out2010";NA
+"massachusetts";"RG_USA_(massachusetts)";NA;"fertilizer";"kgN/ha";2010;NA;54,3929394512421;"nutdata_out2010";NA
+"massachusetts";"RG_USA_(massachusetts)";NA;"totalmanureapplied";"kgN/ha";2010;NA;58,4076808284849;"nutdata_out2010";NA
+"massachusetts";"RG_USA_(massachusetts)";NA;"n-fixation";"kgN/ha";2010;NA;58,4679993642709;"nutdata_out2010";NA
+"massachusetts";"RG_USA_(massachusetts)";NA;"n-deposition";"kgN/ha";2010;NA;15,8816472672055;"nutdata_out2010";NA
+"massachusetts";"RG_USA_(massachusetts)";NA;"n-removal";"kgN/ha";2010;NA;150,648834584909;"nutdata_out2010";NA
+"michigan";"RG_USA_(michigan)";NA;"fertilizer";"kgN/ha";2010;NA;60,9323311859719;"nutdata_out2010";NA
+"michigan";"RG_USA_(michigan)";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,6967517618889;"nutdata_out2010";NA
+"michigan";"RG_USA_(michigan)";NA;"n-fixation";"kgN/ha";2010;NA;44,3137016178304;"nutdata_out2010";NA
+"michigan";"RG_USA_(michigan)";NA;"n-deposition";"kgN/ha";2010;NA;16,7002802561653;"nutdata_out2010";NA
+"michigan";"RG_USA_(michigan)";NA;"n-removal";"kgN/ha";2010;NA;103,600488710925;"nutdata_out2010";NA
+"minnesota";"RG_USA_(minnesota)";NA;"fertilizer";"kgN/ha";2010;NA;63,7350907291827;"nutdata_out2010";NA
+"minnesota";"RG_USA_(minnesota)";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,2742882651348;"nutdata_out2010";NA
+"minnesota";"RG_USA_(minnesota)";NA;"n-fixation";"kgN/ha";2010;NA;45,2446287171906;"nutdata_out2010";NA
+"minnesota";"RG_USA_(minnesota)";NA;"n-deposition";"kgN/ha";2010;NA;13,0204320250299;"nutdata_out2010";NA
+"minnesota";"RG_USA_(minnesota)";NA;"n-removal";"kgN/ha";2010;NA;108,479574273851;"nutdata_out2010";NA
+"mississippi";"RG_USA_(mississippi)";NA;"fertilizer";"kgN/ha";2010;NA;149,036813967624;"nutdata_out2010";NA
+"mississippi";"RG_USA_(mississippi)";NA;"totalmanureapplied";"kgN/ha";2010;NA;3,8399804344737;"nutdata_out2010";NA
+"mississippi";"RG_USA_(mississippi)";NA;"n-fixation";"kgN/ha";2010;NA;26,0466895219649;"nutdata_out2010";NA
+"mississippi";"RG_USA_(mississippi)";NA;"n-deposition";"kgN/ha";2010;NA;15,1646471300798;"nutdata_out2010";NA
+"mississippi";"RG_USA_(mississippi)";NA;"n-removal";"kgN/ha";2010;NA;66,7672771205946;"nutdata_out2010";NA
+"missouri";"RG_USA_(missouri)";NA;"fertilizer";"kgN/ha";2010;NA;56,6032069140248;"nutdata_out2010";NA
+"missouri";"RG_USA_(missouri)";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,6826075957228;"nutdata_out2010";NA
+"missouri";"RG_USA_(missouri)";NA;"n-fixation";"kgN/ha";2010;NA;32,057972763077;"nutdata_out2010";NA
+"missouri";"RG_USA_(missouri)";NA;"n-deposition";"kgN/ha";2010;NA;20,4463507537483;"nutdata_out2010";NA
+"missouri";"RG_USA_(missouri)";NA;"n-removal";"kgN/ha";2010;NA;80,3136588847123;"nutdata_out2010";NA
+"montana";"RG_USA_(montana)";NA;"fertilizer";"kgN/ha";2010;NA;94,4446425100163;"nutdata_out2010";NA
+"montana";"RG_USA_(montana)";NA;"totalmanureapplied";"kgN/ha";2010;NA;8,69887320649883;"nutdata_out2010";NA
+"montana";"RG_USA_(montana)";NA;"n-fixation";"kgN/ha";2010;NA;19,1660805987635;"nutdata_out2010";NA
+"montana";"RG_USA_(montana)";NA;"n-deposition";"kgN/ha";2010;NA;6,37735029434278;"nutdata_out2010";NA
+"montana";"RG_USA_(montana)";NA;"n-removal";"kgN/ha";2010;NA;37,996413585992;"nutdata_out2010";NA
+"nebraska";"RG_USA_(nebraska)";NA;"fertilizer";"kgN/ha";2010;NA;80,3497637495184;"nutdata_out2010";NA
+"nebraska";"RG_USA_(nebraska)";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,3893487440047;"nutdata_out2010";NA
+"nebraska";"RG_USA_(nebraska)";NA;"n-fixation";"kgN/ha";2010;NA;30,6924888147012;"nutdata_out2010";NA
+"nebraska";"RG_USA_(nebraska)";NA;"n-deposition";"kgN/ha";2010;NA;15,3772900983157;"nutdata_out2010";NA
+"nebraska";"RG_USA_(nebraska)";NA;"n-removal";"kgN/ha";2010;NA;93,6397090287014;"nutdata_out2010";NA
+"nevada";"RG_USA_(nevada)";NA;"fertilizer";"kgN/ha";2010;NA;75,703180095704;"nutdata_out2010";NA
+"nevada";"RG_USA_(nevada)";NA;"totalmanureapplied";"kgN/ha";2010;NA;44,1934486606835;"nutdata_out2010";NA
+"nevada";"RG_USA_(nevada)";NA;"n-fixation";"kgN/ha";2010;NA;19,2341893006841;"nutdata_out2010";NA
+"nevada";"RG_USA_(nevada)";NA;"n-deposition";"kgN/ha";2010;NA;3,17619972436844;"nutdata_out2010";NA
+"nevada";"RG_USA_(nevada)";NA;"n-removal";"kgN/ha";2010;NA;104,747752957589;"nutdata_out2010";NA
+"new hampshire";"RG_USA_(newhampshire)";NA;"fertilizer";"kgN/ha";2010;NA;41,2220060122775;"nutdata_out2010";NA
+"new hampshire";"RG_USA_(newhampshire)";NA;"totalmanureapplied";"kgN/ha";2010;NA;124,999986212739;"nutdata_out2010";NA
+"new hampshire";"RG_USA_(newhampshire)";NA;"n-fixation";"kgN/ha";2010;NA;273,232837426617;"nutdata_out2010";NA
+"new hampshire";"RG_USA_(newhampshire)";NA;"n-deposition";"kgN/ha";2010;NA;14,7686739476739;"nutdata_out2010";NA
+"new hampshire";"RG_USA_(newhampshire)";NA;"n-removal";"kgN/ha";2010;NA;602,40331345412;"nutdata_out2010";NA
+"new jersey";"RG_USA_(newjersey)";NA;"fertilizer";"kgN/ha";2010;NA;49,2315843411835;"nutdata_out2010";NA
+"new jersey";"RG_USA_(newjersey)";NA;"totalmanureapplied";"kgN/ha";2010;NA;14,142054541264;"nutdata_out2010";NA
+"new jersey";"RG_USA_(newjersey)";NA;"n-fixation";"kgN/ha";2010;NA;24,4285915036803;"nutdata_out2010";NA
+"new jersey";"RG_USA_(newjersey)";NA;"n-deposition";"kgN/ha";2010;NA;21,7056259574752;"nutdata_out2010";NA
+"new jersey";"RG_USA_(newjersey)";NA;"n-removal";"kgN/ha";2010;NA;63,3133842550531;"nutdata_out2010";NA
+"new mexico";"RG_USA_(newmexico)";NA;"fertilizer";"kgN/ha";2010;NA;77,158702328198;"nutdata_out2010";NA
+"new mexico";"RG_USA_(newmexico)";NA;"totalmanureapplied";"kgN/ha";2010;NA;55,6182455297926;"nutdata_out2010";NA
+"new mexico";"RG_USA_(newmexico)";NA;"n-fixation";"kgN/ha";2010;NA;53,1630353251123;"nutdata_out2010";NA
+"new mexico";"RG_USA_(newmexico)";NA;"n-deposition";"kgN/ha";2010;NA;5,24725522799074;"nutdata_out2010";NA
+"new mexico";"RG_USA_(newmexico)";NA;"n-removal";"kgN/ha";2010;NA;114,737075748602;"nutdata_out2010";NA
+"new york";"RG_USA_(newyork)";NA;"fertilizer";"kgN/ha";2010;NA;73,6225220350727;"nutdata_out2010";NA
+"new york";"RG_USA_(newyork)";NA;"totalmanureapplied";"kgN/ha";2010;NA;35,9156317497814;"nutdata_out2010";NA
+"new york";"RG_USA_(newyork)";NA;"n-fixation";"kgN/ha";2010;NA;81,647038116323;"nutdata_out2010";NA
+"new york";"RG_USA_(newyork)";NA;"n-deposition";"kgN/ha";2010;NA;17,9215389334915;"nutdata_out2010";NA
+"new york";"RG_USA_(newyork)";NA;"n-removal";"kgN/ha";2010;NA;168,101053901455;"nutdata_out2010";NA
+"north carolina";"RG_USA_(northcarolina)";NA;"fertilizer";"kgN/ha";2010;NA;58,2377721232811;"nutdata_out2010";NA
+"north carolina";"RG_USA_(northcarolina)";NA;"totalmanureapplied";"kgN/ha";2010;NA;16,3272441476843;"nutdata_out2010";NA
+"north carolina";"RG_USA_(northcarolina)";NA;"n-fixation";"kgN/ha";2010;NA;21,8446395043878;"nutdata_out2010";NA
+"north carolina";"RG_USA_(northcarolina)";NA;"n-deposition";"kgN/ha";2010;NA;15,7927346663349;"nutdata_out2010";NA
+"north carolina";"RG_USA_(northcarolina)";NA;"n-removal";"kgN/ha";2010;NA;47,4737688490125;"nutdata_out2010";NA
+"north dakota";"RG_USA_(northdakota)";NA;"fertilizer";"kgN/ha";2010;NA;75,4112389260566;"nutdata_out2010";NA
+"north dakota";"RG_USA_(northdakota)";NA;"totalmanureapplied";"kgN/ha";2010;NA;5,37794106216993;"nutdata_out2010";NA
+"north dakota";"RG_USA_(northdakota)";NA;"n-fixation";"kgN/ha";2010;NA;23,4315967119749;"nutdata_out2010";NA
+"north dakota";"RG_USA_(northdakota)";NA;"n-deposition";"kgN/ha";2010;NA;10,2519468288234;"nutdata_out2010";NA
+"north dakota";"RG_USA_(northdakota)";NA;"n-removal";"kgN/ha";2010;NA;50,1015050096371;"nutdata_out2010";NA
+"ohio";"RG_USA_(ohio)";NA;"fertilizer";"kgN/ha";2010;NA;55,980528651581;"nutdata_out2010";NA
+"ohio";"RG_USA_(ohio)";NA;"totalmanureapplied";"kgN/ha";2010;NA;15,0959077552496;"nutdata_out2010";NA
+"ohio";"RG_USA_(ohio)";NA;"n-fixation";"kgN/ha";2010;NA;49,6516427588209;"nutdata_out2010";NA
+"ohio";"RG_USA_(ohio)";NA;"n-deposition";"kgN/ha";2010;NA;21,4259288329212;"nutdata_out2010";NA
+"ohio";"RG_USA_(ohio)";NA;"n-removal";"kgN/ha";2010;NA;111,595391620526;"nutdata_out2010";NA
+"oklahoma";"RG_USA_(oklahoma)";NA;"fertilizer";"kgN/ha";2010;NA;60,0743900446779;"nutdata_out2010";NA
+"oklahoma";"RG_USA_(oklahoma)";NA;"totalmanureapplied";"kgN/ha";2010;NA;20,9341956406172;"nutdata_out2010";NA
+"oklahoma";"RG_USA_(oklahoma)";NA;"n-fixation";"kgN/ha";2010;NA;22,3169196310316;"nutdata_out2010";NA
+"oklahoma";"RG_USA_(oklahoma)";NA;"n-deposition";"kgN/ha";2010;NA;18,5519166412285;"nutdata_out2010";NA
+"oklahoma";"RG_USA_(oklahoma)";NA;"n-removal";"kgN/ha";2010;NA;42,9556350178437;"nutdata_out2010";NA
+"oregon";"RG_USA_(oregon)";NA;"fertilizer";"kgN/ha";2010;NA;76,8467530732755;"nutdata_out2010";NA
+"oregon";"RG_USA_(oregon)";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,5408208633274;"nutdata_out2010";NA
+"oregon";"RG_USA_(oregon)";NA;"n-fixation";"kgN/ha";2010;NA;64,8720430030653;"nutdata_out2010";NA
+"oregon";"RG_USA_(oregon)";NA;"n-deposition";"kgN/ha";2010;NA;3,83570450528527;"nutdata_out2010";NA
+"oregon";"RG_USA_(oregon)";NA;"n-removal";"kgN/ha";2010;NA;91,2815244680144;"nutdata_out2010";NA
+"pennsylvania";"RG_USA_(pennsylvania)";NA;"fertilizer";"kgN/ha";2010;NA;57,3883933598093;"nutdata_out2010";NA
+"pennsylvania";"RG_USA_(pennsylvania)";NA;"totalmanureapplied";"kgN/ha";2010;NA;57,3451126413463;"nutdata_out2010";NA
+"pennsylvania";"RG_USA_(pennsylvania)";NA;"n-fixation";"kgN/ha";2010;NA;72,5730305300899;"nutdata_out2010";NA
+"pennsylvania";"RG_USA_(pennsylvania)";NA;"n-deposition";"kgN/ha";2010;NA;21,0207496216933;"nutdata_out2010";NA
+"pennsylvania";"RG_USA_(pennsylvania)";NA;"n-removal";"kgN/ha";2010;NA;149,968636410494;"nutdata_out2010";NA
+"rhode island";"RG_USA_(rhodeisland)";NA;"fertilizer";"kgN/ha";2010;NA;47,3418116476658;"nutdata_out2010";NA
+"rhode island";"RG_USA_(rhodeisland)";NA;"totalmanureapplied";"kgN/ha";2010;NA;45,1617393309343;"nutdata_out2010";NA
+"rhode island";"RG_USA_(rhodeisland)";NA;"n-fixation";"kgN/ha";2010;NA;42,6902612534822;"nutdata_out2010";NA
+"rhode island";"RG_USA_(rhodeisland)";NA;"n-deposition";"kgN/ha";2010;NA;15,7691904136867;"nutdata_out2010";NA
+"rhode island";"RG_USA_(rhodeisland)";NA;"n-removal";"kgN/ha";2010;NA;119,49931780668;"nutdata_out2010";NA
+"south carolina";"RG_USA_(southcarolina)";NA;"fertilizer";"kgN/ha";2010;NA;64,5976358443401;"nutdata_out2010";NA
+"south carolina";"RG_USA_(southcarolina)";NA;"totalmanureapplied";"kgN/ha";2010;NA;6,6615725418567;"nutdata_out2010";NA
+"south carolina";"RG_USA_(southcarolina)";NA;"n-fixation";"kgN/ha";2010;NA;18,6529625094007;"nutdata_out2010";NA
+"south carolina";"RG_USA_(southcarolina)";NA;"n-deposition";"kgN/ha";2010;NA;14,7046402465399;"nutdata_out2010";NA
+"south carolina";"RG_USA_(southcarolina)";NA;"n-removal";"kgN/ha";2010;NA;40,2926796707797;"nutdata_out2010";NA
+"south dakota";"RG_USA_(southdakota)";NA;"fertilizer";"kgN/ha";2010;NA;72,3323116037102;"nutdata_out2010";NA
+"south dakota";"RG_USA_(southdakota)";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,6257315533895;"nutdata_out2010";NA
+"south dakota";"RG_USA_(southdakota)";NA;"n-fixation";"kgN/ha";2010;NA;28,5065969277719;"nutdata_out2010";NA
+"south dakota";"RG_USA_(southdakota)";NA;"n-deposition";"kgN/ha";2010;NA;12,4818467825635;"nutdata_out2010";NA
+"south dakota";"RG_USA_(southdakota)";NA;"n-removal";"kgN/ha";2010;NA;72,8718351956623;"nutdata_out2010";NA
+"tennessee";"RG_USA_(tennessee)";NA;"fertilizer";"kgN/ha";2010;NA;66,9259440381089;"nutdata_out2010";NA
+"tennessee";"RG_USA_(tennessee)";NA;"totalmanureapplied";"kgN/ha";2010;NA;7,03311050656716;"nutdata_out2010";NA
+"tennessee";"RG_USA_(tennessee)";NA;"n-fixation";"kgN/ha";2010;NA;25,8301691618199;"nutdata_out2010";NA
+"tennessee";"RG_USA_(tennessee)";NA;"n-deposition";"kgN/ha";2010;NA;19,1064685961482;"nutdata_out2010";NA
+"tennessee";"RG_USA_(tennessee)";NA;"n-removal";"kgN/ha";2010;NA;59,1263285037923;"nutdata_out2010";NA
+"texas";"RG_USA_(texas)";NA;"fertilizer";"kgN/ha";2010;NA;65,0938899061207;"nutdata_out2010";NA
+"texas";"RG_USA_(texas)";NA;"totalmanureapplied";"kgN/ha";2010;NA;23,5895016034631;"nutdata_out2010";NA
+"texas";"RG_USA_(texas)";NA;"n-fixation";"kgN/ha";2010;NA;32,8220055671391;"nutdata_out2010";NA
+"texas";"RG_USA_(texas)";NA;"n-deposition";"kgN/ha";2010;NA;13,451790164502;"nutdata_out2010";NA
+"texas";"RG_USA_(texas)";NA;"n-removal";"kgN/ha";2010;NA;53,6658639543622;"nutdata_out2010";NA
+"utah";"RG_USA_(utah)";NA;"fertilizer";"kgN/ha";2010;NA;78,9034477935831;"nutdata_out2010";NA
+"utah";"RG_USA_(utah)";NA;"totalmanureapplied";"kgN/ha";2010;NA;51,7329654951876;"nutdata_out2010";NA
+"utah";"RG_USA_(utah)";NA;"n-fixation";"kgN/ha";2010;NA;23,5424583950218;"nutdata_out2010";NA
+"utah";"RG_USA_(utah)";NA;"n-deposition";"kgN/ha";2010;NA;3,83792277698406;"nutdata_out2010";NA
+"utah";"RG_USA_(utah)";NA;"n-removal";"kgN/ha";2010;NA;66,3686248703997;"nutdata_out2010";NA
+"vermont";"RG_USA_(vermont)";NA;"fertilizer";"kgN/ha";2010;NA;54,2766326427668;"nutdata_out2010";NA
+"vermont";"RG_USA_(vermont)";NA;"totalmanureapplied";"kgN/ha";2010;NA;72,5046576908782;"nutdata_out2010";NA
+"vermont";"RG_USA_(vermont)";NA;"n-fixation";"kgN/ha";2010;NA;96,9886161612101;"nutdata_out2010";NA
+"vermont";"RG_USA_(vermont)";NA;"n-deposition";"kgN/ha";2010;NA;14,8432088531222;"nutdata_out2010";NA
+"vermont";"RG_USA_(vermont)";NA;"n-removal";"kgN/ha";2010;NA;235,676207564466;"nutdata_out2010";NA
+"virginia";"RG_USA_(virginia)";NA;"fertilizer";"kgN/ha";2010;NA;37,4533425877864;"nutdata_out2010";NA
+"virginia";"RG_USA_(virginia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;12,5783566444763;"nutdata_out2010";NA
+"virginia";"RG_USA_(virginia)";NA;"n-fixation";"kgN/ha";2010;NA;27,7934772490145;"nutdata_out2010";NA
+"virginia";"RG_USA_(virginia)";NA;"n-deposition";"kgN/ha";2010;NA;18,3536571835059;"nutdata_out2010";NA
+"virginia";"RG_USA_(virginia)";NA;"n-removal";"kgN/ha";2010;NA;58,6097542629938;"nutdata_out2010";NA
+"washington";"RG_USA_(washington)";NA;"fertilizer";"kgN/ha";2010;NA;69,4561387428967;"nutdata_out2010";NA
+"washington";"RG_USA_(washington)";NA;"totalmanureapplied";"kgN/ha";2010;NA;11,0898979575609;"nutdata_out2010";NA
+"washington";"RG_USA_(washington)";NA;"n-fixation";"kgN/ha";2010;NA;24,3308825068072;"nutdata_out2010";NA
+"washington";"RG_USA_(washington)";NA;"n-deposition";"kgN/ha";2010;NA;4,90576235123744;"nutdata_out2010";NA
+"washington";"RG_USA_(washington)";NA;"n-removal";"kgN/ha";2010;NA;77,914537887786;"nutdata_out2010";NA
+"west virginia";"RG_USA_(westvirginia)";NA;"fertilizer";"kgN/ha";2010;NA;47,9579232573514;"nutdata_out2010";NA
+"west virginia";"RG_USA_(westvirginia)";NA;"totalmanureapplied";"kgN/ha";2010;NA;125,000010616723;"nutdata_out2010";NA
+"west virginia";"RG_USA_(westvirginia)";NA;"n-fixation";"kgN/ha";2010;NA;79,7723914120053;"nutdata_out2010";NA
+"west virginia";"RG_USA_(westvirginia)";NA;"n-deposition";"kgN/ha";2010;NA;20,1483463499125;"nutdata_out2010";NA
+"west virginia";"RG_USA_(westvirginia)";NA;"n-removal";"kgN/ha";2010;NA;165,883033803221;"nutdata_out2010";NA
+"wisconsin";"RG_USA_(wisconsin)";NA;"fertilizer";"kgN/ha";2010;NA;63,8455931124266;"nutdata_out2010";NA
+"wisconsin";"RG_USA_(wisconsin)";NA;"totalmanureapplied";"kgN/ha";2010;NA;28,8109337303619;"nutdata_out2010";NA
+"wisconsin";"RG_USA_(wisconsin)";NA;"n-fixation";"kgN/ha";2010;NA;76,8972732567866;"nutdata_out2010";NA
+"wisconsin";"RG_USA_(wisconsin)";NA;"n-deposition";"kgN/ha";2010;NA;14,4083209365441;"nutdata_out2010";NA
+"wisconsin";"RG_USA_(wisconsin)";NA;"n-removal";"kgN/ha";2010;NA;161,862736743393;"nutdata_out2010";NA
+"wyoming";"RG_USA_(wyoming)";NA;"fertilizer";"kgN/ha";2010;NA;76,589401852473;"nutdata_out2010";NA
+"wyoming";"RG_USA_(wyoming)";NA;"totalmanureapplied";"kgN/ha";2010;NA;21,8136067998307;"nutdata_out2010";NA
+"wyoming";"RG_USA_(wyoming)";NA;"n-fixation";"kgN/ha";2010;NA;11,4878264698279;"nutdata_out2010";NA
+"wyoming";"RG_USA_(wyoming)";NA;"n-deposition";"kgN/ha";2010;NA;6,38211363173388;"nutdata_out2010";NA
+"wyoming";"RG_USA_(wyoming)";NA;"n-removal";"kgN/ha";2010;NA;44,738676953285;"nutdata_out2010";NA

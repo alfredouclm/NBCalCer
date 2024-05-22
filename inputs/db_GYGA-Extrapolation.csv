@@ -1,0 +1,665 @@
+country_origname;country_code;crop;variable;units;year;campaign;data;source;comments
+bangladesh;BD;maize;yp;t/ha;NA;NA;10,10411945;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+china;CN;maize;yp;t/ha;NA;NA;13,87572535;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+indonesia;ID;maize;yp;t/ha;NA;NA;13,54654781;Yp_ir_maize_country.xlsx_CI(1.39856465128289)_GYGA;NA
+iran;IR;maize;yp;t/ha;NA;NA;16,50695418;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+albania;AL;maize;yp;t/ha;NA;NA;12,48576279;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+france;FR;maize;yp;t/ha;NA;NA;14,60061156;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+greece;GR;maize;yp;t/ha;NA;NA;13,31745215;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+italy;IT;maize;yp;t/ha;NA;NA;13,83113188;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+portugal;PT;maize;yp;t/ha;NA;NA;15,07557892;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+spain;ES;maize;yp;t/ha;NA;NA;14,73994416;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+united states of america;US;maize;yp;t/ha;NA;NA;14,0418922;Yp_ir_maize_country.xlsx_CI(1)_GYGA;NA
+afghanistan;AF;maize;yp;t/ha;NA;NA;15,83175288;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+argentina;AR;maize;yp;t/ha;NA;NA;13,91016402;Yp_ir_maize_country.xlsx_CI(1)_Partly extrapolated & partly via Yw;NA
+brazil;BR;maize;yp;t/ha;NA;NA;14,05181161;Yp_ir_maize_country.xlsx_CI(1)_Partly extrapolated & partly via Yw;NA
+chile;CL;maize;yp;t/ha;NA;NA;13,94737292;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+ecuador;EC;maize;yp;t/ha;NA;NA;12,94743502;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+egypt;EG;maize;yp;t/ha;NA;NA;16,37513337;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+guatemala;GT;maize;yp;t/ha;NA;NA;12,70671194;Yp_ir_maize_country.xlsx_CI(2)_Extrapolated;NA
+india;IN;maize;yp;t/ha;NA;NA;11,67350027;Yp_ir_maize_country.xlsx_CI(1)_Partly extrapolated & partly via Yw;NA
+iraq;IQ;maize;yp;t/ha;NA;NA;15,07680548;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+kazakhstan;KZ;maize;yp;t/ha;NA;NA;15,11464932;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+kyrgyzstan;KG;maize;yp;t/ha;NA;NA;14,89899676;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+mexico;MX;maize;yp;t/ha;NA;NA;13,8684253;Yp_ir_maize_country.xlsx_CI(2)_Extrapolated;NA
+nepal;NP;maize;yp;t/ha;NA;NA;14,83528355;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+pakistan;PK;maize;yp;t/ha;NA;NA;15,56143735;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+peru;PE;maize;yp;t/ha;NA;NA;14,62016306;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+philippines;PH;maize;yp;t/ha;NA;NA;15,82054817;Yp_ir_maize_country.xlsx_CI(2)_Extrapolated;NA
+south africa;ZA;maize;yp;t/ha;NA;NA;16,25637507;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+turkey;TR;maize;yp;t/ha;NA;NA;13,79781059;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+ukraine;UA;maize;yp;t/ha;NA;NA;12,3374365;Yp_ir_maize_country.xlsx_CI(1)_Partly extrapolated & partly via Yw;NA
+venezuela;VE;maize;yp;t/ha;NA;NA;11,99727788;Yp_ir_maize_country.xlsx_CI(2)_Extrapolated;NA
+vietnam;VN;maize;yp;t/ha;NA;NA;13,39819572;Yp_ir_maize_country.xlsx_CI(1)_Extrapolated;NA
+afghanistan;AF;rice;yp;t/ha;NA;NA;8,771156495;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+argentina;AR;rice;yp;t/ha;NA;NA;11,39893983;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+cameroon;CM;rice;yp;t/ha;NA;NA;9,14133705;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+colombia;CO;rice;yp;t/ha;NA;NA;9,762938583;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+costa rica;CR;rice;yp;t/ha;NA;NA;9,697940087;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+cuba;CU;rice;yp;t/ha;NA;NA;10,01361666;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+dominican republic;DO;rice;yp;t/ha;NA;NA;10,2162073;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+ecuador;EC;rice;yp;t/ha;NA;NA;9,686316703;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+guinea;GN;rice;yp;t/ha;NA;NA;9,771569442;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+guyana;GY;rice;yp;t/ha;NA;NA;9,816210866;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+haiti;HT;rice;yp;t/ha;NA;NA;9,482981238;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+italy;IT;rice;yp;t/ha;NA;NA;11,48277133;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+japan;JP;rice;yp;t/ha;NA;NA;10,9868215;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+kazakhstan;KZ;rice;yp;t/ha;NA;NA;8,928678112;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+laos;LA;rice;yp;t/ha;NA;NA;10,27469319;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+malaysia;MY;rice;yp;t/ha;NA;NA;9,281708156;Yp_ir_rice_country.xlsx_CI(3)_Extrapolated;NA
+nepal;NP;rice;yp;t/ha;NA;NA;10,37892678;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+nicaragua;NI;rice;yp;t/ha;NA;NA;9,051481517;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+north korea;KP;rice;yp;t/ha;NA;NA;10,37601647;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+pakistan;PK;rice;yp;t/ha;NA;NA;9,223435728;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+paraguay;PY;rice;yp;t/ha;NA;NA;11,20164265;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+peru;PE;rice;yp;t/ha;NA;NA;9,739040652;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+russia;RU;rice;yp;t/ha;NA;NA;11,0369568;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+south korea;KR;rice;yp;t/ha;NA;NA;10,61266695;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+spain;ES;rice;yp;t/ha;NA;NA;11,38196161;Yp_ir_rice_country.xlsx_CI(1)_Extrapolated;NA
+sri lanka;LK;rice;yp;t/ha;NA;NA;9,188196175;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+venezuela;VE;rice;yp;t/ha;NA;NA;9,529205115;Yp_ir_rice_country.xlsx_CI(2)_Extrapolated;NA
+burkina faso;BF;rice;yp;t/ha;NA;NA;7,631232922;Yp_ir_rice_country.xlsx_CI(2)_GYGA;NA
+ghana;GH;rice;yp;t/ha;NA;NA;8,299509905;Yp_ir_rice_country.xlsx_CI(1.62505803778706)_GYGA;NA
+madagascar;MG;rice;yp;t/ha;NA;NA;10,26959116;Yp_ir_rice_country.xlsx_CI(1.15706117617935)_GYGA;NA
+mali;ML;rice;yp;t/ha;NA;NA;9,088031174;Yp_ir_rice_country.xlsx_CI(1.19516635817925)_GYGA;NA
+niger;NE;rice;yp;t/ha;NA;NA;9,180020236;Yp_ir_rice_country.xlsx_CI(1.61800643086817)_GYGA;NA
+nigeria;NG;rice;yp;t/ha;NA;NA;8,925735746;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+rwanda;RW;rice;yp;t/ha;NA;NA;10,68921641;Yp_ir_rice_country.xlsx_CI(1.85420062231442)_GYGA;NA
+senegal;SN;rice;yp;t/ha;NA;NA;7,537281259;Yp_ir_rice_country.xlsx_CI(1.58730158730159)_GYGA;NA
+tanzania;TZ;rice;yp;t/ha;NA;NA;10,82351526;Yp_ir_rice_country.xlsx_CI(1.49705018722556)_GYGA;NA
+brazil;BR;rice;yp;t/ha;NA;NA;14,8484355;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+uruguay;UY;rice;yp;t/ha;NA;NA;14,04849982;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+united states of america;US;rice;yp;t/ha;NA;NA;12,41468073;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+bangladesh;BD;rice;yp;t/ha;NA;NA;11,97582489;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+cambodia;KH;rice;yp;t/ha;NA;NA;9,678571904;Yp_ir_rice_country.xlsx_CI(1.9)_GYGA;NA
+china;CN;rice;yp;t/ha;NA;NA;9,466427925;Yp_ir_rice_country.xlsx_CI(1.46922917283875)_GYGA;NA
+india;IN;rice;yp;t/ha;NA;NA;9,013449092;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+indonesia;ID;rice;yp;t/ha;NA;NA;9,511526946;Yp_ir_rice_country.xlsx_CI(1.93986456806341)_GYGA;NA
+iran;IR;rice;yp;t/ha;NA;NA;7,339603761;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+myanmar;MM;rice;yp;t/ha;NA;NA;10,04792323;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+philippines;PH;rice;yp;t/ha;NA;NA;9,644151528;Yp_ir_rice_country.xlsx_CI(1.81818181818182)_GYGA;NA
+thailand;TH;rice;yp;t/ha;NA;NA;9,90131942;Yp_ir_rice_country.xlsx_CI(2)_GYGA;NA
+viet nam;VN;rice;yp;t/ha;NA;NA;9,457397703;Yp_ir_rice_country.xlsx_CI(2.17299771918022)_GYGA;NA
+egypt;EG;rice;yp;t/ha;NA;NA;11,86563636;Yp_ir_rice_country.xlsx_CI(1)_GYGA;NA
+uganda;UG;rice;yp;t/ha;NA;NA;11,18881711;Yp_ir_rice_country.xlsx_CI(1)_Via Yw;NA
+afghanistan;AF;wheat;yp;t/ha;NA;NA;8,325334813;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+algeria;DZ;wheat;yp;t/ha;NA;NA;8,492788282;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+argentina;AR;wheat;yp;t/ha;NA;NA;8,158072249;Yp_ir_wheat_country.xlsx_CI(1)_Partly extrapolated & partly via Yw;NA
+azerbaijan;AZ;wheat;yp;t/ha;NA;NA;10,96003005;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+canada;CA;wheat;yp;t/ha;NA;NA;10,78133001;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+china;CN;wheat;yp;t/ha;NA;NA;9,560827538;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+egypt;EG;wheat;yp;t/ha;NA;NA;8,363336871;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+iraq;IQ;wheat;yp;t/ha;NA;NA;7,827086928;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+japan;JP;wheat;yp;t/ha;NA;NA;9,286928672;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+kazakhstan;KZ;wheat;yp;t/ha;NA;NA;10,73059858;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+kyrgyzstan;KG;wheat;yp;t/ha;NA;NA;10,80184246;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+libya;LY;wheat;yp;t/ha;NA;NA;8,531122688;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+myanmar;MM;wheat;yp;t/ha;NA;NA;6,997214004;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+nepal;NP;wheat;yp;t/ha;NA;NA;6,452425317;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+north korea;KP;wheat;yp;t/ha;NA;NA;10,24317592;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+pakistan;PK;wheat;yp;t/ha;NA;NA;8,053312976;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+saudi arabia;SA;wheat;yp;t/ha;NA;NA;7,109477888;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+south africa;ZA;wheat;yp;t/ha;NA;NA;7,698357292;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+sudan;SD;wheat;yp;t/ha;NA;NA;7,014636607;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+syria;SY;wheat;yp;t/ha;NA;NA;7,998854349;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+tajikistan;TJ;wheat;yp;t/ha;NA;NA;8,890678955;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+turkey;TR;wheat;yp;t/ha;NA;NA;10,50565587;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+turkmenistan;TM;wheat;yp;t/ha;NA;NA;8,487468385;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+united states;US;wheat;yp;t/ha;NA;NA;10,48425166;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+uzbekistan;UZ;wheat;yp;t/ha;NA;NA;9,630173193;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+yemen;YE;wheat;yp;t/ha;NA;NA;7,929329587;Yp_ir_wheat_country.xlsx_CI(1)_Extrapolated;NA
+morocco;MA;wheat;yp;t/ha;NA;NA;6,526003827;Yp_ir_wheat_country.xlsx_CI(1)_GYGA;NA
+tunisia;TN;wheat;yp;t/ha;NA;NA;6,317854718;Yp_ir_wheat_country.xlsx_CI(1)_GYGA;NA
+bangladesh;BD;wheat;yp;t/ha;NA;NA;4,942594892;Yp_ir_wheat_country.xlsx_CI(1)_GYGA;NA
+india;IN;wheat;yp;t/ha;NA;NA;6,379082316;Yp_ir_wheat_country.xlsx_CI(1)_GYGA;NA
+iran;IR;wheat;yp;t/ha;NA;NA;8,818691708;Yp_ir_wheat_country.xlsx_CI(1)_GYGA;NA
+mexico;MX;wheat;yp;t/ha;NA;NA;9,346347253;Yp_ir_wheat_country.xlsx_CI(1)_GYGA;NA
+australia;AU;wheat;yp;t/ha;NA;NA;6,955792197;Yp_ir_wheat_country.xlsx_CI(1)_Yp GYGA via Yw;NA
+denmark;DK;wheat;yp;t/ha;NA;NA;11,2639343;Yp_ir_wheat_country.xlsx_CI(1)_Yp GYGA via Yw;NA
+france;FR;wheat;yp;t/ha;NA;NA;11,09228124;Yp_ir_wheat_country.xlsx_CI(1)_Yp GYGA via Yw;NA
+spain;ES;wheat;yp;t/ha;NA;NA;10,84330476;Yp_ir_wheat_country.xlsx_CI(1)_Yp GYGA via Yw;NA
+austria;AT;maize;yw;t/ha;NA;NA;12,45513952;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+belarus;BY;maize;yw;t/ha;NA;NA;11,45229474;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+belgium;BE;maize;yw;t/ha;NA;NA;12,57568427;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+bosnia and herzegovina;BA;maize;yw;t/ha;NA;NA;6,551662146;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+bulgaria;BG;maize;yw;t/ha;NA;NA;7,329069016;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+croatia;HR;maize;yw;t/ha;NA;NA;9,966075575;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+czech republic;CZ;maize;yw;t/ha;NA;NA;9,684121086;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+france;FR;maize;yw;t/ha;NA;NA;9,195467534;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+germany;DE;maize;yw;t/ha;NA;NA;10,95403484;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+hungary;HU;maize;yw;t/ha;NA;NA;8,548644057;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+kosovo;XK;maize;yw;t/ha;NA;NA;5,514117069;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+macedonia, the former yugoslav republic of;MK;maize;yw;t/ha;NA;NA;6,099474236;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+moldova, republic of;MD;maize;yw;t/ha;NA;NA;8,049330978;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+montenegro;ME;maize;yw;t/ha;NA;NA;8,070094305;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+netherlands;NL;maize;yw;t/ha;NA;NA;12,96770409;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+poland;PL;maize;yw;t/ha;NA;NA;10,99442223;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+republic of serbia;RS;maize;yw;t/ha;NA;NA;9,682797003;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+romania;RO;maize;yw;t/ha;NA;NA;9,012733429;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+slovakia;SK;maize;yw;t/ha;NA;NA;9,99039224;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+slovenia;SI;maize;yw;t/ha;NA;NA;11,76610184;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+switzerland;CH;maize;yw;t/ha;NA;NA;12,70092503;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+ukraine;UA;maize;yw;t/ha;NA;NA;8,153796724;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+argentina;AR;maize;yw;t/ha;NA;NA;11,59201621;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+brazil;BR;maize;yw;t/ha;NA;NA;10,81106941;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+uruguay;UY;maize;yw;t/ha;NA;NA;8,07766472;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+united states of america;US;maize;yw;t/ha;NA;NA;12,44067373;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+china;CN;maize;yw;t/ha;NA;NA;10,70215459;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+india;IN;maize;yw;t/ha;NA;NA;9,349161283;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+indonesia;ID;maize;yw;t/ha;NA;NA;11,89164538;Yw_rf_maize_country.xlsx_CI(1.3522632883202)_GYGA;NA
+burkina faso;BF;maize;yw;t/ha;NA;NA;6,251212935;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+ethiopia;ET;maize;yw;t/ha;NA;NA;13,88614535;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+ghana;GH;maize;yw;t/ha;NA;NA;8,638282526;Yw_rf_maize_country.xlsx_CI(1.26203680883135)_GYGA;NA
+kenya;KE;maize;yw;t/ha;NA;NA;7,864188285;Yw_rf_maize_country.xlsx_CI(1.24777921721609)_GYGA;NA
+mali;ML;maize;yw;t/ha;NA;NA;9,679357482;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+nigeria;NG;maize;yw;t/ha;NA;NA;10,77258404;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+tanzania;TZ;maize;yw;t/ha;NA;NA;5,96435725;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+uganda;UG;maize;yw;t/ha;NA;NA;6,850106961;Yw_rf_maize_country.xlsx_CI(1.91193021947102)_GYGA;NA
+zambia;ZM;maize;yw;t/ha;NA;NA;11,32580085;Yw_rf_maize_country.xlsx_CI(1)_GYGA;NA
+angola;AO;maize;yw;t/ha;NA;NA;11,13482112;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+bangladesh;BD;maize;yw;t/ha;NA;NA;11,55707242;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+benin;BJ;maize;yw;t/ha;NA;NA;8,877873688;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+bolivia;BO;maize;yw;t/ha;NA;NA;9,982352706;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+botswana;BW;maize;yw;t/ha;NA;NA;6,033431305;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+burundi;BI;maize;yw;t/ha;NA;NA;10,64937884;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+cambodia;KH;maize;yw;t/ha;NA;NA;9,768475215;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+cameroon;CM;maize;yw;t/ha;NA;NA;7,829854166;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+canada;CA;maize;yw;t/ha;NA;NA;9,911529348;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+central african republic;CF;maize;yw;t/ha;NA;NA;10,28670305;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+chad;TD;maize;yw;t/ha;NA;NA;6,807587632;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+colombia;CO;maize;yw;t/ha;NA;NA;10,63474111;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+côte d'ivoire;CI;maize;yw;t/ha;NA;NA;10,94077802;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+cuba;CU;maize;yw;t/ha;NA;NA;9,909996432;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+democratic republic of the congo;CD;maize;yw;t/ha;NA;NA;9,635349621;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+ecuador;EC;maize;yw;t/ha;NA;NA;8,473166833;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+el salvador;SV;maize;yw;t/ha;NA;NA;12,12357112;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+georgia;GE;maize;yw;t/ha;NA;NA;8,338080545;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+guatemala;GT;maize;yw;t/ha;NA;NA;11,59294435;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+guinea;GN;maize;yw;t/ha;NA;NA;12,75945862;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+haiti;HT;maize;yw;t/ha;NA;NA;12,35213802;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+honduras;HN;maize;yw;t/ha;NA;NA;12,59869141;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+italy;IT;maize;yw;t/ha;NA;NA;11,14677228;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+laos;LA;maize;yw;t/ha;NA;NA;11,3708237;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+lesotho;LS;maize;yw;t/ha;NA;NA;8,95633103;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+madagascar;MG;maize;yw;t/ha;NA;NA;10,10235541;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+malawi;MW;maize;yw;t/ha;NA;NA;12,08881591;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+mexico;MX;maize;yw;t/ha;NA;NA;10,16342867;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+morocco;MA;maize;yw;t/ha;NA;NA;5,41376531;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+mozambique;MZ;maize;yw;t/ha;NA;NA;11,15995297;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+myanmar;MM;maize;yw;t/ha;NA;NA;10,46632026;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+nepal;NP;maize;yw;t/ha;NA;NA;10,29834074;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+nicaragua;NI;maize;yw;t/ha;NA;NA;11,01767922;Yw_rf_maize_country.xlsx_CI(3)_Extrapolated;NA
+north korea;KP;maize;yw;t/ha;NA;NA;12,56488708;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+pakistan;PK;maize;yw;t/ha;NA;NA;8,82344333;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+paraguay;PY;maize;yw;t/ha;NA;NA;12,46861231;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+peru;PE;maize;yw;t/ha;NA;NA;12,46017438;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+philippines;PH;maize;yw;t/ha;NA;NA;12,28715205;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+russia;RU;maize;yw;t/ha;NA;NA;10,33867545;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+rwanda;RW;maize;yw;t/ha;NA;NA;8,129185473;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+senegal;SN;maize;yw;t/ha;NA;NA;7,850399683;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+somalia;SO;maize;yw;t/ha;NA;NA;5,24329168;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+south africa;ZA;maize;yw;t/ha;NA;NA;8,577651582;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+sri lanka;LK;maize;yw;t/ha;NA;NA;10,30457717;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+swaziland;SZ;maize;yw;t/ha;NA;NA;11,00075635;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+thailand;TH;maize;yw;t/ha;NA;NA;10,05095299;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+togo;TG;maize;yw;t/ha;NA;NA;10,44301991;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+turkey;TR;maize;yw;t/ha;NA;NA;7,939680902;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+venezuela;VE;maize;yw;t/ha;NA;NA;10,00422087;Yw_rf_maize_country.xlsx_CI(2)_Extrapolated;NA
+vietnam;VN;maize;yw;t/ha;NA;NA;10,71272473;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+zimbabwe;ZW;maize;yw;t/ha;NA;NA;8,983444199;Yw_rf_maize_country.xlsx_CI(1)_Extrapolated;NA
+brazil;BR;rice;yw;t/ha;NA;NA;9,000576005;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+burkina faso;BF;rice;yw;t/ha;NA;NA;5,343054326;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+cote d'ivoire;CI;rice;yw;t/ha;NA;NA;6,103665562;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+ghana;GH;rice;yw;t/ha;NA;NA;6,62511311;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+mali;ML;rice;yw;t/ha;NA;NA;6,120689795;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+nigeria;NG;rice;yw;t/ha;NA;NA;6,094493723;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+senegal;SN;rice;yw;t/ha;NA;NA;8,535199971;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+tanzania;TZ;rice;yw;t/ha;NA;NA;6,358445248;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+uganda;UG;rice;yw;t/ha;NA;NA;4,081203072;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+zambia;ZM;rice;yw;t/ha;NA;NA;7,891075126;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+bangladesh;BD;rice;yw;t/ha;NA;NA;6,726491645;Yw_rf_rice_country.xlsx_CI(1.08710882148157)_GYGA;NA
+cambodia;KH;rice;yw;t/ha;NA;NA;8,435925488;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+india;IN;rice;yw;t/ha;NA;NA;4,358776159;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+indonesia;ID;rice;yw;t/ha;NA;NA;9,297913933;Yw_rf_rice_country.xlsx_CI(1.29199307357842)_GYGA;NA
+myanmar;MM;rice;yw;t/ha;NA;NA;8,447459784;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+philippines;PH;rice;yw;t/ha;NA;NA;9,061604537;Yw_rf_rice_country.xlsx_CI(1.23118000134951)_GYGA;NA
+thailand;TH;rice;yw;t/ha;NA;NA;5,541327302;Yw_rf_rice_country.xlsx_CI(1)_GYGA;NA
+argentina;AR;rice;yw;t/ha;NA;NA;4,86245503;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+bolivia;BO;rice;yw;t/ha;NA;NA;6,57943861;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+chad;TD;rice;yw;t/ha;NA;NA;6,904982088;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+china;CN;rice;yw;t/ha;NA;NA;6,610978165;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+colombia;CO;rice;yw;t/ha;NA;NA;8,628638446;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+cuba;CU;rice;yw;t/ha;NA;NA;6,674605482;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+democratic republic of the congo;CD;rice;yw;t/ha;NA;NA;7,594644664;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+ecuador;EC;rice;yw;t/ha;NA;NA;8,061413494;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+gambia;GM;rice;yw;t/ha;NA;NA;6,385371233;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+guinea;GN;rice;yw;t/ha;NA;NA;8,28174147;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+guinea-bissau;GW;rice;yw;t/ha;NA;NA;7,991922337;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+guyana;GY;rice;yw;t/ha;NA;NA;8,44915016;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+italy;IT;rice;yw;t/ha;NA;NA;6,359358355;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+japan;JP;rice;yw;t/ha;NA;NA;6,725208524;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+laos;LA;rice;yw;t/ha;NA;NA;6,680285078;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+liberia;LR;rice;yw;t/ha;NA;NA;8,860390507;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+madagascar;MG;rice;yw;t/ha;NA;NA;7,456756367;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+malaysia;MY;rice;yw;t/ha;NA;NA;9,140818995;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+mozambique;MZ;rice;yw;t/ha;NA;NA;6,90126386;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+nepal;NP;rice;yw;t/ha;NA;NA;6,403441238;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+north korea;KP;rice;yw;t/ha;NA;NA;6,211380238;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+pakistan;PK;rice;yw;t/ha;NA;NA;5,452336656;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+panama;PA;rice;yw;t/ha;NA;NA;8,470026562;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+peru;PE;rice;yw;t/ha;NA;NA;7,1711521;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+sierra leone;SL;rice;yw;t/ha;NA;NA;8,523477827;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+sri lanka;LK;rice;yw;t/ha;NA;NA;9,048447802;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+turkey;TR;rice;yw;t/ha;NA;NA;5,777128169;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+turkmenistan;TM;rice;yw;t/ha;NA;NA;5,543364097;Yw_rf_rice_country.xlsx_CI(1)_Extrapolated;NA
+venezuela;VE;rice;yw;t/ha;NA;NA;6,857841236;Yw_rf_rice_country.xlsx_CI(2)_Extrapolated;NA
+vietnam;VN;rice;yw;t/ha;NA;NA;8,397981628;Yw_rf_rice_country.xlsx_CI(3)_Extrapolated;NA
+australia;AU;wheat;yw;t/ha;NA;NA;3,634293365;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+india;IN;wheat;yw;t/ha;NA;NA;4,92278745;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+iran;IR;wheat;yw;t/ha;NA;NA;2,369289482;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+ethiopia;ET;wheat;yw;t/ha;NA;NA;8,282360318;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+kenya;KE;wheat;yw;t/ha;NA;NA;6,036862204;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+tanzania;TZ;wheat;yw;t/ha;NA;NA;4,451177802;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+albania;AL;wheat;yw;t/ha;NA;NA;8,697267185;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+austria;AT;wheat;yw;t/ha;NA;NA;8,638085955;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+belarus;BY;wheat;yw;t/ha;NA;NA;9,201845989;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+belgium;BE;wheat;yw;t/ha;NA;NA;11,30795997;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+bosnia and herzegovina;BA;wheat;yw;t/ha;NA;NA;9,222719352;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+bulgaria;BG;wheat;yw;t/ha;NA;NA;8,111160624;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+croatia;HR;wheat;yw;t/ha;NA;NA;8,042370865;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+cyprus;CY;wheat;yw;t/ha;NA;NA;4,64033495;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+czech republic;CZ;wheat;yw;t/ha;NA;NA;9,268943484;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+denmark;DK;wheat;yw;t/ha;NA;NA;8,092060075;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+estonia;EE;wheat;yw;t/ha;NA;NA;7,864118605;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+finland;FI;wheat;yw;t/ha;NA;NA;7,443399238;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+france;FR;wheat;yw;t/ha;NA;NA;9,812482779;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+germany;DE;wheat;yw;t/ha;NA;NA;9,730620606;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+greece;GR;wheat;yw;t/ha;NA;NA;6,062896456;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+hungary;HU;wheat;yw;t/ha;NA;NA;7,363258669;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+ireland;IE;wheat;yw;t/ha;NA;NA;11,81782821;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+italy;IT;wheat;yw;t/ha;NA;NA;6,488859831;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+kosovo;XK;wheat;yw;t/ha;NA;NA;8,211165741;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+latvia;LV;wheat;yw;t/ha;NA;NA;8,598568981;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+lithuania;LT;wheat;yw;t/ha;NA;NA;8,99140756;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+luxemburg;LU;wheat;yw;t/ha;NA;NA;9,036452381;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+macedonia, the former yugoslav republic of;MK;wheat;yw;t/ha;NA;NA;7,989635195;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+moldova, republic of;MD;wheat;yw;t/ha;NA;NA;6,974204259;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+montenegro;ME;wheat;yw;t/ha;NA;NA;7,566295111;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+netherlands;NL;wheat;yw;t/ha;NA;NA;11,58166132;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+norway;NO;wheat;yw;t/ha;NA;NA;7,199341741;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+poland;PL;wheat;yw;t/ha;NA;NA;9,442747546;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+portugal;PT;wheat;yw;t/ha;NA;NA;5,377626915;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+republic of serbia;RS;wheat;yw;t/ha;NA;NA;8,609929798;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+romania;RO;wheat;yw;t/ha;NA;NA;8,353561862;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+slovakia;SK;wheat;yw;t/ha;NA;NA;8,392707389;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+slovenia;SI;wheat;yw;t/ha;NA;NA;9,107854984;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+spain;ES;wheat;yw;t/ha;NA;NA;6,490330407;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+sweden;SE;wheat;yw;t/ha;NA;NA;8,731859327;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+switzerland;CH;wheat;yw;t/ha;NA;NA;9,662455742;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+ukraine;UA;wheat;yw;t/ha;NA;NA;8,24802263;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+united kingdom;GB;wheat;yw;t/ha;NA;NA;11,51090095;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+argentina;AR;wheat;yw;t/ha;NA;NA;5,162891148;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+uruguay;UY;wheat;yw;t/ha;NA;NA;6,075462264;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+united states of america;US;wheat;yw;t/ha;NA;NA;5,409537352;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+jordan;JO;wheat;yw;t/ha;NA;NA;3,435783373;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+morocco;MA;wheat;yw;t/ha;NA;NA;2,643993835;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+tunisia;TN;wheat;yw;t/ha;NA;NA;3,573196236;Yw_rf_wheat_country.xlsx_CI(1)_GYGA;NA
+afghanistan;AF;wheat;yw;t/ha;NA;NA;4,33308402;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+algeria;DZ;wheat;yw;t/ha;NA;NA;5,032956111;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+armenia;AM;wheat;yw;t/ha;NA;NA;7,124477206;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+azerbaijan;AZ;wheat;yw;t/ha;NA;NA;5,58027133;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+bangladesh;BD;wheat;yw;t/ha;NA;NA;5,695212605;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+bolivia;BO;wheat;yw;t/ha;NA;NA;5,120929828;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+brazil;BR;wheat;yw;t/ha;NA;NA;6,167533536;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+canada;CA;wheat;yw;t/ha;NA;NA;7,807320423;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+chile;CL;wheat;yw;t/ha;NA;NA;8,088138801;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+china;CN;wheat;yw;t/ha;NA;NA;6,113923677;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+iraq;IQ;wheat;yw;t/ha;NA;NA;4,955542305;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+israel;IL;wheat;yw;t/ha;NA;NA;4,10917107;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+japan;JP;wheat;yw;t/ha;NA;NA;8,225520169;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+kazakhstan;KZ;wheat;yw;t/ha;NA;NA;6,972567847;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+kyrgyzstan;KG;wheat;yw;t/ha;NA;NA;5,762965844;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+libya;LY;wheat;yw;t/ha;NA;NA;3,54411298;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+mexico;MX;wheat;yw;t/ha;NA;NA;6,232696117;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+mongolia;MN;wheat;yw;t/ha;NA;NA;7,106072008;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+pakistan;PK;wheat;yw;t/ha;NA;NA;4,122932308;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+paraguay;PY;wheat;yw;t/ha;NA;NA;6,146033775;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+peru;PE;wheat;yw;t/ha;NA;NA;6,477820348;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+russia;RU;wheat;yw;t/ha;NA;NA;8,085870233;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+south africa;ZA;wheat;yw;t/ha;NA;NA;3,894094588;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+syria;SY;wheat;yw;t/ha;NA;NA;2,956228358;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+tajikistan;TJ;wheat;yw;t/ha;NA;NA;5,621511729;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+turkey;TR;wheat;yw;t/ha;NA;NA;4,745389221;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+uzbekistan;UZ;wheat;yw;t/ha;NA;NA;4,592492015;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+yemen;YE;wheat;yw;t/ha;NA;NA;3,572135117;Yw_rf_wheat_country.xlsx_CI(1)_Extrapolated;NA
+bangladesh;BD;maize;irrigated_area;ha;NA;NA;33581,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bangladesh;BD;maize;rainfed_area;ha;NA;NA;114962,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bangladesh;BD;rice;irrigated_area;ha;NA;NA;5366250,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bangladesh;BD;rice;rainfed_area;ha;NA;NA;6103941,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bangladesh;BD;wheat;irrigated_area;ha;NA;NA;307991,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bangladesh;BD;wheat;rainfed_area;ha;NA;NA;73559,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+china;CN;maize;irrigated_area;ha;NA;NA;13763326,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+china;CN;maize;rainfed_area;ha;NA;NA;18664017,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+china;CN;rice;irrigated_area;ha;NA;NA;29877414,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+china;CN;rice;rainfed_area;ha;NA;NA;225904,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+china;CN;wheat;irrigated_area;ha;NA;NA;15038195,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+china;CN;wheat;rainfed_area;ha;NA;NA;9235712,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+indonesia;ID;maize;irrigated_area;ha;NA;NA;396622,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+indonesia;ID;maize;rainfed_area;ha;NA;NA;3655710,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+indonesia;ID;rice;irrigated_area;ha;NA;NA;6662570,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+indonesia;ID;rice;rainfed_area;ha;NA;NA;6450975,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iran;IR;maize;irrigated_area;ha;NA;NA;243246,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iran;IR;rice;irrigated_area;ha;NA;NA;543018,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iran;IR;wheat;irrigated_area;ha;NA;NA;2546945,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iran;IR;wheat;rainfed_area;ha;NA;NA;4139505,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+albania;AL;maize;irrigated_area;ha;NA;NA;32256,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+albania;AL;wheat;rainfed_area;ha;NA;NA;72370,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+france;FR;maize;irrigated_area;ha;NA;NA;788108,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+france;FR;maize;rainfed_area;ha;NA;NA;831175,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+france;FR;wheat;irrigated_area;ha;NA;NA;68747,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+france;FR;wheat;rainfed_area;ha;NA;NA;5565851,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+greece;GR;maize;irrigated_area;ha;NA;NA;201862;harvested_area_world_SPAM2010V2_iso2.csv;NA
+greece;GR;wheat;rainfed_area;ha;NA;NA;602052,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+italy;IT;maize;irrigated_area;ha;NA;NA;403331,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+italy;IT;maize;rainfed_area;ha;NA;NA;542498;harvested_area_world_SPAM2010V2_iso2.csv;NA
+italy;IT;rice;irrigated_area;ha;NA;NA;189256;harvested_area_world_SPAM2010V2_iso2.csv;NA
+italy;IT;rice;rainfed_area;ha;NA;NA;54979,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+italy;IT;wheat;rainfed_area;ha;NA;NA;1759983,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+portugal;PT;maize;irrigated_area;ha;NA;NA;81075,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+portugal;PT;wheat;rainfed_area;ha;NA;NA;51680;harvested_area_world_SPAM2010V2_iso2.csv;NA
+spain;ES;maize;irrigated_area;ha;NA;NA;344403,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+spain;ES;rice;irrigated_area;ha;NA;NA;119651,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+spain;ES;wheat;irrigated_area;ha;NA;NA;59627,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+spain;ES;wheat;rainfed_area;ha;NA;NA;1845523,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+united states of america;US;maize;irrigated_area;ha;NA;NA;5062144,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+united states of america;US;maize;rainfed_area;ha;NA;NA;27905009,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+united states of america;US;rice;irrigated_area;ha;NA;NA;1259254,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+united states;US;wheat;irrigated_area;ha;NA;NA;1240015,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+united states of america;US;wheat;rainfed_area;ha;NA;NA;18079379;harvested_area_world_SPAM2010V2_iso2.csv;NA
+afghanistan;AF;maize;irrigated_area;ha;NA;NA;142902,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+afghanistan;AF;rice;irrigated_area;ha;NA;NA;206001,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+afghanistan;AF;wheat;irrigated_area;ha;NA;NA;1398073,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+afghanistan;AF;wheat;rainfed_area;ha;NA;NA;988901,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+argentina;AR;maize;irrigated_area;ha;NA;NA;154723,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+argentina;AR;maize;rainfed_area;ha;NA;NA;2847038,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+argentina;AR;rice;irrigated_area;ha;NA;NA;162803,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+argentina;AR;rice;rainfed_area;ha;NA;NA;59497,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+argentina;AR;wheat;irrigated_area;ha;NA;NA;72369,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+argentina;AR;wheat;rainfed_area;ha;NA;NA;4008547,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+brazil;BR;maize;irrigated_area;ha;NA;NA;101364,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+brazil;BR;maize;rainfed_area;ha;NA;NA;13082710,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+brazil;BR;rice;irrigated_area;ha;NA;NA;974446,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+brazil;BR;rice;rainfed_area;ha;NA;NA;1807983;harvested_area_world_SPAM2010V2_iso2.csv;NA
+brazil;BR;wheat;rainfed_area;ha;NA;NA;2249258,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+chile;CL;maize;irrigated_area;ha;NA;NA;99339,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+chile;CL;wheat;rainfed_area;ha;NA;NA;238023,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ecuador;EC;maize;irrigated_area;ha;NA;NA;71333,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ecuador;EC;maize;rainfed_area;ha;NA;NA;390964,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ecuador;EC;rice;irrigated_area;ha;NA;NA;148761,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ecuador;EC;rice;rainfed_area;ha;NA;NA;223872,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+egypt;EG;maize;irrigated_area;ha;NA;NA;945694,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+egypt;EG;rice;irrigated_area;ha;NA;NA;542183;harvested_area_world_SPAM2010V2_iso2.csv;NA
+egypt;EG;wheat;irrigated_area;ha;NA;NA;1301314,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guatemala;GT;maize;irrigated_area;ha;NA;NA;77565,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guatemala;GT;maize;rainfed_area;ha;NA;NA;760976,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+india;IN;maize;irrigated_area;ha;NA;NA;1249747,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+india;IN;maize;rainfed_area;ha;NA;NA;7282317,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+india;IN;rice;irrigated_area;ha;NA;NA;22774836,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+india;IN;rice;rainfed_area;ha;NA;NA;20155315,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+india;IN;wheat;irrigated_area;ha;NA;NA;22204476,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+india;IN;wheat;rainfed_area;ha;NA;NA;6238432;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iraq;IQ;maize;irrigated_area;ha;NA;NA;76924,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iraq;IQ;wheat;irrigated_area;ha;NA;NA;638227,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+iraq;IQ;wheat;rainfed_area;ha;NA;NA;603940,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kazakhstan;KZ;maize;irrigated_area;ha;NA;NA;74459,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kazakhstan;KZ;rice;irrigated_area;ha;NA;NA;81835,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kazakhstan;KZ;wheat;irrigated_area;ha;NA;NA;190679,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kazakhstan;KZ;wheat;rainfed_area;ha;NA;NA;13527231,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kyrgyzstan;KG;maize;irrigated_area;ha;NA;NA;59986,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kyrgyzstan;KG;wheat;irrigated_area;ha;NA;NA;314237,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kyrgyzstan;KG;wheat;rainfed_area;ha;NA;NA;69156,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mexico;MX;maize;irrigated_area;ha;NA;NA;1405100,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mexico;MX;maize;rainfed_area;ha;NA;NA;5074952,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mexico;MX;wheat;irrigated_area;ha;NA;NA;610270;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mexico;MX;wheat;rainfed_area;ha;NA;NA;112792;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nepal;NP;maize;irrigated_area;ha;NA;NA;607998,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nepal;NP;maize;rainfed_area;ha;NA;NA;277780;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nepal;NP;rice;irrigated_area;ha;NA;NA;512763,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nepal;NP;rice;rainfed_area;ha;NA;NA;998471,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nepal;NP;wheat;irrigated_area;ha;NA;NA;703042;harvested_area_world_SPAM2010V2_iso2.csv;NA
+pakistan;PK;maize;irrigated_area;ha;NA;NA;843141,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+pakistan;PK;maize;rainfed_area;ha;NA;NA;155743,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+pakistan;PK;rice;irrigated_area;ha;NA;NA;2422180,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+pakistan;PK;rice;rainfed_area;ha;NA;NA;184351,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+pakistan;PK;wheat;irrigated_area;ha;NA;NA;6234565,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+pakistan;PK;wheat;rainfed_area;ha;NA;NA;2791542,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+peru;PE;maize;irrigated_area;ha;NA;NA;361691,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+peru;PE;maize;rainfed_area;ha;NA;NA;134218,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+peru;PE;rice;irrigated_area;ha;NA;NA;153661,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+peru;PE;rice;rainfed_area;ha;NA;NA;230622,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+peru;PE;wheat;rainfed_area;ha;NA;NA;152605,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+philippines;PH;maize;irrigated_area;ha;NA;NA;98913,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+philippines;PH;maize;rainfed_area;ha;NA;NA;2476939,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+philippines;PH;rice;irrigated_area;ha;NA;NA;2630932,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+philippines;PH;rice;rainfed_area;ha;NA;NA;1843421,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+south africa;ZA;maize;irrigated_area;ha;NA;NA;266721,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+south africa;ZA;maize;rainfed_area;ha;NA;NA;2247258,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+south africa;ZA;wheat;irrigated_area;ha;NA;NA;99889,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+south africa;ZA;wheat;rainfed_area;ha;NA;NA;501879,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkey;TR;maize;irrigated_area;ha;NA;NA;119686,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkey;TR;maize;rainfed_area;ha;NA;NA;470476,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkey;TR;rice;rainfed_area;ha;NA;NA;98279,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkey;TR;wheat;irrigated_area;ha;NA;NA;1637681,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkey;TR;wheat;rainfed_area;ha;NA;NA;6437632,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ukraine;UA;maize;irrigated_area;ha;NA;NA;124480;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ukraine;UA;maize;rainfed_area;ha;NA;NA;2635640,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ukraine;UA;wheat;rainfed_area;ha;NA;NA;6520138,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+venezuela;VE;maize;irrigated_area;ha;NA;NA;56015,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+venezuela;VE;maize;rainfed_area;ha;NA;NA;524621,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+venezuela;VE;rice;irrigated_area;ha;NA;NA;152196,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+venezuela;VE;rice;rainfed_area;ha;NA;NA;50589,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+vietnam;VN;maize;irrigated_area;ha;NA;NA;277226;harvested_area_world_SPAM2010V2_iso2.csv;NA
+vietnam;VN;maize;rainfed_area;ha;NA;NA;835124,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+viet nam;VN;rice;irrigated_area;ha;NA;NA;6729449,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+vietnam;VN;rice;rainfed_area;ha;NA;NA;797896,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cameroon;CM;maize;rainfed_area;ha;NA;NA;799584,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cameroon;CM;rice;irrigated_area;ha;NA;NA;61448;harvested_area_world_SPAM2010V2_iso2.csv;NA
+colombia;CO;maize;rainfed_area;ha;NA;NA;568323,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+colombia;CO;rice;irrigated_area;ha;NA;NA;266988,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+colombia;CO;rice;rainfed_area;ha;NA;NA;239071,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+costa rica;CR;rice;irrigated_area;ha;NA;NA;70285,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cuba;CU;maize;rainfed_area;ha;NA;NA;165439;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cuba;CU;rice;irrigated_area;ha;NA;NA;86891,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cuba;CU;rice;rainfed_area;ha;NA;NA;113181,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+dominican republic;DO;rice;irrigated_area;ha;NA;NA;181004,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guinea;GN;maize;rainfed_area;ha;NA;NA;357769,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guinea;GN;rice;irrigated_area;ha;NA;NA;114289,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guinea;GN;rice;rainfed_area;ha;NA;NA;1181524;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guyana;GY;rice;irrigated_area;ha;NA;NA;69421,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guyana;GY;rice;rainfed_area;ha;NA;NA;62782,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+haiti;HT;maize;rainfed_area;ha;NA;NA;390367,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+haiti;HT;rice;irrigated_area;ha;NA;NA;59529,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+japan;JP;rice;irrigated_area;ha;NA;NA;1360772;harvested_area_world_SPAM2010V2_iso2.csv;NA
+japan;JP;rice;rainfed_area;ha;NA;NA;248655,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+japan;JP;wheat;irrigated_area;ha;NA;NA;104891,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+japan;JP;wheat;rainfed_area;ha;NA;NA;104010,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+laos;LA;maize;rainfed_area;ha;NA;NA;210817,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+laos;LA;rice;irrigated_area;ha;NA;NA;344081,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+laos;LA;rice;rainfed_area;ha;NA;NA;486226,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+malaysia;MY;rice;irrigated_area;ha;NA;NA;352133,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+malaysia;MY;rice;rainfed_area;ha;NA;NA;327959,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nicaragua;NI;maize;rainfed_area;ha;NA;NA;342683,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nicaragua;NI;rice;irrigated_area;ha;NA;NA;57788,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+north korea;KP;maize;rainfed_area;ha;NA;NA;503012,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+north korea;KP;rice;irrigated_area;ha;NA;NA;496355,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+north korea;KP;rice;rainfed_area;ha;NA;NA;73645,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+north korea;KP;wheat;irrigated_area;ha;NA;NA;70232,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+paraguay;PY;maize;rainfed_area;ha;NA;NA;807222,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+paraguay;PY;rice;irrigated_area;ha;NA;NA;62692,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+paraguay;PY;wheat;rainfed_area;ha;NA;NA;551068,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+russia;RU;maize;rainfed_area;ha;NA;NA;1248878,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+russia;RU;rice;irrigated_area;ha;NA;NA;195200;harvested_area_world_SPAM2010V2_iso2.csv;NA
+russia;RU;wheat;rainfed_area;ha;NA;NA;24328224,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+south korea;KR;rice;irrigated_area;ha;NA;NA;874885,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+sri lanka;LK;maize;rainfed_area;ha;NA;NA;51682,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+sri lanka;LK;rice;irrigated_area;ha;NA;NA;850694,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+sri lanka;LK;rice;rainfed_area;ha;NA;NA;180576,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+burkina faso;BF;maize;rainfed_area;ha;NA;NA;688010,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+burkina faso;BF;rice;irrigated_area;ha;NA;NA;9164,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+burkina faso;BF;rice;rainfed_area;ha;NA;NA;111577,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ghana;GH;maize;rainfed_area;ha;NA;NA;989752,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ghana;GH;rice;irrigated_area;ha;NA;NA;31391,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ghana;GH;rice;rainfed_area;ha;NA;NA;148962,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+madagascar;MG;maize;rainfed_area;ha;NA;NA;267773,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+madagascar;MG;rice;irrigated_area;ha;NA;NA;1054991,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+madagascar;MG;rice;rainfed_area;ha;NA;NA;190888,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mali;ML;maize;rainfed_area;ha;NA;NA;624009,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mali;ML;rice;irrigated_area;ha;NA;NA;413351,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mali;ML;rice;rainfed_area;ha;NA;NA;240671,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+niger;NE;rice;irrigated_area;ha;NA;NA;57,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nigeria;NG;maize;rainfed_area;ha;NA;NA;4278660,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nigeria;NG;rice;irrigated_area;ha;NA;NA;21584,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+nigeria;NG;rice;rainfed_area;ha;NA;NA;2158061,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+rwanda;RW;maize;rainfed_area;ha;NA;NA;185066,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+rwanda;RW;rice;irrigated_area;ha;NA;NA;8936,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+senegal;SN;maize;rainfed_area;ha;NA;NA;144086,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+senegal;SN;rice;irrigated_area;ha;NA;NA;129844,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+senegal;SN;rice;rainfed_area;ha;NA;NA;2078,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tanzania;TZ;maize;rainfed_area;ha;NA;NA;3055008,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tanzania;TZ;rice;irrigated_area;ha;NA;NA;69977,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tanzania;TZ;rice;rainfed_area;ha;NA;NA;950422,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tanzania;TZ;wheat;rainfed_area;ha;NA;NA;104018,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uruguay;UY;maize;rainfed_area;ha;NA;NA;65284,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uruguay;UY;rice;irrigated_area;ha;NA;NA;166933,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uruguay;UY;wheat;rainfed_area;ha;NA;NA;515538,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cambodia;KH;maize;rainfed_area;ha;NA;NA;203173,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cambodia;KH;rice;irrigated_area;ha;NA;NA;446527,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cambodia;KH;rice;rainfed_area;ha;NA;NA;2360014,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+myanmar;MM;maize;rainfed_area;ha;NA;NA;342166,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+myanmar;MM;rice;irrigated_area;ha;NA;NA;1265827,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+myanmar;MM;rice;rainfed_area;ha;NA;NA;6613025,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+myanmar;MM;wheat;irrigated_area;ha;NA;NA;76428,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+thailand;TH;maize;rainfed_area;ha;NA;NA;1138758,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+thailand;TH;rice;irrigated_area;ha;NA;NA;7162219,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+thailand;TH;rice;rainfed_area;ha;NA;NA;4412202,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uganda;UG;maize;rainfed_area;ha;NA;NA;1010952,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uganda;UG;rice;irrigated_area;ha;NA;NA;50392,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uganda;UG;rice;rainfed_area;ha;NA;NA;37273,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+algeria;DZ;wheat;irrigated_area;ha;NA;NA;52768,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+algeria;DZ;wheat;rainfed_area;ha;NA;NA;1706139,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+azerbaijan;AZ;wheat;irrigated_area;ha;NA;NA;628887,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+azerbaijan;AZ;wheat;rainfed_area;ha;NA;NA;77258,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+canada;CA;maize;rainfed_area;ha;NA;NA;1182007,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+canada;CA;wheat;irrigated_area;ha;NA;NA;368989,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+canada;CA;wheat;rainfed_area;ha;NA;NA;8459930,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+libya;LY;wheat;irrigated_area;ha;NA;NA;85083;harvested_area_world_SPAM2010V2_iso2.csv;NA
+libya;LY;wheat;rainfed_area;ha;NA;NA;88244;harvested_area_world_SPAM2010V2_iso2.csv;NA
+saudi arabia;SA;wheat;irrigated_area;ha;NA;NA;168209,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+sudan;SD;wheat;irrigated_area;ha;NA;NA;264849,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+syria;SY;wheat;irrigated_area;ha;NA;NA;566956;harvested_area_world_SPAM2010V2_iso2.csv;NA
+syria;SY;wheat;rainfed_area;ha;NA;NA;952217;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tajikistan;TJ;wheat;irrigated_area;ha;NA;NA;191163,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tajikistan;TJ;wheat;rainfed_area;ha;NA;NA;146341,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkmenistan;TM;rice;rainfed_area;ha;NA;NA;52626,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+turkmenistan;TM;wheat;irrigated_area;ha;NA;NA;638457,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uzbekistan;UZ;wheat;irrigated_area;ha;NA;NA;1151056,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+uzbekistan;UZ;wheat;rainfed_area;ha;NA;NA;266329,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+yemen;YE;wheat;irrigated_area;ha;NA;NA;71133;harvested_area_world_SPAM2010V2_iso2.csv;NA
+yemen;YE;wheat;rainfed_area;ha;NA;NA;59106,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+morocco;MA;maize;rainfed_area;ha;NA;NA;177553,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+morocco;MA;wheat;irrigated_area;ha;NA;NA;246732,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+morocco;MA;wheat;rainfed_area;ha;NA;NA;2725931,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tunisia;TN;wheat;irrigated_area;ha;NA;NA;40648,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+tunisia;TN;wheat;rainfed_area;ha;NA;NA;623556,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+australia;AU;wheat;irrigated_area;ha;NA;NA;100227,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+australia;AU;wheat;rainfed_area;ha;NA;NA;13498708,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+denmark;DK;wheat;irrigated_area;ha;NA;NA;70715;harvested_area_world_SPAM2010V2_iso2.csv;NA
+denmark;DK;wheat;rainfed_area;ha;NA;NA;679186,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+austria;AT;maize;rainfed_area;ha;NA;NA;190248;harvested_area_world_SPAM2010V2_iso2.csv;NA
+austria;AT;wheat;rainfed_area;ha;NA;NA;303206,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+belarus;BY;maize;rainfed_area;ha;NA;NA;130475;harvested_area_world_SPAM2010V2_iso2.csv;NA
+belarus;BY;wheat;rainfed_area;ha;NA;NA;601953,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+belgium;BE;maize;rainfed_area;ha;NA;NA;11201,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+belgium;BE;wheat;rainfed_area;ha;NA;NA;198754,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bosnia and herzegovina;BA;maize;rainfed_area;ha;NA;NA;191136,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bosnia and herzegovina;BA;wheat;rainfed_area;ha;NA;NA;60264,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bulgaria;BG;maize;rainfed_area;ha;NA;NA;307012,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bulgaria;BG;wheat;rainfed_area;ha;NA;NA;1174330,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+croatia;HR;maize;rainfed_area;ha;NA;NA;297983,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+croatia;HR;wheat;rainfed_area;ha;NA;NA;166226,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+czech republic;CZ;maize;rainfed_area;ha;NA;NA;109855,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+czech republic;CZ;wheat;rainfed_area;ha;NA;NA;842674,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+germany;DE;maize;rainfed_area;ha;NA;NA;401286,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+germany;DE;wheat;rainfed_area;ha;NA;NA;3257309,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+hungary;HU;maize;rainfed_area;ha;NA;NA;1150194,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+hungary;HU;wheat;rainfed_area;ha;NA;NA;1045214,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+macedonia, the former yugoslav republic of;MK;maize;rainfed_area;ha;NA;NA;29713,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+macedonia, the former yugoslav republic of;MK;wheat;rainfed_area;ha;NA;NA;77933,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+moldova, republic of;MD;maize;rainfed_area;ha;NA;NA;419019,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+moldova, republic of;MD;wheat;rainfed_area;ha;NA;NA;325896,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+montenegro;ME;maize;rainfed_area;ha;NA;NA;2731,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+montenegro;ME;wheat;rainfed_area;ha;NA;NA;779,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+netherlands;NL;maize;rainfed_area;ha;NA;NA;16089,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+netherlands;NL;wheat;rainfed_area;ha;NA;NA;151888,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+poland;PL;maize;rainfed_area;ha;NA;NA;296937;harvested_area_world_SPAM2010V2_iso2.csv;NA
+poland;PL;wheat;rainfed_area;ha;NA;NA;2337001,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+republic of serbia;RS;maize;rainfed_area;ha;NA;NA;1268708,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+republic of serbia;RS;wheat;rainfed_area;ha;NA;NA;602532,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+romania;RO;maize;rainfed_area;ha;NA;NA;2177170,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+romania;RO;wheat;rainfed_area;ha;NA;NA;2079640,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+slovakia;SK;maize;rainfed_area;ha;NA;NA;160798,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+slovakia;SK;wheat;rainfed_area;ha;NA;NA;361131,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+slovenia;SI;maize;rainfed_area;ha;NA;NA;38202,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+slovenia;SI;wheat;rainfed_area;ha;NA;NA;32047,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+switzerland;CH;maize;rainfed_area;ha;NA;NA;14328,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+switzerland;CH;wheat;rainfed_area;ha;NA;NA;90116,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ethiopia;ET;maize;rainfed_area;ha;NA;NA;1893468,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ethiopia;ET;wheat;rainfed_area;ha;NA;NA;1550696,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kenya;KE;maize;rainfed_area;ha;NA;NA;2003743,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+kenya;KE;wheat;rainfed_area;ha;NA;NA;141047,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+zambia;ZM;maize;rainfed_area;ha;NA;NA;1027996,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+zambia;ZM;rice;rainfed_area;ha;NA;NA;17389,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+angola;AO;maize;rainfed_area;ha;NA;NA;1539297,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+benin;BJ;maize;rainfed_area;ha;NA;NA;866935,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bolivia;BO;maize;rainfed_area;ha;NA;NA;340223,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bolivia;BO;rice;rainfed_area;ha;NA;NA;169602,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+bolivia;BO;wheat;rainfed_area;ha;NA;NA;164571,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+botswana;BW;maize;rainfed_area;ha;NA;NA;81642,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+burundi;BI;maize;rainfed_area;ha;NA;NA;118419,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+central african republic;CF;maize;rainfed_area;ha;NA;NA;121970,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+chad;TD;maize;rainfed_area;ha;NA;NA;228388,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+chad;TD;rice;rainfed_area;ha;NA;NA;110183,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+côte d'ivoire;CI;maize;rainfed_area;ha;NA;NA;323691,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cote d'ivoire;CI;rice;rainfed_area;ha;NA;NA;380079,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+democratic republic of the congo;CD;maize;rainfed_area;ha;NA;NA;1484998,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+democratic republic of the congo;CD;rice;rainfed_area;ha;NA;NA;403494;harvested_area_world_SPAM2010V2_iso2.csv;NA
+el salvador;SV;maize;rainfed_area;ha;NA;NA;257724,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+georgia;GE;maize;rainfed_area;ha;NA;NA;99289;harvested_area_world_SPAM2010V2_iso2.csv;NA
+honduras;HN;maize;rainfed_area;ha;NA;NA;296114,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+lesotho;LS;maize;rainfed_area;ha;NA;NA;131464;harvested_area_world_SPAM2010V2_iso2.csv;NA
+malawi;MW;maize;rainfed_area;ha;NA;NA;1660216;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mozambique;MZ;maize;rainfed_area;ha;NA;NA;1703202;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mozambique;MZ;rice;rainfed_area;ha;NA;NA;186822,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+somalia;SO;maize;rainfed_area;ha;NA;NA;53266,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+swaziland;SZ;maize;rainfed_area;ha;NA;NA;61065,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+togo;TG;maize;rainfed_area;ha;NA;NA;525384,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+zimbabwe;ZW;maize;rainfed_area;ha;NA;NA;1453692,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+gambia;GM;rice;rainfed_area;ha;NA;NA;66647,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+guinea-bissau;GW;rice;rainfed_area;ha;NA;NA;91951,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+liberia;LR;rice;rainfed_area;ha;NA;NA;247825,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+panama;PA;rice;rainfed_area;ha;NA;NA;90906,1;harvested_area_world_SPAM2010V2_iso2.csv;NA
+sierra leone;SL;rice;rainfed_area;ha;NA;NA;550685,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+cyprus;CY;wheat;rainfed_area;ha;NA;NA;6097;harvested_area_world_SPAM2010V2_iso2.csv;NA
+estonia;EE;wheat;rainfed_area;ha;NA;NA;120740,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+finland;FI;wheat;rainfed_area;ha;NA;NA;227318,4;harvested_area_world_SPAM2010V2_iso2.csv;NA
+ireland;IE;wheat;rainfed_area;ha;NA;NA;85499,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+latvia;LV;wheat;rainfed_area;ha;NA;NA;297465,8;harvested_area_world_SPAM2010V2_iso2.csv;NA
+lithuania;LT;wheat;rainfed_area;ha;NA;NA;521854,5;harvested_area_world_SPAM2010V2_iso2.csv;NA
+luxemburg;LU;wheat;rainfed_area;ha;NA;NA;13916,2;harvested_area_world_SPAM2010V2_iso2.csv;NA
+norway;NO;wheat;rainfed_area;ha;NA;NA;75857,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+sweden;SE;wheat;rainfed_area;ha;NA;NA;396917,3;harvested_area_world_SPAM2010V2_iso2.csv;NA
+united kingdom;GB;wheat;rainfed_area;ha;NA;NA;1894324,6;harvested_area_world_SPAM2010V2_iso2.csv;NA
+jordan;JO;wheat;rainfed_area;ha;NA;NA;16083,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
+armenia;AM;wheat;rainfed_area;ha;NA;NA;63096,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+israel;IL;wheat;rainfed_area;ha;NA;NA;63060,9;harvested_area_world_SPAM2010V2_iso2.csv;NA
+mongolia;MN;wheat;rainfed_area;ha;NA;NA;226679,7;harvested_area_world_SPAM2010V2_iso2.csv;NA
